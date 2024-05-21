@@ -255,7 +255,7 @@ Figure 6. Forest Health Fund showing capitalization and funding over time.
 
 ![](RackMultipart20240328-1-i56soj_html_892a6e06f57270dc.gif)
 
-Figure 7. Forest Health Fund ledger during a 3-year project cycle. -->
+Figure 7. Forest Health Fund ledger during a 3-year project cycle.
 
 ## Next Steps
 
@@ -272,6 +272,6 @@ An actionable timeline to complete these steps is shown in Table 1.
 
 Table 1. BHC Finance Committee proposed workplan.
 
-[^1]: See the handy [Latecomers Guide to Crypto](https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html#:~:text=At%20a%20very%20basic%20level,computers%20all%20over%20the%20world.) for an explanation of blockchain, cryptocurrency, and decentralized finance.
+[^1]: See the handy [Latecomers Guide to Crypto](https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html#:~:text=At%20a%20very%20basic%20level,computers%20all%20over%20the%20world.) for an explanation of blockchain, cryptocurrency, and decentralized finance. -->
 
-\_This roadmap and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency.
+This roadmap and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency.
