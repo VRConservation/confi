@@ -8,7 +8,7 @@
 
 The Burney-Hat Creek Community Forest and Watershed Group is a collaborative forestry and watershed restoration effort dedicated to improving social, environmental, and economic conditions in the Burney Creek and Hat Creek watersheds. The Fall and Pit River Resource Conservation Districts are working on the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. That project area will cover northeastern CA, including Shasta, Lassen, Modoc, and Siskiyou, Counties. A sub-committee of the Collaborative convened to create a finance roadmap to outline the paths that leverage public and private funds to meet priority project needs for both the Collaborative and the CalFRAME pilot. This document proposes a Conservation Finance Roadmap to support the eventual delivery of public and private finance to support multi-benefit forestry, watershed, and economic development projects. The Roadmap describes the processes linked to creating conservation finance strategies, barriers to arranging private finance, potential solutions to these challenges, resources, recommendations, and next steps for the subcommittee.
 
-![Shape1](RackMultipart20240328-1-i56soj_html_dea25a1a13f92d71.gif) 
+![Shape1](RackMultipart20240328-1-i56soj_html_dea25a1a13f92d71.gif)
 
 Key takeaways gleaned during the process include
 
@@ -118,19 +118,23 @@ Loans are often used by public, private, and nonprofit entities to cover the ini
 Taxes, measures, and fees can effectively raise consistent revenue over longer periods. In 2020, for example, Marin County approved Measure C to fund wildfire prevention and preparedness efforts. The resulting 10-year parcel tax levies $0.10/building ft2 providing nearly $20 mn/yr to prevent and mitigate wildfires in Marin County managed through the [Marin Wildfire Prevention Authority](https://www.marinwildfire.org/) Joint Powers Agreement. Raising taxes can be challenging for rural communities without a strong commercial and private housing real estate market. California law requires voter approval of new or increased taxes. However, when tied to re-investment in the community, tax proponents may succeed in making a case for a temporary assessment.
 
 ### Payments for Ecosystem Services
+
 State and federal grants for conservation, wildfire mitigation, and restoration are indirect payments from the public for ecosystem services and biodiversity conservation. In any given region, however, the public's willingness to pay for additional benefits may often be voluntary, e.g., a GoFundMe campaign or a specialized nonprofit that funds and works to protect a local trail system, a charismatic local species, or a historical monument. However, more organized campaigns may be structured or codified into local or regional policies based on voluntary contributions (e.g., dollar check-off programs). These are often successful in areas that have tourism without entrance fees. One example is the National Forest Foundation's Ski Conservation and Forest Stewardship [Fund](https://www.nationalforests.org/grant-programs/stewardship-funds). Funds come from voluntary guest contributions at ski areas or lodges operating on National Forest System Lands. They must go to restoration projects in the forest where the ski area is located. An opt-out approach works best in these scenarios, e.g., a contributor must uncheck a box to indicate they do not want to contribute.
 
 Larger watershed contribution programs throughout the west combine public and private funds to protect water resources and fund restoration or fire mitigation projects. Typically, these funds are more successful when close to larger urban areas, such as the Salt River Project and the Northern Arizona Forest [Fund](https://www.nationalforests.org/who-we-are/azforestfund). A similar approach could be taken in the Burney-Hat Creek through a regional fund that adds $1 to room nights in all hotels, Airbnb rentals, and outdoor recreation businesses. Another approach would be to connect hunters and anglers who regularly visit the region and are interested in restoring forest, riparian, and other associated habitats.
 
 ### Corporate
+
 Corporate contributions to environmental sustainability are increasing to respond to United Nations Sustainable Development Goals, increased corporate responsibility focus, and links to dependence on natural resources. Funding from corporations can often be a long haul, is heavily dependent on connections within corporate sustainability offices or executive suite officers and may not be similar in size to grants to foundations and public funding sources. However, corporations often offer additional resources in addition to funding. Patagonia, for instance, offers modest grants of approximately $30,000 but also gives access to their communications and media departments to grantees. Corporations are highly interested in payments for ecosystem services and quantifiable outcomes. The parametric insurance example mentioned below is an example where corporate entities have been involved in funding restoration projects that also protect business assets and may offer avoided cost savings or a return on investment.
 
 ### Philanthropic
+
 Philanthropic foundations can play key roles in the development of conservation finance strategies for forest and watershed restoration by providing grants or other investments in the projects or in the organizations that undertake them. Foundations can operate at regional and national levels; across these sectors there is considerable interest in supporting projects that increase climate resilience, boost workforce and economic development, and sustain rural communities. Foundation support may come in the form of grants to cover operating expenses and project development activities by the RCD or a similar project administrator. Some foundations also provide investments, known as Program Related Investments (PRIs) or Mission Related Investments (MRIs) for which they generally expect a below market rate or nominal interest return.
 
 It's notable that the RCD has experience with support from the McConnell Foundation which made a $300,000 grant to support a high priority WUI restoration project. Grants of this nature can provide initial funding which can be leveraged to obtain additional investments in projects or programs.
 
 ## Finance Strategies
+
 Blended financing strategies that assemble a diverse portfolio of funds from public grants and add private resources can be key to creating a locally appropriate and collaborative finance portfolio. We believe these strategies may support forest and watershed restoration projects undertaken by BHC and economic or community development efforts that can support those restoration projects.
 
 ### Collaborative Finance
@@ -157,7 +161,7 @@ For example, through a coalition of public and private partners, the [Southwest 
 
 Because of its revolving loan nature, the impact of the fund will continue to grow over time as capital is redeployed for forest health treatments in new areas beyond this initial plan. The Environmental Impact Fund will deploy financing for an initial proposed plan to reduce wildfire risk over 64,871 acres in Southwest Colorado, encompassing private, federal, state, local, and tribal lands. An analysis of three representative parcels within the larger proposed geography demonstrated a benefit-cost ratio of nearly 300% based on avoided risk and damage to properties, infrastructure, and water resources if a wildfire were to occur. In addition, an estimated 287,708 green tons of biomass would be made available through the treatments, which can be converted to electricity or other commercial uses if biomass plants can be built to consume the woody by-products of forest restoration projects.
 
-![Shape5](RackMultipart20240328-1-i56soj_html_7f5d8fcc6f998782.gif)Blue Forest Conservation's[Forest Resilience Bond](https://www.blueforest.org/forest-resilience-bond) adopts a different approach. The Bond, more of a revolving loan instrument, is not, strictly speaking, an outcomes-based financing strategy. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the agency's funding. The payor for the project, Yuba Water Agency, makes payments to investors that are not linked to achieving any of the project's many benefits.  Blue Forest is also developing a larger Revolving Fund that would be capable of supporting multiple projects, scaling up the Forest Resilience Bond without custom tailoring investment packages for each project. This emerging fund could be a major source of funding for BHC without requiring as much pre-development work by the RCD or partner. Such a multi-project fund could greatly ease the burden and cost of conducting a feasibility study and greatly increase funds available for forest restoration and wood utilization projects.
+![Shape5](RackMultipart20240328-1-i56soj_html_7f5d8fcc6f998782.gif)Blue Forest Conservation's[Forest Resilience Bond](https://www.blueforest.org/forest-resilience-bond) adopts a different approach. The Bond, more of a revolving loan instrument, is not, strictly speaking, an outcomes-based financing strategy. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the agency's funding. The payor for the project, Yuba Water Agency, makes payments to investors that are not linked to achieving any of the project's many benefits. Blue Forest is also developing a larger Revolving Fund that would be capable of supporting multiple projects, scaling up the Forest Resilience Bond without custom tailoring investment packages for each project. This emerging fund could be a major source of funding for BHC without requiring as much pre-development work by the RCD or partner. Such a multi-project fund could greatly ease the burden and cost of conducting a feasibility study and greatly increase funds available for forest restoration and wood utilization projects.
 
 ### Avoided Wildfire Emissions
 
@@ -218,7 +222,7 @@ The following broad recommendations are offered, followed by a more specific mod
 
 The Collaborative could pursue three predominant pathways, with the third (full model) being the preferred pathway (Figure 4):
 
- ![Shape6](RackMultipart20240328-1-i56soj_html_f927746e8c68aa3.gif)
+ <!-- ![Shape6](RackMultipart20240328-1-i56soj_html_f927746e8c68aa3.gif)
 1. **Grants**. Pursue business as usual with loans complementing existing grant funds. Although large amounts of grant funding are becoming increasingly available through block grants and new programs, this model will likely change with changing state and federal funding over time. A grants-only approach does not leverage private funds or smooth the peaks and valleys of funding availability over time.
 2. **Grants Plus**. The Avoided Wildfire Emissions Protocol and potential carbon offset sales could create meaningful but small funding availability that could complement grant funding sources.
 3. **Full Finance Model**. The full model would complement public funds with private investments, the emissions protocol, and a project platform connecting funders and investors to project implementers (Figure 5, Figure 6). This option is the highest priority pathway to pursue, but given its complexity, need to connect to investors, and size, it will take much more time and effort to develop.
@@ -251,7 +255,7 @@ Figure 6. Forest Health Fund showing capitalization and funding over time.
 
 ![](RackMultipart20240328-1-i56soj_html_892a6e06f57270dc.gif)
 
-Figure 7. Forest Health Fund ledger during a 3-year project cycle.
+Figure 7. Forest Health Fund ledger during a 3-year project cycle. -->
 
 ## Next Steps
 
@@ -270,5 +274,4 @@ Table 1. BHC Finance Committee proposed workplan.
 
 [^1]: See the handy [Latecomers Guide to Crypto](https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html#:~:text=At%20a%20very%20basic%20level,computers%20all%20over%20the%20world.) for an explanation of blockchain, cryptocurrency, and decentralized finance.
 
-
-_This roadmap and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency._
+\_This roadmap and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency.
