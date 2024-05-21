@@ -1,0 +1,20 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 1_intro
+parts:
+  - caption: Con Finance
+    numbered: True
+    chapters:
+      - file: 3_primer
+      - file: 4_fire
+      - file: 5_water
+      - file: 6_road
+      - file: 7_barriers
+      - file: 8_resources
+  - caption: Appendices
+    numbered: False
+    chapters:
+      - file: 9_authors
+      - file: bibliography
