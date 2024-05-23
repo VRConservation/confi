@@ -1,17 +1,17 @@
 # Introduction
 
-Welcome to the Conservation Finance Book. The articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency.
+Welcome to the Conservation Finance Book. The articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement Technical Assistance grant provided to the Yuba Water Agency.
 
-The foundational document to this series, [Because It's Worth It](http://gg.gg/1aut0n), spawned the additional articles and chapters contained in this book.
+The foundational document to this series, [Because It's Worth It](http://gg.gg/1aut0n), spawned the additional articles and chapters in this book.
 
 ## Conservation Finance
 
-With the wild swings in public fund availability businesses, nonprofits, and agencies are looking for sustainable funding models and approaches that leverage both public and private investments in natural resource conservation and infrastructure.
+With the wild swings in public fund availability, businesses, nonprofits, and agencies seek sustainable funding models and approaches that leverage both public and private investments in natural resource conservation and infrastructure.
 
-Conservation finance offers a groundbreaking approach to securing long-term, sustainable finance to landscape scale conservation and forest health projects. It fosters collaboration between private and public sectors, generating sustainable funding streams. This innovative strategy achieves multiple goals:
+Conservation finance offers a groundbreaking approach to securing long-term, sustainable finance for landscape-scale conservation and forest health projects. It fosters collaboration between private and public sectors, generating sustainable funding streams. This innovative strategy achieves multiple goals:
 
 - Channels capital into forest management projects that offer overlapping ecological, social, and financial outcomes.
-- Attracts private investment by quantifying ecosystem services to create a value proposition for beneficiaries, who in turn will pay for these benefits.
+- Attracts private investment by quantifying ecosystem services to create a value proposition for beneficiaries, who will pay for these benefits.
 - Utilizes partnerships to strengthen the financial foundation for restoration, reforestation, and post-fire recovery.
 - Reduces the burden on public budgets.
 - Increases the pace and scale at which these initiatives are completed.
@@ -37,7 +37,7 @@ The book contains the following chapters:
 
 ## Acknowledgements
 
-The authors offer particular thanks to JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit RCD ), Michelle Wolfgang (USFS), Jonas Epstein (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback and ideas.
+The authors offer particular thanks to JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit RCD ), Michelle Wolfgang (USFS), Jonas Epstein (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback, and ideas.
 
 [^1]: Madison Kirshner, USFS, personal communication.
 
