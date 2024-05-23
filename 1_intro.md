@@ -29,7 +29,7 @@ The book contains the following chapters:
 
 **3. Water**. Examples and cases from water and stormwater management.
 
-**4. Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public funds with private.
+**4. Roadmap**. An updated version of the NE California Finance Roadmap and how NE CA can move towards leveraging public with private funds.
 
 **5. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
 
