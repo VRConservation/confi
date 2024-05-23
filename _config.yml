@@ -3,7 +3,7 @@
 title: Conservation Finance for NE CA
 author: Vance Russell & Jeff Odefey
 copyright: "2024, Built with Jupyter Book"
-logo: logo2.png
+logo: confi.png
 
 # Force re-execution of notebooks on each build.
 execute:
@@ -28,4 +28,4 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  favicon: "logo2.png"
+  favicon: "confi.png"
