@@ -91,6 +91,8 @@ _This paper is one of a series of discussions supported by a California Departme
 Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant
 provided to the Yuba Water Agency._
 
+![pine](/figures/pinebanner.png)
+
 ### Endnotes
 
 [^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
