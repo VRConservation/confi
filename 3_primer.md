@@ -82,9 +82,6 @@ Several municipalities in California pioneered Enhanced Infrastructure Financing
 
 This is not to say that pursuing these approaches to private finance is challenge-free. Some of the costs and challenges will be familiar to public utilities with experience with bond preparation and issuance for capital projects. Considering outcomes-based finance or similar approaches adds some new issues: lack of familiarity and capacity, uncertainty about how to measure outcomes best, and lack of established networks between utilities and investors, to name but a few. The authors of this paper discuss significant impediments and pathways to reduce them in a separate issue brief.
 
-## About
-
-_This paper is one of a series of discussions supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency._
 
 ---
 Endnotes

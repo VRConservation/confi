@@ -84,12 +84,6 @@ As the cliché goes, the flip side of challenges is opportunities. Collaborative
 
 This paper focuses on the challenges and obstacles project stakeholders may encounter within their localized pathway from concept to project delivery. At the same time, the broader project finance community has work to do to acknowledge the existing barriers that have frustrated the wider embrace of outcomes-based private investment in water infrastructure. Several publications have explored this subject and are worth reviewing for those interested in advancing local projects.[^3] Experience tells us that bringing innovations to fruition often takes multiple avenues of action. The compelling pressures of accelerating the need for investment in resilient communities and water systems, coupled with stretched public budgets, make the case for resolving challenges to ‘innovative’ financing.
 
-### Collaborative Finance Series
-
-This finance barriers blog is part three of a series of blogs on collaborative finance. Part one, Finding the Pathway, outlines the steps to collaborative finance. In part two of the series, we provide a primer on alternative approaches to project finance. Future papers will explore solutions to barriers facing collaborative finance and strategies to leverage public grants and loans to secure private investment. A more complete discussion of these strategies can be found in the American Rivers’ report Because It’s Worth It.
-
-_This paper is one of a series of discussions supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency._
-
 ---
 Endnotes
 [^1]: Collaborative finance is an approach to developing financial instruments that involve cooperative interaction between individual project developers, stakeholders, and finance providers. This process may or may not include traditional financial institutions ([collaborativefinance.org](https://www.collaborativefinance.org/)). We broaden the term to include finance developed by fair and equitable participation of stakeholders in a region, landscape, or watershed to address natural resource and infrastructure management needs, utilizing multiple forms of funding from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds.

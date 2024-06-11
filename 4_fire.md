@@ -79,17 +79,6 @@ Training a workforce to work in the woods is a critical current and future need.
 Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight, but perhaps future disasters can be avoided by considering how existing and new
 approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States.
 
-#### COLLABORATIVE FINANCE SERIES
-
-This paper is part four of a series of issue briefs on collaborative finance. Part one, Finding the Pathway,
-outlines the steps to collaborative finance. In part two of the series, we provide a primer on alternative
-approaches to project finance. A third paper explores barriers facing collaborative finance and strategies to
-leverage public grants and loans to secure private investment. A final paper examines strategies for leveraging
-public and private project funding sources.
-
-_This paper is one of a series of discussions supported by a California Department of Water Resources
-Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant
-provided to the Yuba Water Agency._
 
 ![pine](/figures/pinebanner.png)
 
