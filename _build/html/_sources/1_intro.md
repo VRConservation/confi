@@ -5,7 +5,6 @@ Welcome to the Conservation Finance Book. The articles in this book and the unde
 The foundational document to this series, [Because It's Worth It](http://gg.gg/1aut0n), spawned the additional articles and chapters in this book.
 
 ## Conservation Finance
-
 With the wild swings in public fund availability, businesses, nonprofits, and agencies seek sustainable funding models and approaches that leverage both public and private investments in natural resource conservation and infrastructure.
 
 Conservation finance offers a groundbreaking approach to securing long-term, sustainable finance for landscape-scale conservation and forest health projects. It fosters collaboration between private and public sectors, generating sustainable funding streams. This innovative strategy achieves multiple goals:
