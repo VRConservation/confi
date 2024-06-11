@@ -1,7 +1,7 @@
 # Forward
 Towards a new finance model for landscape restoration
 
-Tim Wigington, The Freshwater Trust | Vance Russell, 3point.xyz | Jeff Odefey, One Water Econ
+Authors: 
 
 ## Takeaways
 - Bullet list of key points
