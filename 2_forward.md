@@ -35,7 +35,7 @@ Despite their importance, our ecosystems are significantly underfunded until the
 - Getting beyond the slow uptake curve to rapid uptake.
 - Getting beyond bau especially with local organizations averse to risk or new finance mechanisms.
 
-## Long-term payor plans
+## Payors and watersheds
 There are two main buckets of watershed projects, the second of which currently has limited non-public payor options over the long-term: 
 
 1. Bucket 1 projects produce outcomes that can be sold into existing markets (e.g., sustainable forestry and processing infrastructure – board feet; organic farm conversion – premium food). These projects can be more readily consolidated to an industrial scale and the land used to support this work is primarily or solely used to produce the saleable outcome. These projects have a better chance of weaning off public funding sources as they scale. 
@@ -52,10 +52,10 @@ TFT’s work is focused on bucket 2. In bucket 2, we often need to stack togethe
 
 Given these realities, we are focused on improving public program prioritization, enabling public funds to be better leveraged together, and delivering funding more efficiently to the right projects. Our policy efforts have focused on enabling that future through some of the biggest recurring bucket #2 spending agencies: 
 
-1. Watershed Results Act (worked with Sen. Wyden to develop a pilot outcomes-based purchasing program under US DOI), 
-2. EPA nutrient funding group (co-led a work group with EPA to develop a framework for EPA to integrate its regulatory, SRF/WIFIA financing and watershed work in a similar way – see PDF; late June workshop being hosted at EPA), 
-3. Farm Bill amendments to the partner-led RCPP program (to remedy issues that have plagued the program – see pages 20-22 of PDF for Senate-side edits we led on), 
-4. Protect the West Act (integrated PFP options into USFS spending), and 
+1. Watershed Results Act (worked with Sen. Wyden to develop a pilot outcomes-based purchasing program under US DOI); 
+2. EPA nutrient funding group (co-led a work group with EPA to develop a framework for EPA to integrate its regulatory, SRF/WIFIA financing and watershed work in a similar way – see PDF; late June workshop being hosted at EPA);
+3. Farm Bill amendments to the partner-led RCPP program (to remedy issues that have plagued the program – see pages 20-22 of PDF for Senate-side edits we led on);
+4. Protect the West Act (integrated PFP options into USFS spending); and 
 5. California via the CA Climate Bond (got pilot watershed program into draft – section 91031). 
 
 ## Trends/moving forward
