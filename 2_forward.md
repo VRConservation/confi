@@ -35,7 +35,7 @@ Despite their importance, our ecosystems are significantly underfunded until the
 - Getting beyond the slow uptake curve to rapid uptake.
 - Getting beyond bau especially with local organizations averse to risk or new finance mechanisms.
 
-## Payors and watersheds
+## Watersheds & payors
 There are two main buckets of watershed projects, the second of which currently has limited non-public payor options over the long-term: 
 
 1. Bucket 1 projects produce outcomes that can be sold into existing markets (e.g., sustainable forestry and processing infrastructure – board feet; organic farm conversion – premium food). These projects can be more readily consolidated to an industrial scale and the land used to support this work is primarily or solely used to produce the saleable outcome. These projects have a better chance of weaning off public funding sources as they scale. 
@@ -43,12 +43,12 @@ There are two main buckets of watershed projects, the second of which currently 
 
 In short, our long-term funding plan for bucket #2 work is: 
 
-1. create/amend/move big public programs toward leveraged, prioritized, and streamlined investment;
-2. bring together those pieces in targeted watersheds to prove out the outcomes bank model;
-3. use those better results as the case to maintain or increase funding levels; and
+1. Create/amend/move big public programs toward leveraged, prioritized, and streamlined investment;
+2. Bring together those pieces in targeted watersheds to prove out the outcomes bank model;
+3. Use those better results as the case to maintain or increase funding levels; and
 4. Where they exist, we will also build/stack on other non-public funding sources (e.g., Microsoft and AWS in the Cosumnes), but not lead with them.  
 
-TFT’s work is focused on bucket 2. In bucket 2, we often need to stack together multiple payors to make projects pencil, and most of those payors are public. There are occasional compliance buyers who must act pursuant to the Clean Water Act, ESA, or some other mitigation obligation, but these entities do not exist at a meaningful scale in most watersheds. With a few exceptions, corporate water CSR/supply chain funds have remained orders of magnitude smaller than public funds, and the private markets that do care (e.g., insurance) are still too fragmented or high level to drive meaningful funding at the watershed or project scale. Occasionally, a progressive utility will invest to avoid future potential costs. Accordingly, until major shifts in regulation or corporate behavior or risk mitigation occurs, we believe that public funding programs will continue to do the heavy payor lifting for bucket 2 work. 
+The Freshwater Trust’s work is focused on bucket 2. In bucket 2, we often need to stack together multiple payors to make projects pencil, and most of those payors are public. There are occasional compliance buyers who must act pursuant to the Clean Water Act, ESA, or some other mitigation obligation, but these entities do not exist at a meaningful scale in most watersheds. With a few exceptions, corporate water CSR/supply chain funds have remained orders of magnitude smaller than public funds, and the private markets that do care (e.g., insurance) are still too fragmented or high level to drive meaningful funding at the watershed or project scale. Occasionally, a progressive utility will invest to avoid future potential costs. Accordingly, until major shifts in regulation or corporate behavior or risk mitigation occurs, we believe that public funding programs will continue to do the heavy payor lifting for bucket 2 work. 
 
 Given these realities, we are focused on improving public program prioritization, enabling public funds to be better leveraged together, and delivering funding more efficiently to the right projects. Our policy efforts have focused on enabling that future through some of the biggest recurring bucket #2 spending agencies: 
 

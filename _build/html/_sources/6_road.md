@@ -219,8 +219,8 @@ The following broad recommendations are offered, followed by a more specific mod
 - Raise funds for a feasibility study. Studies cost approximately $100,000 but are a central document for stakeholders and investors to secure project funding needs.
 
 ## Prioritized Pathways
-
-The Collaborative could pursue three predominant pathways, with the third (full model) being the preferred pathway (Figure 4):
+<!-- 
+The Collaborative could pursue three predominant pathways, with the third (full model) being the preferred pathway (Figure 4): -->
 
  <!-- ![Shape6](RackMultipart20240328-1-i56soj_html_f927746e8c68aa3.gif)
 1. **Grants**. Pursue business as usual with loans complementing existing grant funds. Although large amounts of grant funding are becoming increasingly available through block grants and new programs, this model will likely change with changing state and federal funding over time. A grants-only approach does not leverage private funds or smooth the peaks and valleys of funding availability over time.
