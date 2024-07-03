@@ -86,13 +86,8 @@ This is not to say that pursuing these approaches to private finance is challeng
 ---
 Endnotes
 [^1]: Caroline Koch, WaterNow Alliance, personal communication with the author.
-
 [^2]: Quantified Ventures, Outdoor Recreation Outcomes-Based Financing.
-
 [^3]: Abby Martin, Alec Appelbaum, Conservation Finance Network, A Pioneering Environmental Impact Bond for DC Water (Updated).
-
 [^4]: Quantified Ventures, DC Water’s Pioneering Environmental Impact Bond a Success.
-
 [^5]: Southern California Association of Governments, Enhanced Infrastructure Financing Districts.
-
 [^6]: For a more complete discussion, see [Because It’s Worth It](https://srfadacip.com/wp-content/uploads/2022/05/Because-Its-Worth-It_final.pdf).
