@@ -10,6 +10,7 @@ parts:
       - file: 2_forward
       - file: 3_primer
       - file: 4_fire
+      - file: 4_nff
       - file: 5_water
       - file: 6_road
       - file: 6_blue
