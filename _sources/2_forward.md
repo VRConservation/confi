@@ -1,16 +1,18 @@
 # Forward
 Towards a new finance model for landscape restoration
 
-Authors: 
+Tim Wigington | Vance Russell | Jeff Odefey
 
 ## Takeaways
-- Bullet list of key points
+- **New approach/sustinable funding**. Conservation finance is a relatively new approach to funding conservation projects with the ultimate goal of creating more sustainable funding revenue at scale.
+- **Public private partnerships**. One pathway to increasing funding sustainability is leverage public funds with private investment.
+- **Challenges**. Although there are many successful examples, conservation finance has not yet scaled due to factors such as innovation curves, resistance to new approaches, and bespoke solutions in each landscape where it's applied, among others. 
 
 ## Threats
-The escalating crises in our ecological systems are becoming inextricably linked with disruptions to established socioeconomic structures, making them impossible to overlook. For centuries, we have subjugated, paved, and engineered over natural landscapes, forcing them to conform to our desires. There is an expanding understanding of the vital importance of ecosystem services. However, we are now reverse-engineering the very ecosystems that have been artificially manipulated and mismanaged over time to adapt to stabilize communities, habitats, and large-scale industry.
+The deepening implications of global climate change are increasingly apparent in both emerging ecological trends and increasing social and economic disruptions.  The combinations of drought and extreme heat are accelerating the frequency, scale, and intensity of wildfires across the planet. Diminished by drought and shifting precipitation patterns, water supplies in many regions are increasingly challenged to meet human and ecological needs. At the same time, fluctuations in storm patterns are generating floods that stretch or overwhelm existing flood management infrastruture. Responding to these, and other, challenges requires intervention at local, regional, and national scales.  It also requires innovation in the funding, financing, and governance strategies that the public and private sectors must use to plan, develop, and deploy climate resilience strategies.
 
 ## Nature-based solutions
-Despite their importance, our ecosystems are significantly underfunded until the inevitable disasters occur, and taxpayers are left to shoulder the cost. Now is the time to take action and recalibrate capitalist incentives to align with our ecological needs, lest we risk plunging our carefully constructed societal order into disarray.
+Despite their importance, projects intended to protect our communities and ecosystems are routinely and significantly underfunded until an inevitable disasters occurs. As a result, taxpayers are often left to shoulder the (relatively) increased costs of reactive actions to respond to crises. Similarly, traditional approaches to community infrastructure (e.g., water supply systems, flood and stormwater management) and natural resource management are often ill-suited to providing resilience in a changing climate. An alternative and more cost-effectie approach favors up-front investments in actions that use natural processes to increase ecosystem and community resilience to climate change impacts. 
 
 ## Status quo
 - Many approaches work (cf. [conservation evidence database and journal](https://www.conservationevidence.com/)).
@@ -41,7 +43,7 @@ There are two main buckets of watershed projects, the second of which currently 
 1. Bucket 1 projects produce outcomes that can be sold into existing markets (e.g., sustainable forestry and processing infrastructure – board feet; organic farm conversion – premium food). These projects can be more readily consolidated to an industrial scale and the land used to support this work is primarily or solely used to produce the saleable outcome. These projects have a better chance of weaning off public funding sources as they scale. 
 2. Bucket 2 projects are smaller and more distributed, and will continue to require significant subsidies because they usually layer a practice on top of or into the primary land use, take a portion of land out of production, or fix degradation (e.g., on-farm practices, managed aquifer recharge, riparian buffers, post-burn restoration, easements). The primary outcomes from these projects (e.g., water quality, water quantity, GHGs, flood risk reduction, fire risk reduction) usually do not have an existing market into which to sell. 
 
-In short, our long-term funding plan for bucket #2 work is: 
+In short, a long-term funding plan for bucket #2 work is: 
 
 1. Create/amend/move big public programs toward leveraged, prioritized, and streamlined investment;
 2. Bring together those pieces in targeted watersheds to prove out the outcomes bank model;
