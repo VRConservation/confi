@@ -1,4 +1,4 @@
-# Impact Finance Case
+# Impact Finance Cases
 
 Nick Wobbrock, Blue Forest
 

@@ -9,13 +9,13 @@ parts:
     chapters:
       - file: 2_forward
       - file: 3_primer
-      - file: 4_fire
-      - file: 4_nff
-      - file: 5_water
-      - file: 6_road
-      - file: 6_blue
-      - file: 7_barriers
-      - file: 8_resources
+      - file: 4_blue
+      - file: 5_fire
+      - file: 6_nff
+      - file: 7_water
+      - file: 8_road
+      - file: 9_barriers
+      - file: 10_resources
   - caption: Appendices
     numbered: False
     chapters:
