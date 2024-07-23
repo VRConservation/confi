@@ -23,23 +23,25 @@ Conservation finance strategies and case studies are well described across the p
 Where other publications and the focus of impact finance focus on social investment and infrastructure, this book focuses examples and cases on natural resource management, forest health, and watershed restoration.
 
 ## Chapters
-Following the Forward, the book contains the following chapters:
+Following the Introduction, the book contains the following chapters:
 
-**1. Introduction**. Introduction to the book and the chapters.
+**1. Forward**. A look at how conservation finance is evolving, key limitations, and promise.
 
 **2. Primer**. Introduces conservation finance and provides examples and cases.
 
-**3. Fire**. How conservation finance applies to fire and forest health.
+**4. Impact Finance**. An impact finance bond case study from Blue Forest.
 
-**4. NFF**. Placeholder for NFF Chapter
+**5. Fire**. How conservation finance applies to fire and forest health.
 
-**5. Water**. Examples and cases from water and stormwater management.
+**6. NFF**. Placeholder for NFF Chapter
 
-**6. Impact Finance**. An impact finance bond case study from Blue Forest.
+**7. Water**. Examples and cases from water and stormwater management.
 
-**7. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
+**8. Roadmap**. A roadmap for moving conservation to scale.
 
-**8. Resources**. A curated list of resources for conservation finance.
+**9. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
+
+**10. Resources**. A curated list of resources for conservation finance.
 
 ## Acknowledgements
 
