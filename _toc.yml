@@ -7,7 +7,7 @@ parts:
   - caption: Con Finance
     numbered: True
     chapters:
-      - file: 2_forward
+      - file: 2_forward2
       - file: 3_primer
       - file: 4_blue
       - file: 5_fire
