@@ -29,6 +29,7 @@ This incentive- and data-driven approach can deliver leveraged funding to the be
 
 In this book, you’ll see exciting examples of how several innovators have taken this challenge head-on. These “realist idealists” have worked to fit countless square pegs into round holes. Looking forward, it’s time to build from these lessons and collectively implement the best lessons into our conservation funding system so that we graduate from pilots and one-offs into the widespread resilience.
 
+<!-- 
 ## Additional points/notes
 - What happens when funds avail themselves? We’ve seen an unprecedented federal investment over the past five years, yet relatively little coordination outside of specific programs and instances
 - What does the private sector need to do? What do communities need to do? What do governments need to do? What do NGOs need to do?
@@ -40,4 +41,4 @@ In this book, you’ll see exciting examples of how several innovators have take
 - Perverse incentives and policies hinder or destroy conservation/restoration efforts.
 - Scale mismatch between landscape need vs. project level implementation (and funding).
 - Connecting funders to project implementers is difficult, arduous, or takes too long.
-- Environmental pathways for white flag projects are lengthy and take funding away from implementation.
+- Environmental pathways for white flag projects are lengthy and take funding away from implementation. -->
