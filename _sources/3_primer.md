@@ -14,13 +14,11 @@ A parallel news cycle highlighted the increasing appeal of environmental impact 
 - Providing examples and lessons learned from existing finance collaborations
 
 ## Why Conservation Finance?
-
 Impact investment, outcomes-based finance packages, private-public partnerships, and other strategies to access private capital are, in some ways, variations on a time-tested model for accessing the capital needed to fund community infrastructure. Many water utilties have traditionally issued bonds to borrow the money needed to finance sewer systems, water treatment facilities, and other hard infrastructure. Debt-financing these investments has many advantages, including immediate access to the full amount of money needed for projects, reduced upfront costs compared to paying cash for projects, and inter-generational equity that links repayment of the debt to payors who benefit from its services across the project's lifespan. In addition, debt financing may reduce the short-term financial impact on water ratepayers. 
 
 For example, our partners at the WaterNow Alliance point out that if a utility with a 70 million (USD) annual budget were considering investing 10 million (USD) in a major GSI incentive program, the utility would have to raise rates by 14% to pay for the program out of its annual operating budget. If, instead, the utility debt-financed the program and paid for it over 20 years, less than a 1% rate increase would be needed to implement the same $10 million program.[^1]
 
 ## Benefits of Private Finance
-
 - Matches investment-ready capital with on-the-ground restoration projects that yield environmental and social returns.
 - Accelerates the pace and scale at which restoration **(NOTE FROM JO: all preceding text in this section refers to "infrastructure." Need to work in some discussion of restoration for this bullet to be relevant)** work can yield these dual benefits by raising funds upfront and decreasing the time for project completion from decades to 2-3 years.
 - Stabilizes otherwise irregular funding from public sources, allowing work to move forward more rapidly and predictably, significantly aiding cash-poor non-profits and municipalities in starting and completing projects.
@@ -37,7 +35,6 @@ Another benefit can come from using private investment to leverage multiple fund
 ![sac valley](https://i.imgur.com/MpFX6zi.png)
 
 ## Private Investment in Action
-
 There isn’t a one-size-fits-all approach to developing a locally relevant private finance strategy, but some key elements appear in many of the pioneering examples in this field. At a most basic level, private finance of water infrastructure requires relationships between _stakeholders_ or _beneficiaries_ who can participate in the planning and initiation of
 projects. These beneficiaries also may be _investors_ in the project; however, _investors_ may be an entirely separate set of entities.
 
@@ -67,7 +64,6 @@ Blue Forest's Forest Resilience Bond adopts a somewhat different approach. The B
 In the above diagram, the investors (Calvert Impact Capital, AAA Insurance, and others) provide up-front capital by paying into the Forest Resilience Bond. This aggregate fund, administered by the National Forest Foundation, pays contractors and local NGOs to plan and deliver forest and watershed restoration activities. Once completed, Yuba Water Agency (the beneficiary) repays implementation costs to the fund, which repays the investors.
 
 ## Additional Case Studies
-
 In addition to the three examples mentioned above, other experiences with innovative private financing showcase the flexibility and appeal of these strategies.
 
 ```{admonition} Corvias
