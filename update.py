@@ -12,5 +12,5 @@ subprocess.run(["jb", "build", "--all", "."], check=True)
 
 # Push and sync the repository to GitHub make sure to change the 'Update repo' message
 subprocess.run(["git", "add", "."], check=True)
-subprocess.run(["git", "commit", "-m", "chp edits"], check=True)
+subprocess.run(["git", "commit", "-m", "adding coming soon to forward while it's edited"], check=True)
 subprocess.run(["git", "push"], check=True)
