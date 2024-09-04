@@ -42,7 +42,7 @@ This incentive- and data-driven approach can deliver leveraged funding to the be
 
 In this book, you’ll see exciting examples of how several innovators have taken this challenge head-on. These realist idealists have worked to fit countless square pegs into round holes. Looking forward, it’s time to build from these lessons and collectively implement the best lessons into our conservation funding system so that we graduate from pilots and one-offs into widespread resilience.
 
-Here are suggested to-do lists for the private sector, communities, government, and non-profits:
+Here are suggested solutions for the private sector, communities, government, and non-profits:
 
 ### Private Sector
 - Develop a marketplace to connect private investors, payors, and project implementers.
