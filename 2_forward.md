@@ -50,7 +50,7 @@ Here are suggested solutions for the private sector, communities, government, an
 - Develop viable marketplaces for resources other than carbon, such as water, biodiversity, air quality, and other valued public resources.
 
 ### Government
-- Look for ways to reduce the red tape associated with permitting and compliance, especially for white-hat restoration projects incorporating conservation finance.
+- Examine and implement ways to reduce the red tape associated with permitting and compliance, especially for white-hat restoration projects incorporating conservation finance.
 - Fund projects considering and budgeting for scale and replication across larger landscapes.
 - Collaborate with private sector and non-profits to identify and eliminate perverse incentives that hinder conservation efforts.
 
