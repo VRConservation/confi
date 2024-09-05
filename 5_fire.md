@@ -12,7 +12,7 @@ In April 2015, I drove up Highway 50 along the American River Canyon to the Hors
 
 Photo: National Park Service
 
-Reducing these harmful conditions will require forest health and restoration solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
+Reducing these harmful conditions will require forest health and restoration solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[[^ref]]
 
 ![Figure1](https://i.imgur.com/XkBQPmz.png)
 
@@ -21,7 +21,7 @@ impacts.
 
 ## Theory of change
 
-Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change (Figure 1).[^2] To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes (Figure 2). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^3] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes.
+Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change (Figure 1) {cite}`measures`. To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes (Figure 2). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[[^ref]] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes.
 
 ![Figure2](https://i.imgur.com/HO5Zfqy.png)
 
@@ -84,8 +84,6 @@ approaches to mitigate adverse conditions can be exponentially ramped up and coo
 
 ### Endnotes
 
-[^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
+[^ref]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
 
-[^2]: The situation model and results chains shown in Figures 1 and 2 follow the Open Standards for the Practice of Conservation.
-
-[^3]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fire that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems. See Good Fire vs. Bad Fire or view this explainer video on low-intensity fire for more information.
+[^ref]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fire that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems. See Good Fire vs. Bad Fire or view this explainer video on low-intensity fire for more information.
