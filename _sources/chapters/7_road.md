@@ -14,10 +14,9 @@ Key takeaways include the following:
 ## Background
 This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). 
 
-```{admonition} Burney-Hat Creek Collaborative
-:class: dropdwon
+
 In recent decades, local northeast California communities have experienced high rates of unemployment and increased risks of high-severity wildfires, issues the Collaborative actively works to mitigate. The Burney Hat C
-```
+
 
 ```{admonition} Burney-Hat Creek Collaborative
 :class: dropdown
