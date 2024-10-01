@@ -1,42 +1,30 @@
 # Roadmap
 
-## Financing for Forest Health
+**Solutions for Leveraging Private Investment to Support Forest Health and Watershed Restoration.**
 
-**A Roadmap for Accessing Private Investment to Support Fire Risk Reduction and Recovery, Forest Health and Watershed Restoration in Northern California.**
+## Takeaways
+Key takeaways including the following:
 
-## EXECUTIVE SUMMARY
-
-The Burney-Hat Creek Community Forest and Watershed Group is a collaborative forestry and watershed restoration effort dedicated to improving social, environmental, and economic conditions in the Burney Creek and Hat Creek watersheds. The Fall and Pit River Resource Conservation Districts are working on the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. That project area will cover northeastern CA, including Shasta, Lassen, Modoc, and Siskiyou, Counties. A sub-committee of the Collaborative convened to create a finance roadmap to outline the paths that leverage public and private funds to meet priority project needs for both the Collaborative and the CalFRAME pilot. This document proposes a Conservation Finance Roadmap to support the eventual delivery of public and private finance to support multi-benefit forestry, watershed, and economic development projects. The Roadmap describes the processes linked to creating conservation finance strategies, barriers to arranging private finance, potential solutions to these challenges, resources, recommendations, and next steps for the subcommittee.
-
-![Shape1](RackMultipart20240328-1-i56soj_html_dea25a1a13f92d71.gif)
-
-Key takeaways gleaned during the process include
-
-- A **blend of public and private funding** is needed to accomplish the projects identified in the region at the scale and pace that best responds to emerging risks and opportunities.
+- **Blend public and private**. A blend of public and private funding is needed to accomplish the projects identified in the region at the scale and pace that best responds to emerging risks and opportunities.
 - **Identifying payors** willing to invest in projects based on the value of avoided costs continues to be a challenge for conservation finance development.
-- Tried and tested experience with **wood products operations AND finance** are critical to success for forest management and wood utilization infrastructure operations.
+- **Experience**. Tried and tested experience with wood products operations AND finance are critical to success for forest management and wood utilization infrastructure operations.
+- **Carbon & ecosystem services**. Creating opportunities to complement state and federal funding sources with revenue from payments for the benefits of restoration, forest health management, or mitigation projects, such as the Avoided Wildfire Emissions Protocol could greatly increase the scale and impact of restoration projects in the region.
+- **A centralized administration entity** could play a critical role in managing public grants, contracts, environmental compliance, and private funds. Several of the Office of Planning and Research funded Feedstock Aggregation pilots in Northern California are developing joint powers authorities to consolidate feedstock from forest health projects to increase utilization and use for forest products. 
 
-Recommendations include
-
-- **The region's recommended model for conservation finance includes funding from private investors, foundations, state, and federal sources**. The model includes consideration of additional funding through forms of public and private investment.
-- **An alternative to the full model** would be to complement state and federal funding sources with revenue from payments for the benefits of restoration, forest health management, or mitigation projects, such as the Avoided Wildfire Emissions Protocol.
-- **A centralized administration entity** could play a critical role in managing public grants, contracts, environmental compliance, and private funds. This entity could be housed at one of the RCDs, a local nonprofit, or be created as a new entity to manage funds and administration for any entity, private, public, or individual landowner, implementing forest practices.
-
-## BACKGROUND
-
+## Background
 This Roadmap is intended to provide support to the Fall River RCD and its partners as they plan, secure financial support for, and implement forest health and watershed restoration projects in northern California. This report and the conversations that informed it "nest" against several ongoing planning and implementation efforts in the region, including the Burney Hat Creek Community Forest and Watershed Group, the California Office of Planning and Research Forest Residuals Aggregation Market Expansion (CalFRAME), and individual projects planned by the Fall and Pit River RCDs. To develop this Roadmap, the authors worked with Fall River RCD staff to form a finance subcommittee of the Burney Hat Creek Collaborative. The Collaborative, FRAME feedstock pilot, Burney-Hat Creek Finance sub-committee purpose, and roadmap development process are described in the following paragraphs.
 
-## Burney-Hat Creek Collaborative
-
-![Shape2](RackMultipart20240328-1-i56soj_html_af2cbd7cec5f3539.gif)In recent decades, local northeast California communities have experienced high rates of unemployment and increased risks of high-severity wildfires, issues the Collaborative actively works to mitigate. The Burney Hat Creek Community Forest and Watershed Group ([BHC](https://sierrainstitute.us/program/bhc/)), founded in 2009, is a collaborative forestry effort dedicated to improving social, environmental, and economic conditions in the Burney Creek and Hat Creek watersheds. The Collaborative footprint encompasses 364,250 acres of public, private, and Tribal lands and the communities of Burney, Johnson Park, Hat Creek, Cassel, and Old Station (Figure 1). The Lassen National Forest manages approximately 58 percent of the collaborative footprint, 29 percent is owned by large private forestland owners, seven percent is managed by Lassen Volcanic National Park, and four percent by large ranches, Tribal trust, and allotment lands.
+```{admonition} Burney-Hat Creek Collaborative
+In recent decades, local northeast California communities have experienced high rates of unemployment and increased risks of high-severity wildfires, issues the Collaborative actively works to mitigate. The Burney Hat Creek Community Forest and Watershed Group ([BHC](https://sierrainstitute.us/program/bhc/)), founded in 2009, is a collaborative forestry effort dedicated to improving social, environmental, and economic conditions in the Burney Creek and Hat Creek watersheds. The Collaborative footprint encompasses 364,250 acres of public, private, and Tribal lands and the communities of Burney, Johnson Park, Hat Creek, Cassel, and Old Station (Figure 1). The Lassen National Forest manages approximately 58 percent of the collaborative footprint, 29 percent is owned by large private forestland owners, seven percent is managed by Lassen Volcanic National Park, and four percent by large ranches, Tribal trust, and allotment lands.
 
 The group's vision is to create a fire-resilient forest ecosystem with sustainable populations of wildlife, fisheries, and habitat, functioning and restored watersheds and water quality, protected cultural resources, and appropriate recreational opportunities while also helping to support quality of life, jobs for diverse community members, and economic benefits in local communities. Post-fire recovery following large wildfires, such as the 2021 Dixie Fire, shows the challenges of protecting forests, water supplies, and communities and the need for increased investment to reduce fire risk and create healthier, more resilient forests and watersheds.
+```
 
 ## OPR Feedstock Aggregation
 
-![Shape3](RackMultipart20240328-1-i56soj_html_18aa45b39a13f190.gif)The Fall River Resource Conservation District, working with grant funding from the Office of Planning and Research (OPR), is initiating a Pilot Project known as the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. The project area will cover northeastern CA, including Shasta, Lassen, Modoc, and Siskiyou Counties (Figure 1). Numerous small and industrial businesses are working to sustainably manage California forests in the Wildland Urban Interface (WUI) and wildlands within this geography. The goal is to develop community and ecological resilience, particularly considering California's trending increase in high-intensity catastrophic wildfires (Figure 2). The Dixie Fire in 2021 burned nearly one million acres and was the largest single, non-complex fire
+The Fall River Resource Conservation District, working with grant funding from the Office of Planning and Research (OPR), is initiating a Pilot Project known as the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. The project area will cover northeastern CA, including Shasta, Lassen, Modoc, and Siskiyou Counties (Figure 1). Numerous small and industrial businesses are working to sustainably manage California forests in the Wildland Urban Interface (WUI) and wildlands within this geography. The goal is to develop community and ecological resilience, particularly considering California's trending increase in high-intensity catastrophic wildfires (Figure 2). The Dixie Fire in 2021 burned nearly one million acres and was the largest single, non-complex fire
 
-![Shape4](RackMultipart20240328-1-i56soj_html_a5386bab14f78794.gif)
+
 
 Figure 3. Sample map of treatment projects in Northern California.
 
@@ -161,7 +149,7 @@ For example, through a coalition of public and private partners, the [Southwest 
 
 Because of its revolving loan nature, the impact of the fund will continue to grow over time as capital is redeployed for forest health treatments in new areas beyond this initial plan. The Environmental Impact Fund will deploy financing for an initial proposed plan to reduce wildfire risk over 64,871 acres in Southwest Colorado, encompassing private, federal, state, local, and tribal lands. An analysis of three representative parcels within the larger proposed geography demonstrated a benefit-cost ratio of nearly 300% based on avoided risk and damage to properties, infrastructure, and water resources if a wildfire were to occur. In addition, an estimated 287,708 green tons of biomass would be made available through the treatments, which can be converted to electricity or other commercial uses if biomass plants can be built to consume the woody by-products of forest restoration projects.
 
-![Shape5](RackMultipart20240328-1-i56soj_html_7f5d8fcc6f998782.gif)Blue Forest Conservation's[Forest Resilience Bond](https://www.blueforest.org/forest-resilience-bond) adopts a different approach. The Bond, more of a revolving loan instrument, is not, strictly speaking, an outcomes-based financing strategy. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the agency's funding. The payor for the project, Yuba Water Agency, makes payments to investors that are not linked to achieving any of the project's many benefits. Blue Forest is also developing a larger Revolving Fund that would be capable of supporting multiple projects, scaling up the Forest Resilience Bond without custom tailoring investment packages for each project. This emerging fund could be a major source of funding for BHC without requiring as much pre-development work by the RCD or partner. Such a multi-project fund could greatly ease the burden and cost of conducting a feasibility study and greatly increase funds available for forest restoration and wood utilization projects.
+Blue Forest Conservation's[Forest Resilience Bond](https://www.blueforest.org/forest-resilience-bond) adopts a different approach. The Bond, more of a revolving loan instrument, is not, strictly speaking, an outcomes-based financing strategy. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the agency's funding. The payor for the project, Yuba Water Agency, makes payments to investors that are not linked to achieving any of the project's many benefits. Blue Forest is also developing a larger Revolving Fund that would be capable of supporting multiple projects, scaling up the Forest Resilience Bond without custom tailoring investment packages for each project. This emerging fund could be a major source of funding for BHC without requiring as much pre-development work by the RCD or partner. Such a multi-project fund could greatly ease the burden and cost of conducting a feasibility study and greatly increase funds available for forest restoration and wood utilization projects.
 
 ### Avoided Wildfire Emissions
 
@@ -202,9 +190,6 @@ How does this work for funding, however? Let's examine a hypothetical case based
 5. The project is listed on the exchange if the auction clears the reserve price. Successful bidders get tradable carbon credits, and the project proponents receive upfront funds from the portion of the carbon credits to initiate the project.
 6. Project reporting ensures quality, transparency, and successful projects.
 
-![](RackMultipart20240328-1-i56soj_html_c1a79b17ffef0ed2.png)
-
-Figure 4. Hypothetical project funding engine platform.
 
 ## Recommendations
 
@@ -218,26 +203,8 @@ The following broad recommendations are offered, followed by a more specific mod
 - Take a blended finance approach to fund projects. The blended approach includes matching public grants with private funds and adding marketable forest product sales, carbon credits, and forecasted mitigation units created through thinning and prescribed fire projects enrolled in the future Avoided Wildfire Emissions Protocol.
 - Raise funds for a feasibility study. Studies cost approximately $100,000 but are a central document for stakeholders and investors to secure project funding needs.
 
-## Prioritized Pathways
-<!-- 
-The Collaborative could pursue three predominant pathways, with the third (full model) being the preferred pathway (Figure 4): -->
-
- <!-- ![Shape6](RackMultipart20240328-1-i56soj_html_f927746e8c68aa3.gif)
-1. **Grants**. Pursue business as usual with loans complementing existing grant funds. Although large amounts of grant funding are becoming increasingly available through block grants and new programs, this model will likely change with changing state and federal funding over time. A grants-only approach does not leverage private funds or smooth the peaks and valleys of funding availability over time.
-2. **Grants Plus**. The Avoided Wildfire Emissions Protocol and potential carbon offset sales could create meaningful but small funding availability that could complement grant funding sources.
-3. **Full Finance Model**. The full model would complement public funds with private investments, the emissions protocol, and a project platform connecting funders and investors to project implementers (Figure 5, Figure 6). This option is the highest priority pathway to pursue, but given its complexity, need to connect to investors, and size, it will take much more time and effort to develop.
-
-The restoration and forest/watershed health projects contemplated by the BHC could be effectively advanced through a blended finance strategy that builds on the Forest Resilience Bond model developed by Blue Forest for public lands in the North Yuba River watershed. This project-focused investment may also complement additional financing and grant funding that supports purchasing forestry and mill equipment, job training, and administrative capacity to manage the overall financing strategy. We will take each of these resources in turn.
-
-## Forest Health Fund
-
-To visually capture the Burney-Hat Creek roadmap and based on feedback from multiple committee members and colleagues, we developed a Burney-Hat Creek Forest Health Fund model based on a fund that reaches $20 million in capitalization (Figure 5). The figure is read from left to right, starting with a feasibility study and project proposals to private and public funding sources. Initially, the Fund is capitalized by private investment and is small but grows over time as additional investments and grants are secured.
-
-A key component of the administration of the fund is the Program Administrator. The Administrator would be a regional entity, possibly a nonprofit or Resource Conservation District, that oversees fiduciary management of the fund and contracts and acts as the liaison with private entities and public agencies. The Administrator could hire in-house staff as grant writers, mostly specialists in navigating state grants but capable of assembling applications to federal agencies and foundations.
-
-Another key factor in the model is the verification of outcomes. Metrics need to be broadly applicable across projects and not wholly dedicated to a single investor to increase administrative efficiency and establish success measures to compare metrics and outcomes across projects at multiple scales. The project outcomes would be developed together with funding agencies and investors. Once projects near completion, an independent verifier would evaluate the projects, and if outcomes are reached, payments would be triggered and made by the Fund payors. Ideally Payors have a vested interest in the outcomes that are avoided costs related to their operations. For example, they could be an insurance company interested in reducing the risk of wildfire to homes and keeping home insurance rates low or a private timber company interested in protecting their timber from a wildfire initiated on public lands.
-
-We envision the following steps in capitalizing and implementing the fund over time:
+## Next Steps
+We envision the following steps in capitalizing and implementin a conservation finance fund over time:
 
 1. Collaborative works identify the existing funding situation and solution process, culminating in a feasibility study with predetermined outcome metrics.
 2. Initial funding comes from state and federal grants ($10.2 million, 20% covers administrative costs).
@@ -246,32 +213,3 @@ We envision the following steps in capitalizing and implementing the fund over t
 5. The Avoided Wildfire Emissions Protocol creates forecasted mitigation units (FMUs) based on each planned project or grouping of projects.
 6. When state grant expenses are reimbursed, the invoiced funds are returned to the fund by the program administrator (minus 20% overhead)
 7. When project outcomes are met and verified, an outcome trigger creates a payment return to investors from the project payors. It generates payments for mitigation units from the Avoided Wildfire Emissions protocol.
-
-It is often difficult to follow how the money flows in a fund. We added a finance ledger to show the hypothetical movement of funds through a 3-year cycle (Figure 6). The ledger demonstrates how initial capitalization from private sources can launch the fund and leverage funds from public sources. The start-up funds from private resources allow the expenditures proposed for public funds and cover the delay in the time it takes from expenses to reimbursement from state and federal sources.
-
-![Shape7](RackMultipart20240328-1-i56soj_html_c9e36d5bdc1aa422.gif) ![](RackMultipart20240328-1-i56soj_html_f7c2e9568ddf436f.png)
-
-Figure 6. Forest Health Fund showing capitalization and funding over time.
-
-![](RackMultipart20240328-1-i56soj_html_892a6e06f57270dc.gif)
-
-Figure 7. Forest Health Fund ledger during a 3-year project cycle.
-
-## Next Steps
-
-The Burney-Hat Creek finance roadmap is the initial step in creating a funding portfolio for projects identified in the CalFRAME pilot for NE California and/or the BHC collaborative forest plan. A clearer picture will develop as the pilot's project list is refined and the funding needs are identified. At the same time, the finance subcommittee must continue contacting funders, private and public, and funding processes, such as the project futures platform, that could make a critical difference in funding projects as time progresses. These steps will be instrumental in taking the Forest Health Fund Model from theory to practice. The following next steps could include
-
-- Create a full, prioritized projects list with accurate planning and implementation costs and secured funding. Project prioritization could include raising funds to conduct a Burney-Hat Creek Forest Health Forest Fund. The estimated cost of a study is approximately $100,000.
-  - Continue efforts to obtain grant support from state and federal funding agencies for projects, program administration, and equipment purchase.
-  - Undertake outreach to potential financial service providers, e.g., Blue Forest, Corvias, Environmental Impact Partners. This may include co-developing a blended finance strategy.
-- Develop funding for and implement a project futures platform.
-- Participate in the avoided wildfire emissions protocol
-- Continue regular meetings of the finance work group to progress the funding narrative and needs and connect to private investors. Revise and update an annual funding strategy according to project needs and funding gaps.
-
-An actionable timeline to complete these steps is shown in Table 1.
-
-Table 1. BHC Finance Committee proposed workplan.
-
-[^1]: See the handy [Latecomers Guide to Crypto](https://www.nytimes.com/interactive/2022/03/18/technology/cryptocurrency-crypto-guide.html#:~:text=At%20a%20very%20basic%20level,computers%20all%20over%20the%20world.) for an explanation of blockchain, cryptocurrency, and decentralized finance. -->
-
-This roadmap and the underlying pilot project were originally supported by a California Department of Water Resources Integrated Regional Water Management Disadvantaged Community Involvement, Technical Assistance grant provided to the Yuba Water Agency.
