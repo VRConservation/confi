@@ -37,6 +37,8 @@ With a clear-eyed view of these realities, we cannot simply hope that if we try 
 ## Scale
 During the past decade, there has been unprecedented federal and state investment in forest health and restoration projects. Despite the compelling need and benefits, private investment has yet to match public investments. Scaling conservation finance is also impeded by bespoke, often hyper-local funding that is difficult to replicate at larger scales. The newness of the funding mechanism may be at play here. Still, the needed collaboration to create a conservation finance mechanism takes time to build trust and broach skepticism during implementation. Getting beyond business as usual, especially with risk-averse local organizations, is critical to increasing uptake curves and broadly scaling conservation finance. Multiple examples can further aid scaling acceleration, and private investors can gain confidence in their value with clear, measurable outcomes.
 
+Nature-based solutions may be one of the key ways to scale investment in and solutions for biodiversity conservation and climate change mitigation. 
+
 ## Solutions
 This incentive- and data-driven approach can deliver leveraged funding to the best projects with much greater speed and simplicity and provide us something we’ve been sorely missing: a viable pathway to achieving our long-hoped-for objectives.
 

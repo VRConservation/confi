@@ -2,23 +2,26 @@
 
 **Understanding New Models for Accessing Private Investment**
 
----
 
 ## Background
 With the passage of the Infrastructure Investment and Jobs Act (better known as the Bipartisan Infrastructure Law) in 2021 and the additional resources provided by the Inflation Reduction Act of 2022, there has been much attention on federal funding for the nation’s infrastructure. Water systems, including investments to improve drinking water health and security, wastewater and stormwater systems, and natural infrastructure stand to benefit from this infusion of money. However, underneath this apparent largesse lurks a different truth – over 85% of all investments in our communities’ water infrastructure come from local sources - people like you and me paying our taxes and water bills to our local water utilities. Chronically underfunded, these utilities can benefit not just from infusions of public funds from Washington, DC and state capitals but from smart, innovative financing strategies that leverage private investments to help public funding work harder.
 
-A parallel news cycle highlighted the increasing appeal of environmental impact bonds and similar outcomes-based approaches to financing water infrastructure. The City of Buffalo created a large environmental impact bond to help the city overcome flooding and pollution problems with green infrastructure installations on private property.  Although the City's bond counsel shot down the investment for private properties, the city is doing work on public properties. In California, Blue Forest Conservation and the Yuba Water Agency launched a second Forest Resilience Bond, delivering another 25 million (USD) to forest and watershed health projects in the Northern Sierra. What makes these approaches compelling? How do they work, and what benefits can they provide? This document hopes to clear up some of the mystery around these and other conservation financing strategies by:
+A parallel news cycle highlighted the increasing appeal of environmental impact bonds and similar outcomes-based approaches to financing reduction in wildfire threats. In California, Blue Forest Conservation and the Yuba Water Agency launched a second Forest Resilience Bond in 2021, delivering 25 million (USD) to forest and watershed health projects in the Northern Sierra. Quanitifed ventures launched a private land forestry initiative known as the [Wildfire Mitigation Environmental Impact Fund](https://www.quantifiedventures.com/wildfire-mitigation-environmental-impact-fund), a revolving loan fund that aims to reduce wildfire risk in Southwest Colorado.
 
-- Clearly describing collaborative project finance
-- Unpacking the roles played by participants in these strategies and the structures that deliver private investment to projects
-- Providing examples and lessons learned from existing finance collaborations
+What makes these approaches compelling? How do they work, and what benefits can they provide? This document hopes to clear up some of the mystery around these and other conservation financing strategies by:
+
+- Clearly describing collaborative project finance.
+- Unpacking the roles played by participants in these strategies and the structures that deliver private investment to projects.
+- Providing examples and lessons learned from existing finance collaborations.
 
 ## Why Conservation Finance?
-Impact investment, outcomes-based finance packages, private-public partnerships, and other strategies to access private capital are, in some ways, variations on a time-tested model for accessing the capital needed to fund community infrastructure. Many water utilities have traditionally issued bonds to borrow the money needed to finance sewer systems, water treatment facilities, and other hard infrastructure. Debt-financing these investments has many advantages, including immediate access to the full amount of money needed for projects, reduced upfront costs compared to paying cash for projects, and inter-generational equity that links repayment of the debt to payors who benefit from its services across the project's lifespan. In addition, debt financing may reduce the short-term financial impact on water ratepayers. 
+Impact investment, outcomes-based finance packages, private-public partnerships, and other strategies to access private capital are, in some ways, variations on time-tested models, such as revolving loan funds, for accessing the capital needed to fund community projects and infrastructure. Many water utilities have traditionally issued bonds to borrow the money needed to finance sewer systems, water treatment facilities, and other hard infrastructure. Debt-financing these investments has many advantages, including immediate access to the full amount of money needed for projects, reduced upfront costs compared to paying cash for projects, and inter-generational equity that links repayment of the debt to payors who benefit from its services across the project's lifespan. In addition, debt financing may reduce the short-term financial impact on water ratepayers. 
 
 For example, the WaterNow Alliance point out that if a utility with a 70 million (USD) annual budget were considering investing 10 million (USD) in a major GSI incentive program, the utility would have to raise rates by 14% to pay for the program out of its annual operating budget. If, instead, the utility debt-financed the program and paid for it over 20 years, less than a 1% rate increase would be needed to implement the same $10 million program.[^1]
 
 ## Benefits of Private Finance
+Although not widely used, the benefits of leveraging public funds with private are many:
+
 - Matches investment-ready capital with on-the-ground restoration projects that yield environmental and social returns.
 - Accelerates the pace and scale at which restoration and green infrastructure are funded and scaled. Much of the previous examples noted are infrastructure and water focused. However, integrating nature-based solutions through restoration of riparian, forested, farmland, and other habitats are critical to these efforts. Conservation finance can yield these dual benefits by raising funds upfront and decreasing the time for project completion from decades to 2-3 years.
 - Stabilizes otherwise irregular funding from public sources, allowing work to move forward more rapidly and predictably, significantly aiding cash-poor non-profits and municipalities in starting and completing projects.
@@ -35,8 +38,20 @@ Another benefit can come from using private investment to leverage multiple fund
 ![sac valley](https://i.imgur.com/MpFX6zi.png)
 
 ## Private Investment in Action
-There isn’t a one-size-fits-all approach to developing a locally relevant private finance strategy, but some key elements appear in many of the pioneering examples in this field. At a most basic level, private finance of water infrastructure requires relationships between _stakeholders_ or _beneficiaries_ who can participate in the planning and initiation of
-projects. These beneficiaries also may be _investors_ in the project; however, _investors_ may be an entirely separate set of entities.
+There isn’t a one-size-fits-all approach to developing a locally relevant private finance strategy, but some key elements appear in many of the pioneering examples in this field. At a most basic level, private finance of water infrastructure requires relationships between stakeholders or beneficiaries who can participate in the planning and initiation of projects. These beneficiaries also may be investors in the project; however, investors may be an entirely separate set of entities.
+
+```{admonition} Carbon & Ecosystem Service Markets
+Carbon markets have become a major investment for climate change mitigation helping fund many reforestation and forest conservation projects. Not without their critics or failures, investing and implementing carbon projects can be complicated to develop, implement, and track. Other new markets quantifying biodiversity and water are nascent but offer similar investment promise to protect natural resources and mitigate climate change.
+
+## AWE Protocol
+Spatial Informatics Group and Element Markets developed a forecast methodology under the Climate Forward program to recognize the climate benefits associated with fuel treatment activities that lower the risk of catastrophic forest fires and their emissions. Known as the Avoided Wildfire Emissions Forecast Methodology, the Climate Action Reserve protocol could provide complementary funding for thinning and prescribed fire projects to grants and private investments. The Protocol differs from carbon offsets in that forecasted mitigation units (FMUs) are issued for forecasted greenhouse gas reductions or removals. FMUs are used to mitigate anticipated future emissions, such as wildfires. 
+
+## Markets
+Market prices for carbon credits vary depending on a given project’s size and location, treatment type, and the carbon market or registry used. Carbon credits can be realized for projects of any size and located on federal, state, and private lands. See the Avoided Wildfire Emissions Protocol section as another approach that is easier to implement than carbon sequestration credits or markets since the avoided costs are already calculated, and proponents do not have to seek an entity to purchase the credits.
+
+## Embodied Carbon
+Although it may be several years from implementation, developing and marketing low-carbon building materials is another new opportunity. Buildings are a major source of greenhouse gas emissions, so building decarbonization is a California state priority. Embodied carbon is the lifecycle of greenhouse gas emissions from creating, transporting, and disposing of building materials (Carbon Leadership Forum, 2022). In other words, embodied carbon is any building’s carbon footprint contained in its building materials. It differs from operational carbon, the carbon produced by a building’s energy, heat, and lighting. The California Air Resources Board is developing a comprehensive strategy for embodied carbon and is seeking comments following the signing of ABs 2446 and 43 (CARB, 2024). More details on embodied carbon can be found in this slide deck from a recent California Air Resources Board workshop held on September 19, 2024.
+```
 
 Ultimately, the central role is played by the agency or agencies who are the primary payors for the project. These agency payors are responsible for repaying all debt, including any interest on borrowed money. _Payors_ may be able to draw upon rate or tax revenues and other sources of income to repay the _investors_. In the water sector, payors may be motivated by the need to comply with regulations or other legal mandates, the obsolescence of outdated infrastructure, or the need to respond to emerging conditions or threats. For community groups or other non-agency proponents of a project, establishing a partnership with a payor is instrumental to the success of most financed projects.
 
