@@ -14,6 +14,11 @@ Key takeaways include the following:
 ## Background
 This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). 
 
+```{admonition} City of Salinas
+:class: dropdown
+In 2019, the City of Salinas took Initial steps to set up a thirty-year Design-Build-Finance-Operate community-based public-private partnership. This program is intended to implement and maintain green stormwater infrastructure to meet stormwater permit requirements. Metrics for performance include quantitative environmental and social metrics that will serve as the performance measures for the Partnership. The City planned an initial investment of $50 million depending on establishing a stormwater utility or a cohesive, low-cost, and responsible financing approach.
+```
+
 ```{admonition} Burney-Hat Creek Collaborative
 :class: dropdown
 In recent decades, local northeast California communities have experienced high rates of unemployment and increased risks of high-severity wildfires, issues the Collaborative actively works to mitigate. The Burney Hat Creek Community Forest and Watershed Group ([BHC](https://sierrainstitute.us/program/bhc/)), founded in 2009, is a collaborative forestry effort dedicated to improving social, environmental, and economic conditions in the Burney Creek and Hat Creek watersheds. The Collaborative footprint encompasses 364,250 acres of public, private, and Tribal lands and the communities of Burney, Johnson Park, Hat Creek, Cassel, and Old Station (Figure 1). The Lassen National Forest manages approximately 58 percent of the collaborative footprint, 29 percent is owned by large private forestland owners, seven percent is managed by Lassen Volcanic National Park, and four percent by large ranches, Tribal trust, and allotment lands.
