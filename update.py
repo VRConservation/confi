@@ -14,3 +14,18 @@ subprocess.run(["jb", "build", "--all", "."], check=True)
 subprocess.run(["git", "add", "."], check=True)
 subprocess.run(["git", "commit", "-m", "chapter edits"], check=True)
 subprocess.run(["git", "push"], check=True)
+
+
+# Open local build in web browser
+# Define the path to the intro.html file
+file_path = r'file://D:\OneDrive\1_Consulting\Conservation Finance\confi\_build\html\index.html'
+
+# Define the command to open the file in Brave or Chrome
+# For Brave
+command_brave = f'start brave "{file_path}"'
+
+# For Chrome
+# command_chrome = f'start chrome "{file_path}"'
+
+# Execute the command in Brave. Use command_chrome for Chrome
+subprocess.run(command_brave, shell=True)  # Use command_chrome for Chrome

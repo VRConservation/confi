@@ -33,7 +33,9 @@ Unlike traditional debt financing, non-traditional strategies to access private 
 
 Risk can also be transferred by linking repayment rates to the success of the project; in essence, a water agency is committing to pay for the benefits of a project rather than for the project itself. An interesting example is Bailey’s Trail System Environmental Impact Bond, which is delivering a mountain biking trail network to a rural community in Ohio.[^2] Repayment of this investment isn’t linked to the completion of the trails but to the expected increase in community economic activity in the local community. This economic uplift was the purpose of the project and financing.
 
-Another benefit can come from using private investment to leverage multiple funding sources, creating a portfolio of funds that can repay the initial investment. The North Yuba Forest Resilience Bond is an excellent example of a debt-finance structure that combines private and public funds to accelerate and scale up watershed health projects. **NOTE FROM JO: Add additional info about how the FRB includes private dollars** Finally, private investment strategies may be accessible for green infrastructure and natural infrastructure projects with limited access to federal and state funding and financing programs, such as State Revolving Loan Funds. Impact investment bonds have successfully delivered green stormwater infrastructure projects in Atlanta, the District of Columbia; the North Yuba Forest Resilience Bond is leveraging multiple investments to deliver forest restoration work across tens of thousands of acres in a fire-threatened California watershed.
+Another benefit can come from using private investment to leverage multiple funding sources, creating a portfolio of funds that can repay the initial investment. The North Yuba Forest Resilience Bond is an excellent example of a debt-finance structure that combines private and public funds to accelerate and scale up watershed health projects. Up front private investment comes from insurance companies and foundations and avoided cost payments from Yuba Water agency as the payor.
+
+Finally, private investment strategies may be accessible for green infrastructure and natural infrastructure projects with limited access to federal and state funding and financing programs, such as State Revolving Loan Funds. Impact investment bonds have successfully delivered green stormwater infrastructure projects in Atlanta, the District of Columbia; the North Yuba Forest Resilience Bond is leveraging multiple investments to deliver forest restoration work across tens of thousands of acres in a fire-threatened California watershed.
 
 ![sac valley](https://i.imgur.com/MpFX6zi.png)
 
@@ -43,13 +45,13 @@ There isn’t a one-size-fits-all approach to developing a locally relevant priv
 ```{admonition} Carbon & Ecosystem Service Markets
 Carbon markets have become a major investment for climate change mitigation helping fund many reforestation and forest conservation projects. Not without their critics or failures, investing and implementing carbon projects can be complicated to develop, implement, and track. Other new markets quantifying biodiversity and water are nascent but offer similar investment promise to protect natural resources and mitigate climate change.
 
-## AWE Protocol
+### AWE Protocol
 Spatial Informatics Group and Element Markets developed a forecast methodology under the Climate Forward program to recognize the climate benefits associated with fuel treatment activities that lower the risk of catastrophic forest fires and their emissions. Known as the Avoided Wildfire Emissions Forecast Methodology, the Climate Action Reserve protocol could provide complementary funding for thinning and prescribed fire projects to grants and private investments. The Protocol differs from carbon offsets in that forecasted mitigation units (FMUs) are issued for forecasted greenhouse gas reductions or removals. FMUs are used to mitigate anticipated future emissions, such as wildfires. 
 
-## Markets
+### Markets
 Market prices for carbon credits vary depending on a given project’s size and location, treatment type, and the carbon market or registry used. Carbon credits can be realized for projects of any size and located on federal, state, and private lands. See the Avoided Wildfire Emissions Protocol section as another approach that is easier to implement than carbon sequestration credits or markets since the avoided costs are already calculated, and proponents do not have to seek an entity to purchase the credits.
 
-## Embodied Carbon
+### Embodied Carbon
 Although it may be several years from implementation, developing and marketing low-carbon building materials is another new opportunity. Buildings are a major source of greenhouse gas emissions, so building decarbonization is a California state priority. Embodied carbon is the lifecycle of greenhouse gas emissions from creating, transporting, and disposing of building materials (Carbon Leadership Forum, 2022). In other words, embodied carbon is any building’s carbon footprint contained in its building materials. It differs from operational carbon, the carbon produced by a building’s energy, heat, and lighting. The California Air Resources Board is developing a comprehensive strategy for embodied carbon and is seeking comments following the signing of ABs 2446 and 43 (CARB, 2024). More details on embodied carbon can be found in this slide deck from a recent California Air Resources Board workshop held on September 19, 2024.
 ```
 
