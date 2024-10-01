@@ -22,6 +22,7 @@ The group's vision is to create a fire-resilient forest ecosystem with sustainab
 
 The Fall River Resource Conservation District, working with grant funding from the Office of Planning and Research (OPR), is initiating a Pilot Project known as the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. Numerous small and industrial businesses are working to sustainably manage California forests in this geography's Wildland Urban Interface (WUI) and wildlands. A main goal (and challenge) of the project is developing and sustainably funding a joint powers authority to manage feedstock aggregation in the region.
 ```
+
 The region faces similar challenges faced by other rural forested regions in California: difficulty in sustainable funding, workforce availability and capacity, and transportation.  Workforce development and transportation are beyond the scope of this publication, although some funding could help with each of these two challenges. Let's shift to funding categories possible for similar communities.
 
 ## Funding
