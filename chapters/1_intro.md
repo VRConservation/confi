@@ -1,5 +1,3 @@
-![confi_logo](confi.png)
-
 # Introduction
 Welcome to this Conservation Finance e-Book. Several articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources, Integrated Regional Water Management, and Disadvantaged Community Involvement Technical Assistance grant to the Yuba Water Agency. The resources created under that grant provided a foundation for additional collaboration between the authors of this e-book and for further developing conservation finance strategies in project areas across Northern California. Please see the initial report, [Because It's Worth It](http://gg.gg/1aut0n), and [case studies](https://srfadacip.com/docs) for an additional complements to this book.
 
