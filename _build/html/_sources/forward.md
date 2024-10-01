@@ -35,12 +35,12 @@ With a clear-eyed view of these realities, we cannot simply hope that if we try 
 ## Scale
 During the past decade, there has been unprecedented federal and state investment in forest health and restoration projects. Despite the compelling need and benefits, private investment has yet to match public investments. Scaling conservation finance is also impeded by bespoke, often hyper-local funding that is difficult to replicate at larger scales. The newness of the funding mechanism may be at play here. Still, the needed collaboration to create a conservation finance mechanism takes time to build trust and broach skepticism during implementation. Getting beyond business as usual, especially with risk-averse local organizations, is critical to increasing uptake curves and broadly scaling conservation finance. Multiple examples can further aid scaling acceleration, and private investors can gain confidence in their value with clear, measurable outcomes.
 
-Nature-based solutions may be one of the key ways to scale investment in and solutions for biodiversity conservation and climate change mitigation, but the scale and time mismatch betwen bespoke finance solutions and need for rapid climate change mitigation or ecosystem restoration is a major challenge facing conservation practitioners.
+Nature-based solutions may be one key way to scale investment in and solutions for biodiversity conservation and climate change mitigation, but the scale and time mismatch between bespoke finance solutions and the need for rapid climate change mitigation or ecosystem restoration is a major challenge facing conservation practitioners.
 
 ## Solutions
 This incentive- and data-driven approach can deliver leveraged funding to the best projects with much greater speed and simplicity and provide us something we’ve been sorely missing: a viable pathway to achieving our long-hoped-for objectives. In this book, you’ll see exciting examples of how several innovators have taken this challenge head-on. These realist idealists have worked to fit countless square pegs into round holes. Looking forward, it’s time to build from these lessons and collectively implement the best lessons into our conservation funding system so that we graduate from pilots and one-offs into widespread resilience.
 
-Here are suggested solutions for the private sector, communities, government, and non-profits:
+The following are suggested solutions for the private sector, communities, government, and non-profits:
 
 ### Private Sector
 - Develop a marketplace to connect private investors, payors, and project implementers.
