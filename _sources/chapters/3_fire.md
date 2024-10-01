@@ -12,7 +12,7 @@ In April 2015, I drove up Highway 50 along the American River Canyon to the Hors
 
 Photo: National Park Service
 
-Reducing these harmful conditions will require forest health and restoration solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
+Reducing these harmful conditions will require forest health and restoration solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
 
 ![Figure1](https://i.imgur.com/XkBQPmz.png)
 
@@ -52,7 +52,7 @@ examples of innovative finance approaches include
 - The $25 million Yuba II Forest Resilience Bond on the Tahoe National Forest to restore 48,000 acres. 
 - The Southwest Wildfire Impact Fund takes a similar revolving loan fund approach to foster regional restoration across public and private land in the San Juan National Forest. The fund is capitalized by bond proceeds, grants, and appropriations, disbursing loans to landowners annually to pay for forest health treatments.
 
-Blended, nontraditional funding strategies such as these have three distinct advantages over traditional grants and loans: They shift risk from project implementers or agencies to investors, provide funding faster by providing capital to implementers at project start rather than reimbursement-driven grants, and create new funding sources where funding may be scarce or not enough to fully address the problem at hand.
+Blended, nontraditional funding strategies such as these have three distinct advantages over traditional grants and loans: They shift risk from project implementers or agencies to investors, provide funding faster by providing capital to implementers at project start rather than reimbursement-driven grants, and create new funding sources where funding may be scarce or not enough to address the problem at hand.
 
 One critical barrier to developing non-traditional finance is the lack of payors or entities that repay initial restoration investments, ideally with a modest return. For example, the Yuba Water Agency pays investors in the Yuba II Forest Resilience Bond when predetermined outcomes related to watershed forest health and sedimentation reduction projects are reached following project implementation and validation. Please see the collaborative finance white paper Because It’s Worth It for a full description of payors and impact bonds.
 
@@ -68,10 +68,10 @@ Building a workforce that can ably plan integrated projects, develop creative fi
 
 Huge strides are being made through coordination at the state and local levels. CAL FIRE’s Wood Products and Bioenergy Program has an open request for proposals to fund wood products businesses and build capacity. We can solve multi-disciplinary challenges to implementing forest restoration, energy, safety, and equity by combining best practices and methods from various disciplines. Healthier and more resilient forest ecosystems will result from identifying the relationships between the issues and barriers to increased pace and scale and offering integrated approaches. Testing and refining pilot efforts will be essential to the learning process and ensuring we meet social and ecological goals.
 
-Training a workforce to work in the woods is a critical current and future need. Many community colleges are creating programs to address this for work as variable as forestry to truck driving. For example, Lake Tahoe Community College started a forestry program teaming with the California Conservation Corps and local agencies, and Shasta College has an associate in science degree in forest science and technology. 
+Training a workforce to work in the woods is a critical current and future need. Many community colleges are creating programs to address this for work as variable as forestry to truck driving. For example, Lake Tahoe Community College started a forestry program teaming with the California Conservation Corps and local agencies. Shasta College has an associate's degree in science in forest science and technology. 
 
 ```{admonition} California Conservation Corps
-“The CCC’s partnership with education institutions is extraordinarily beneficial and one we aim to replicate across the state. It’s a huge benefit to our Corpsmembers, who get exposure to college and degree programs that can help them launch well-paying and meaningful careers in forestry and other fields. Together, we’re helping develop a highly-trained workforce.” California Conservation Corps Director, Bruce Saito
+“The CCC’s partnership with education institutions is extraordinarily beneficial and one we aim to replicate across the state. It’s a huge benefit to our Corps members, who get exposure to college and degree programs that can help them launch well-paying and meaningful careers in forestry and other fields. Together, we’re helping develop a highly-trained workforce.” California Conservation Corps Director, Bruce Saito
 ```
 
 ## Parting Thoughts
@@ -85,4 +85,4 @@ approaches to mitigate adverse conditions can be exponentially ramped up and coo
 ---
 Endnotes
 [^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
-[^2]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fire that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems. See Good Fire vs. Bad Fire or view this explainer video on low-intensity fire for more information.
+[^2]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fires that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems. See Good Fire vs. Bad Fire or view this explainer video on low-intensity fire for more information.
