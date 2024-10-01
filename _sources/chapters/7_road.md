@@ -14,9 +14,9 @@ Key takeaways include the following:
 ## Background
 This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). 
 
-```{admonition} City of Salinas
-:class: dropdown
-In 2019, the City of Salinas took Initial steps to set up a thirty-year Design-Build-Finance-Operate community-based public-private partnership. This program is intended to implement and maintain green stormwater infrastructure to meet stormwater permit requirements. Metrics for performance include quantitative environmental and social metrics that will serve as the performance measures for the Partnership. The City planned an initial investment of $50 million depending on establishing a stormwater utility or a cohesive, low-cost, and responsible financing approach.
+```{dropdown} Burney-Hat Creek Collaborative
+:open:
+In recent decades, local northeast California communities have experienced high rates of unemployment and increased risks of high-severity wildfires, issues the Collaborative actively works to mitigate. The Burney Hat C
 ```
 
 ```{admonition} Burney-Hat Creek Collaborative
