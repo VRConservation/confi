@@ -1,20 +1,20 @@
 # Table of contents
 
 format: jb-book
-root: 1_forward
+root: forward
 parts:
   - caption: Con Finance
     numbered: True
     chapters:
-      - file: 2_intro
-      - file: 3_primer
-      - file: 5_fire
-      - file: 6_nff
-      - file: 7_water
-      - file: 8_barriers
-      - file: 9_road
+      - file: chapters/1_intro
+      - file: chapters/2_primer
+      - file: chapters/3_fire
+      - file: chapters/4_nff
+      - file: chapters/5_water
+      - file: chapters/6_barriers
+      - file: chapters/7_road
   - caption: Appendices
     numbered: False
     chapters:
-      - file: 11_authors
+      - file: authors
       - file: bibliography
