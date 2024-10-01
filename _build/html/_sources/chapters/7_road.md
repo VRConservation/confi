@@ -12,7 +12,7 @@ Key takeaways include the following:
 - **Centralized administration entity**. A centralized entity could be critical in managing public grants, contracts, environmental compliance, and private funds. Several of the Office of Planning and Research-funded Feedstock Aggregation pilots in Northern California are developing joint powers authorities to consolidate feedstock from forest health projects to increase utilization and use of forest products. 
 
 ## Background
-This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). The region faces similar challenges faced by other rural forested regions in California: difficulty in sustainable funding, workforce availability and capacity, and transportation. 
+This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). 
 
 ```{admonition} Burney-Hat Creek Collaborative
 :class: dropdown
@@ -22,6 +22,7 @@ The group's vision is to create a fire-resilient forest ecosystem with sustainab
 
 The Fall River Resource Conservation District, working with grant funding from the Office of Planning and Research (OPR), is initiating a Pilot Project known as the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. Numerous small and industrial businesses are working to sustainably manage California forests in this geography's Wildland Urban Interface (WUI) and wildlands. A main goal (and challenge) of the project is developing and sustainably funding a joint powers authority to manage feedstock aggregation in the region.
 ```
+The region faces similar challenges faced by other rural forested regions in California: difficulty in sustainable funding, workforce availability and capacity, and transportation.  Workforce development and transportation are beyond the scope of this publication, although some funding could help with each of these two challenges. Let's shift to funding categories possible for similar communities.
 
 ## Funding
 Funding is a partial solution to several barriers to implementing forest restoration projects. However, rather than focusing on individual funding sources and types, developing strong financial mechanisms that collate a portfolio of funding for any project, program, or landscape may be a higher priority. We have organized this section to be brief and organized to flow from the more traditional funding types to non-traditional and less well-established. The Roadmap is not meant to be a definitive funding guide source; we describe funding and investment resources, including the grant roster developed by project proponents, that may be considered, along with descriptions of non-tradition funding sources.
