@@ -47,5 +47,4 @@ The authors offer particular thanks to Jonas Epstein (USFS), JoAnna Lessard (Yub
 ## Table of Contents
 
 ```{tableofcontents}
-
 ```

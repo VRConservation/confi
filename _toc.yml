@@ -11,8 +11,8 @@ parts:
       - file: 5_fire
       - file: 6_nff
       - file: 7_water
-      - file: 8_road
-      - file: 9_barriers
+      - file: 8_barriers
+      - file: 9_road
   - caption: Appendices
     numbered: False
     chapters:
