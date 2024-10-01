@@ -56,11 +56,6 @@ In 2019, the City of Salinas took Initial steps to set up a thirty-year Design-B
 In March 2015, Prince George's County, Maryland, created the Clean Water Partnership, a community-based public-private partnership to retrofit up to 4,000 acres of impervious surfaces using green infrastructure features. The partnership provides up to 40% of the County’s compliance costs upfront, enabling projects to begin sooner and removing much of the reimbursement challenges typically encountered with public funding. It also greatly reduces the County’s administration and procurement costs by up to 80%. The agreement requires small and minority-powered businesses to be contracted for up to 40% of the total project, creating a projected 5,000 jobs.
 ```
 
-```{admonition} An extra pulldown test
-:class: dropdown
-Does this only work in chapter 5?
-```
-
 ## EIFDs
 Enhanced Infrastructure Financing Districts (EIFDs) are a recent evolution of the tax increment financing tools previously developed in California. They support financing infrastructure projects with anticipated increased property tax revenues associated with the future benefits of the projects [Lefcoe, 2014](http://gg.gg/1caxs7). Revenues from Enhanced Infrastructure Financing Districts can be used for public works, transportation, parks, libraries, and water and sewer facilities—emphasizing sustainable community goals under California’s landmark climate legislation [Flint, 2018](http://gg.gg/1caxsl). Recent revisions to the Enhanced Infrastructure Financing District law reduced some of the challenges to adoption; for example, no public vote is required to establish a District. With this new flexibility, developing an Enhanced Infrastructure Financing District may be useful for funding regional projects that benefit multiple agencies or jurisdictions [CSDA, 2019](http://gg.gg/1caxsy). Indeed, revenues gathered through an Enhanced Infrastructure Financing District may be one option for repaying the investment to secure an environmental impact bond.
 
