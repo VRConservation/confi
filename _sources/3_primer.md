@@ -45,13 +45,13 @@ There isn’t a one-size-fits-all approach to developing a locally relevant priv
 ```{admonition} Carbon & Ecosystem Service Markets
 Carbon markets have become a major investment for climate change mitigation helping fund many reforestation and forest conservation projects. Not without their critics or failures, investing and implementing carbon projects can be complicated to develop, implement, and track. Other new markets quantifying biodiversity and water are nascent but offer similar investment promise to protect natural resources and mitigate climate change.
 
-### AWE Protocol
+**AWE Protocol**
 Spatial Informatics Group and Element Markets developed a forecast methodology under the Climate Forward program to recognize the climate benefits associated with fuel treatment activities that lower the risk of catastrophic forest fires and their emissions. Known as the Avoided Wildfire Emissions Forecast Methodology, the Climate Action Reserve protocol could provide complementary funding for thinning and prescribed fire projects to grants and private investments. The Protocol differs from carbon offsets in that forecasted mitigation units (FMUs) are issued for forecasted greenhouse gas reductions or removals. FMUs are used to mitigate anticipated future emissions, such as wildfires. 
 
-### Markets
+**Markets**
 Market prices for carbon credits vary depending on a given project’s size and location, treatment type, and the carbon market or registry used. Carbon credits can be realized for projects of any size and located on federal, state, and private lands. See the Avoided Wildfire Emissions Protocol section as another approach that is easier to implement than carbon sequestration credits or markets since the avoided costs are already calculated, and proponents do not have to seek an entity to purchase the credits.
 
-### Embodied Carbon
+**Embodied Carbon**
 Although it may be several years from implementation, developing and marketing low-carbon building materials is another new opportunity. Buildings are a major source of greenhouse gas emissions, so building decarbonization is a California state priority. Embodied carbon is the lifecycle of greenhouse gas emissions from creating, transporting, and disposing of building materials (Carbon Leadership Forum, 2022). In other words, embodied carbon is any building’s carbon footprint contained in its building materials. It differs from operational carbon, the carbon produced by a building’s energy, heat, and lighting. The California Air Resources Board is developing a comprehensive strategy for embodied carbon and is seeking comments following the signing of ABs 2446 and 43 (CARB, 2024). More details on embodied carbon can be found in this slide deck from a recent California Air Resources Board workshop held on September 19, 2024.
 ```
 
