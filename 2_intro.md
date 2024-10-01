@@ -40,11 +40,4 @@ After the Forward, the book contains the following chapters:
 **7. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
 
 ## Acknowledgements
-
 The authors offer particular thanks to Jonas Epstein (USFS), JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit Resource Conservation Districts ), Michelle Wolfgang (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback, and ideas.
-
-
-## Table of Contents
-
-```{tableofcontents}
-```
