@@ -11,15 +11,6 @@ Key takeaways include the following:
 - **Carbon & ecosystem services**. Creating opportunities to complement state and federal funding sources with revenue from payments for the benefits of restoration, forest health management, or mitigation projects, such as the Avoided Wildfire Emissions Protocol, could greatly increase the scale and impact of restoration projects in the region.
 - **Centralized administration entity**. A centralized entity could be critical in managing public grants, contracts, environmental compliance, and private funds. Several of the Office of Planning and Research-funded Feedstock Aggregation pilots in Northern California are developing joint powers authorities to consolidate feedstock from forest health projects to increase utilization and use of forest products. 
 
-<details>
-  <summary>Burney-Hat Creek Collaborative</summary>
-  <p>In recent decades, local northeast California communities have experienced high rates of unemployment and increased risks of high-severity wildfires, issues the Collaborative actively works to mitigate. The Burney Hat Creek Community Forest and Watershed Group (<a href="https://sierrainstitute.us/program/bhc/">BHC</a>), founded in 2009, is a collaborative forestry effort dedicated to improving social, environmental, and economic conditions in the Burney Creek and Hat Creek watersheds. The Collaborative footprint encompasses 364,250 acres of public, private, and Tribal lands and the communities of Burney, Johnson Park, Hat Creek, Cassel, and Old Station.</p>
-
-  <p>The group's vision is to create a fire-resilient forest ecosystem with sustainable populations of wildlife, fisheries, and habitat, functioning and restored watersheds and water quality, protected cultural resources, and appropriate recreational opportunities while also helping to support quality of life, jobs for diverse community members, and economic benefits in local communities. Post-fire recovery following large wildfires, such as the 2021 Dixie Fire, shows the challenges of protecting forests, water supplies, and communities and the need for increased investment to reduce fire risk and create healthier, more resilient forests and watersheds.</p>
-
-  <p>The Fall River Resource Conservation District, working with grant funding from the Office of Planning and Research (OPR), is initiating a Pilot Project known as the California Forest Residual Aggregation and Market Enhancement (CalFRAME) Pilot Project to aggregate feedstock so that existing and emerging businesses can secure long-term contracts for forest wood products. Numerous small and industrial businesses are working to sustainably manage California forests in this geography's Wildland Urban Interface (WUI) and wildlands. A main goal (and challenge) of the project is developing and sustainably funding a joint powers authority to manage feedstock aggregation in the region.</p>
-</details>
-
 ## Background
 This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). 
 
