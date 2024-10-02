@@ -12,7 +12,7 @@ Key takeaways include the following:
 - **Centralized administration entity**. A centralized entity could be critical in managing public grants, contracts, environmental compliance, and private funds. Several of the Office of Planning and Research-funded Feedstock Aggregation pilots in Northern California are developing joint powers authorities to consolidate feedstock from forest health projects to increase utilization and use of forest products. 
 
 ## Background
-This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see box). 
+This Roadmap is intended to provide solutions to the many challenges facing conservation finance. Its development started with the Burney-Hat Creek Collaborative (see pulldown). 
 
 ```{admonition} Burney-Hat Creek Collaborative
 :class: dropdown
