@@ -7,11 +7,6 @@
 Photo: Rich Walkling
 
 ## Background
-```{admonition} Test pulldown
-:class: dropdown
-Testing pulldown for another chapter
-```
-
 The pathway to adopting an outcomes-based financing solution promises many natural infrastructure projects, but it is paved with many barriers, obstacles, and challenges. Understanding these and discerning between the challenges that can be addressed, obstacles that can be reduced, and barriers that need to be avoided can be critically important for the local proponents of any project.
 
 While there is considerable enthusiasm for scaling the application of collaborative finance[^1] across the water sector, there has not been commensurate movement to apply these strategies to actual projects. Despite the pioneering work of key non-traditional finance champions (e.g., Quantified Ventures, Blue Forest, and Corvias), the application has mostly been limited to several high-profile pilot or demonstration projects, often supported by philanthropic foundations. As interest in these innovative finance strategies expands, water agencies, land managers, and others interested in accessing new finance mechanisms can benefit from frank reflection on the factors that have frustrated widespread adoption.
