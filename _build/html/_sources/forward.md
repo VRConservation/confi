@@ -27,6 +27,29 @@ At the same time, storm pattern fluctuations generate floods that stretch or ove
 ## Nature-based solutions
 In the face of these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to thin forests, implement better water use technology on farms, and improve habitat in streams and wetlands. However, the current funding, financing, and implementation infrastructure isn’t in place to make this happen.
 
+```{admonition} Watershed Outcomes Bank Funding Model
+:class: dropdown
+
+**Problem**
+The traditional, project-by-project, partner-by-partner approach to funding and implementing conservation and restoration work is not capable of delivering watershed-scale resilience at the pace or scale necessary to adapt to the multiple impacts of climate change. In the current system, funds are split between multiple agency programs with complex fund matching and eligibility requirements; large landscapes are broken into siloed jurisdictional implementation efforts; and local
+stakeholder groups are left in the middle trying to piece together funds to implement a fraction of the needed projects. The urgency of climate change demands that we more rapidly secure, prioritize, and deploy much more funding. Doing that will require a replicable partnership and leveraged co-funding structure.
+
+**Solution**
+A Watershed Outcomes Bank (WOB) framework is a response to all these practical challenges. Watershed-scale resilience can be achieved by leveraging together siloed funding sources, targeting those coordinated funds to high-impact projects across a watershed, simplifying and making more certain the delivery of those funds to partners, and linking together projects throughout a watershed across isolated land management units.
+
+```{figure} /figures/wob.png
+:name: wob
+Map of the project/landscape area in Northern California between Sacramento and Lake Tahoe.
+```
+
+**Framework**
+1. Quantifies regional watershed/landscape resilience targets.
+2. Quantifies potential watershed resilience project benefits or values from a variety of project types that can generate those
+benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurposing leading to water replenishment, carbon sequestration, and economic uplift).
+3. 
+
+```
+
 Despite their importance, projects intended to protect our communities and ecosystems are routinely and significantly underfunded until the inevitable disasters occur. As a result, taxpayers are often left to shoulder the relatively increased costs of reactive actions to respond to crises. Similarly, traditional approaches to community infrastructure, e.g., water supply systems, flood and stormwater management, and natural resource management, often need to be more suited to providing resilience in a changing climate. An alternative and more cost-effective approach favors up-front investments in actions that use natural processes to increase ecosystem and community resilience to climate change impacts.
 
 ## Status quo
