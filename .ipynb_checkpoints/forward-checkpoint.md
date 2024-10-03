@@ -11,9 +11,9 @@ For the TL;DR folks:
 - **Challenges**. Although there are many successful examples, conservation finance has yet to scale due to innovation curves, resistance to new approaches, and bespoke solutions in each landscape where it's applied.
 
 ## Background
-It is impossible to ignore that our natural systems cannot withstand the fast-accelerating threats posed by climate change. These systems—which have long provided us clean air, clean water, flood protection, and beautiful places to recreate—need our help, and they need a lot more of it yesterday. In the face of these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to protect biodiversity, thin forests, reintroduce fire as an ecosystem process, implement better water use technology on farms, and improve habitat in streams and wetlands. However, the current funding, financing, and implementation infrastructure isn’t in place to make this happen.
+It is impossible to ignore that our natural systems cannot withstand the fast-accelerating threats posed by climate change. These systems—which have long provided us clean air, clean water, flood protection, and beautiful places to recreate—need our help, and they need a lot more of it yesterday. In the face of these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to protect biodiversity and thin forests, reintroduce fire as an ecosystem process, implement better water use technology on farms, and improve habitat in streams and wetlands. However, the current funding, financing, and implementation infrastructure isn’t in place to make this happen.
  
-With a clear-eyed view of these realities, we cannot simply hope that if we just try harder within the structures of our conservation system, we’ll magically get bigger, faster, and better results. Instead of accepting good projects here and there as the best we can do, we must set quantifiable targets, intentionally organize our funding, tools, and partners around delivering the projects that can best achieve those targets, and harness the power of finance and capital to catapult projects forward. Simply put, we need a system capable of adding one or two more zeros worth of project areas (and funds supporting them) in each watershed, or we’ll never catch up.
+With a clear-eyed view of these realities, we cannot simply hope that if we try harder within the structures of our conservation system, we’ll magically get bigger, faster, and better results. Instead of accepting good projects here and there as the best we can do, we must set quantifiable targets, intentionally organize our funding, tools, and partners around delivering the projects that can best achieve those targets, and harness the power of finance and capital to catapult projects forward. Simply put, we need a system capable of adding one or two more zeros worth of project areas (and funds supporting them) in each watershed, or we’ll never catch up.
  
 This incentive- and data-driven approach can deliver leveraged funding to the best projects with much greater speed and efficiency and provide us with something we’ve been sorely missing: a viable pathway to achieving our long-term objectives.
  
@@ -26,6 +26,32 @@ At the same time, storm pattern fluctuations generate floods that stretch or ove
 
 ## Nature-based solutions
 In the face of these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to thin forests, implement better water use technology on farms, and improve habitat in streams and wetlands. However, the current funding, financing, and implementation infrastructure isn’t in place to make this happen.
+
+```{admonition} Watershed Outcomes Bank Funding Model
+:class: dropdown
+
+**Problem**<br>
+The traditional, project-by-project, partner-by-partner approach to funding and implementing conservation and restoration work cannot deliver watershed-scale resilience at the pace or scale necessary to adapt to the multiple impacts of climate change. In the current system, funds are split between multiple agency programs with complex fund matching and eligibility requirements; large landscapes are broken into siloed jurisdictional implementation efforts; and local
+stakeholder groups are left in the middle trying to piece together funds to implement a fraction of the needed projects. The urgency of climate change demands that we more rapidly secure, prioritize, and deploy much more funding. Doing that will require a replicable partnership and a leveraged co-funding structure.
+
+**Solution**<br>
+A Watershed Outcomes Bank (WOB) framework responds to all these practical challenges. Watershed-scale resilience can be achieved by leveraging siloed funding sources, targeting those coordinated funds to high-impact projects across a watershed, simplifying and making more certain the delivery of those funds to partners, and linking together projects throughout a watershed across isolated land management units.
+
+![wob](/figures/wob.png)
+
+**Framework**
+1. Quantifies regional watershed/landscape resilience targets.
+2. Quantifies potential watershed resilience project benefits or values from a variety of project types that can generate those
+benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurposing leading to water replenishment, carbon sequestration, and economic uplift).
+3. Identifies the most cost-effective cross-watershed resilience solution to pursue.
+4. Helps organize partner efforts around that optimal solution and then integrates priority project identification, planning, permitting, and coordinated pursuit of funding into an action plan.
+5. Creates a financial hub for the watershed that consolidates matched/leveraged funding sources, improves access to larger-scale financing, and matches funds to high-priority projects.
+6. Helps centralize mechanisms for implementation to meet desired large-scale restoration efforts.
+7. Tracks/manages all projects, reimbursement, accounting, and reporting in a centralized database.
+
+**Landscape funding**<br>
+A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps, creates cash at the right times for landowners, suppliers, and partners, and allows projects to be deployed quicker without timing, cashflow, or operational uncertainties. 
+```
 
 Despite their importance, projects intended to protect our communities and ecosystems are routinely and significantly underfunded until the inevitable disasters occur. As a result, taxpayers are often left to shoulder the relatively increased costs of reactive actions to respond to crises. Similarly, traditional approaches to community infrastructure, e.g., water supply systems, flood and stormwater management, and natural resource management, often need to be more suited to providing resilience in a changing climate. An alternative and more cost-effective approach favors up-front investments in actions that use natural processes to increase ecosystem and community resilience to climate change impacts.
 
@@ -55,7 +81,7 @@ The following are suggested solutions for the private sector, government, commun
 ### Communities & Non-profits
 - Connect with organizations and communities implementing conservation finance mechanisms to understand the benefits, challenges, and lessons learned.
 - For organizations developing conservation finance mechanisms, create clear and honest lessons learned communications guidance for non-profits, government, and the private sector. Work to make connections between projects and funders.
-- Look for ways to create a rising tide that floats all boats, where many NGOs compete for the same funds. Would creating a larger funding pot fund all organizations rather than create competition that costs time and capacity? Are there complementary skills that can be identified and shared? 
+- Look for ways to create a rising tide that floats all boats, where many nonprofits compete for the same funds. Would creating a larger funding pot fund all organizations rather than create competition that costs time and capacity? Are there complementary skills that can be identified and shared? 
 - Measure project outcomes. Register what works in the conservation evidence database.
 - Create an outcomes bank (example from Cosumnes).
 
