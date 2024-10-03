@@ -43,8 +43,14 @@ A Watershed Outcomes Bank (WOB) framework is a response to all these practical c
 1. Quantifies regional watershed/landscape resilience targets.
 2. Quantifies potential watershed resilience project benefits or values from a variety of project types that can generate those
 benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurposing leading to water replenishment, carbon sequestration, and economic uplift).
-3. 
+3. Identifies the most cost-effective cross-watershed resilience solution to pursue.
+4. Helps organize partner efforts around that optimal solution and then integrates priority project identification, planning, permitting, and coordinated pursuit of funding into an action plan.
+5. Creates a financial hub for the watershed that consolidates matched/leveraged funding sources, improves access to larger-scale financing, and matches up funds to the high-priority projects.
+6. Helps centralize mechanisms for implementation to meet desired large-scale restoration efforts.
+7. Tracks/manages all projects, reimbursement, accounting, and reporting in centralized database.
 
+**Landscape funding**
+A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps; creates cash at the right times for landowners, suppliers, and partners; and allows projects to be deployed quicker without timing, cashflow, or operational uncertainties. 
 ```
 
 Despite their importance, projects intended to protect our communities and ecosystems are routinely and significantly underfunded until the inevitable disasters occur. As a result, taxpayers are often left to shoulder the relatively increased costs of reactive actions to respond to crises. Similarly, traditional approaches to community infrastructure, e.g., water supply systems, flood and stormwater management, and natural resource management, often need to be more suited to providing resilience in a changing climate. An alternative and more cost-effective approach favors up-front investments in actions that use natural processes to increase ecosystem and community resilience to climate change impacts.
