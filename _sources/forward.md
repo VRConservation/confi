@@ -30,11 +30,11 @@ In the face of these urgent climate-driven pressures, we must rapidly deliver na
 ```{admonition} Watershed Outcomes Bank Funding Model
 :class: dropdown
 
-**Problem**
+**Problem**<br>
 The traditional, project-by-project, partner-by-partner approach to funding and implementing conservation and restoration work is not capable of delivering watershed-scale resilience at the pace or scale necessary to adapt to the multiple impacts of climate change. In the current system, funds are split between multiple agency programs with complex fund matching and eligibility requirements; large landscapes are broken into siloed jurisdictional implementation efforts; and local
 stakeholder groups are left in the middle trying to piece together funds to implement a fraction of the needed projects. The urgency of climate change demands that we more rapidly secure, prioritize, and deploy much more funding. Doing that will require a replicable partnership and leveraged co-funding structure.
 
-**Solution**
+**Solution**<br>
 A Watershed Outcomes Bank (WOB) framework is a response to all these practical challenges. Watershed-scale resilience can be achieved by leveraging together siloed funding sources, targeting those coordinated funds to high-impact projects across a watershed, simplifying and making more certain the delivery of those funds to partners, and linking together projects throughout a watershed across isolated land management units.
 
 ![wob](/figures/wob.png)
@@ -49,7 +49,7 @@ benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurpos
 6. Helps centralize mechanisms for implementation to meet desired large-scale restoration efforts.
 7. Tracks/manages all projects, reimbursement, accounting, and reporting in centralized database.
 
-**Landscape funding**
+**Landscape funding**<br>
 A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps; creates cash at the right times for landowners, suppliers, and partners; and allows projects to be deployed quicker without timing, cashflow, or operational uncertainties. 
 ```
 
