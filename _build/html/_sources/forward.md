@@ -37,10 +37,7 @@ stakeholder groups are left in the middle trying to piece together funds to impl
 **Solution**
 A Watershed Outcomes Bank (WOB) framework is a response to all these practical challenges. Watershed-scale resilience can be achieved by leveraging together siloed funding sources, targeting those coordinated funds to high-impact projects across a watershed, simplifying and making more certain the delivery of those funds to partners, and linking together projects throughout a watershed across isolated land management units.
 
-```{figure} /figures/wob.png
-:name: wob
-Map of the project/landscape area in Northern California between Sacramento and Lake Tahoe.
-```
+![wob](/figures/wob.png)
 
 **Framework**
 1. Quantifies regional watershed/landscape resilience targets.
