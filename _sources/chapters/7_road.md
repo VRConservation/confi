@@ -150,7 +150,7 @@ The following may be how a collaborative or partnership may leverage private fin
 7. When project outcomes are met and verified, an outcome trigger creates a payment return to investors from the project payors.
 
 ```{figure} /figures/fhf.png
-:height: 400px
+:height: 600px
 :name: fhf
 Hypothetical Forest Health Fund capitalization and funding over time.
 ```
