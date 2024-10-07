@@ -26,7 +26,12 @@ The Fall River Resource Conservation District, working with grant funding from t
 The region faces similar challenges faced by other rural forested regions in California: difficulty in sustainable funding, workforce availability and capacity, and transportation.  Workforce development and transportation are beyond the scope of this publication, although some funding could help with each of these two challenges. Let's shift to funding categories possible for similar communities.
 
 ## Funding
-Funding is a partial solution to several barriers to implementing forest restoration projects. However, rather than focusing on individual funding sources and types, developing strong financial mechanisms that collate a portfolio of funding for any project, program, or landscape may be a higher priority. We have organized this section to be brief and organized to flow from the more traditional funding types to non-traditional and less well-established. The Roadmap is not meant to be a definitive funding guide source; we describe funding and investment resources, including the grant roster developed by project proponents, that may be considered, along with descriptions of non-tradition funding sources.
+Funding is a partial solution to several barriers to implementing forest restoration projects. However, rather than focusing on individual funding sources and types, developing strong financial mechanisms that collate a portfolio of funding for any project, program, or landscape may be a higher priority. We have organized this section to be brief and organized to focuse on non-traditional and less well-established. More traditional funding sources can be found in the dropdown below. The Roadmap is not meant to be a definitive funding guide source; we describe funding and investment resources, including the grant roster developed by project proponents, that may be considered, along with descriptions of non-tradition funding sources.
+
+### Collaborative Finance
+Blended financing strategies that assemble a diverse portfolio of funds from public grants and add private resources can be key to creating a locally appropriate and collaborative finance portfolio. Many of these are covered in Chapter 2. We believe these strategies may support forest and watershed restoration projects undertaken by BHC and economic or community development efforts that can support those restoration projects.
+
+Collaborative finance is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers. This process may or may not include traditional financial institutions ([collaborativefinance.org](http://www.collaborativefinance.org/)). We broaden the term to include finance developed by fair and equitable participation of stakeholders in a region, landscape, or watershed to address natural resource and infrastructure management needs, utilizing multiple forms of funding from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds. For a deeper discussion of collaborative finance approaches to financing water infrastructure in California, see {cite}`biwi`.
 
 ```{admonition} Traditional Funding Sources
 :class: dropdown
@@ -52,11 +57,6 @@ State and federal grants for conservation, wildfire mitigation, and restoration 
 
 Larger watershed contribution programs throughout the West combine public and private funds to protect water resources and fund restoration or fire mitigation projects. Typically, these funds are more successful when close to larger urban areas, such as the Salt River Project and the Northern Arizona Forest [Fund](https://www.nationalforests.org/who-we-are/azforestfund). A similar approach could be taken in the Burney-Hat Creek through a regional fund that adds $1 to room nights in all hotels, Airbnb rentals, and outdoor recreation businesses. Another approach would be to connect hunters and anglers who regularly visit the region and are interested in restoring forest, riparian, and other associated habitats.
 
-### Collaborative Finance
-Blended financing strategies that assemble a diverse portfolio of funds from public grants and add private resources can be key to creating a locally appropriate and collaborative finance portfolio. Many of these are covered in Chapter 2. We believe these strategies may support forest and watershed restoration projects undertaken by BHC and economic or community development efforts that can support those restoration projects.
-
-Collaborative finance is a conservation finance strategy that involves cooperative interaction between individual project developers, stakeholders, and finance providers. This process may or may not include traditional financial institutions ([collaborativefinance.org](http://www.collaborativefinance.org/)). We broaden the term to include finance developed by fair and equitable participation of stakeholders in a region, landscape, or watershed to address natural resource and infrastructure management needs, utilizing multiple forms of funding from public grants to private investment. Finance approaches may include outcomes-based finance models such as environmental impact bonds. For a deeper discussion of collaborative finance approaches to financing water infrastructure in California, see {cite}`biwi`.
-
 ### Environmental Impact Bonds
 One outcome of a collaborative finance strategy may be the development of an environmental impact bond. In 2017, Quantified Ventures and the District of Columbia's Department of Water and Sewer (DC Water) launched the nation's first environmental impact bond focused on implementing green infrastructure to reduce sewage overflows and flooding ([Martin and Appelbaum, 2021](https://www.conservationfinancenetwork.org/2021/09/27/pioneering-environmental-impact-bond-for-dc-water-updated)). This outcomes-based investment package tied the rate investors earned to achieving specified environmental performance goals. The investment package structure linked DC Water to private bond buyers. The structure used by Quantified Ventures, DC Water, and their investors follows the track illustrated below. The role of the third-party evaluator is noteworthy in this outcomes-based repayment scheme. Five years after launching the project, the evaluator confirmed that stormwater runoff had been reduced by nearly 20%, a level that met the Bond's base-level repayment criteria ([Lindsay et al., 2021](https://www.quantifiedventures.com/dc-water-eib-results)).
 
@@ -80,7 +80,7 @@ Spatial Informatics Group and Element Markets are developing a forecast methodol
 ### Carbon Markets
 Carbon markets offer an opportunity to secure gap or stack funding for on-the-ground forest management activities, such as thinning, pruning, mastication, mechanical treatment, and even prescribed burning. Revenue realized through the carbon market could help the JPA to treat more forest land than otherwise possible and generate additional biomass that could be put under supply contracts to support existing and emerging infrastructure. Market prices for carbon credits vary depending on a given project’s size and location, treatment type, and the carbon market or registry used. Carbon credits can be realized for projects of any size and located on federal, state, and private lands. See the Avoided Wildfire Emissions Protocol section as another approach that is easier to implement than carbon sequestration credits or markets since the avoided costs are already calculated, and proponents do not have to seek an entity to purchase the credits. The downside of carbon markets is the high cost of entry. In places where cap and trade programs exist, such as California, there is no additional incentive to participate in voluntary markets from private sources.
 
-### Parametric insurance
+### Parametric Insurance
 Parametric or index-based insurance covers the probability of a predefined event instead of indemnifying actual loss incurred ([Swissre, 2018](https://corporatesolutions.swissre.com/insights/knowledge/what_is_parametric_insurance.html)). These so-called trigger events are typically disaster (e.g., wildfire, flooding, hurricane, earthquake) related and measured through triggers such as wind speed, quake magnitude, or rainfall amount. Insurable triggers must happen by chance and are modeled. When the triggers are reached, a predetermined pay-out is made regardless of the sustained physical losses. Parametric insurance is meant to complement existing indemnity insurance but is increasingly used for post-disaster restoration funding in the natural world. One of the earliest examples of its use for nature recovery is the Mesoamerican Reef parametric insurance that provided $800,000 for reef restoration following Hurricane Delta. The trigger was windspeed with a parameter greater than 100 knots. The funds came from the Coastal Zone Management Trust ([Winters, 2020](https://www.nature.org/en-us/newsroom/coral-reef-insurance-policy-triggered/)). Using insurance to protect natural areas and their communities may be a unique way to connect public and private finance at an ecosystem scale.
 
 ### Climate Catalyst Fund
@@ -119,8 +119,8 @@ The following broad recommendations are offered, followed by a more specific mod
 - **Aggregated supply**. Joint powers authorities are state agencies acting as brokers for supply. For example, the OPR feedstock pilot may greatly help with markets, supply, and wood utilization. Similar aggregation entities could help in the water sector. 
 - **Connect funders with implementers**. Overcoming the challenge of connecting implementers with investors is a key challenge. This relationship-building challenge may be partially overcome with investment platforms, securing public funding, and creating better markets for wood products or looking to quantified ecosystem service markets such as carbon, biodiversity, and water.
 
-## Conservation Finance Portal
-We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors {numref}`portal`. The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
+## Portal
+We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors ({numref}`portal`). The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
 
 ```{figure} /figures/portal.png
 :height: 250px
@@ -129,6 +129,8 @@ Conceptual framework for a conservation finance portal.
 ```
 
 ### Process
+Here's a potential process the conservation portal might follow:
+
 1.	A project implementer designs a project that a neutral third party or agency vets. The project proponent is given access to the listing engine and generates a project file.
 2.	A carbon rating company accesses the project file. The company then issues an investment recommendation.
 3.	If approved, the project file goes to the investor pool. A limited review period, e.g., 30 days, ensues
@@ -136,13 +138,19 @@ Conceptual framework for a conservation finance portal.
 5.	The project is listed on the exchange if the auction clears the reserve price. Successful bidders get tradable carbon credits, and the project proponents receive upfront funds from the portion of the carbon credits to initiate the project.
 6.	Project reporting ensures quality, transparency, and successful projects.
 
-### Funding steps
-
+### Hypothetical Scenario
+The following may be how a collaborative or partnership may leverage private finance funds ({numref}`fhf`).
 
 1. Collaborative works identify the existing funding situation and solution process, culminating in a feasibility study with predetermined outcome metrics.
-2. Initial funding comes from state and federal grants ($10.2 million, 20% covers administrative costs).
-3. Additional funding comes from private sources ($5M private investors, $3m concessionary grants, and gifts).
-4. The Project Futures Platform provides a steady, up-front source of income through auctions of carbon credits or other marketable ecosystem services.
-5. The Avoided Wildfire Emissions Protocol creates forecasted mitigation units (FMUs) based on each planned project or grouping of projects.
+2. Initial funding comes from state and federal grants.
+3. Additional funding comes from private sources.
+4. The portal provides a steady, up-front source of income through auctions of carbon credits or other marketable ecosystem services.
+5. If participating, the Avoided Wildfire Emissions Protocol creates forecasted mitigation units (FMUs) based on each planned project or grouping of projects.
 6. When state grant expenses are reimbursed, the invoiced funds are returned to the fund by the program administrator (minus 20% overhead)
 7. When project outcomes are met and verified, an outcome trigger creates a payment return to investors from the project payors.
+
+```{figure} /figures/fhf.png
+:height: 400px
+:name: fhf
+Hypothetical Forest Health Fund capitalization and funding over time.
+```
