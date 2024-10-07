@@ -121,6 +121,7 @@ We envision creating a conservation finance portal over the long-term that mainl
 ```{image} /figures/portal.png
 :height: 250px
 :name: portal
+Conceptual framework for a conservation finance portal.
 ```
 
 ### Process
