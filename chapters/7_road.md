@@ -118,7 +118,7 @@ The following broad recommendations are offered, followed by a more specific mod
 ## Conservation Finance Portal
 We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors {numref}`portal`. The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
 
-```{image} /figures/portal.jpg
+```{image} /figures/portal.png
 :height: 400px
 :name: portal
 ```
