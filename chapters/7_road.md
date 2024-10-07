@@ -116,11 +116,11 @@ The following broad recommendations are offered, followed by a more specific mod
 - **Connect funders with implementers**. Overcoming the challenge of connecting implementers with investors is a key challenge. This relationship-building challenge may be partially overcome with investment platforms, securing public funding, and creating better markets for wood products or looking to quantified ecosystem service markets such as carbon, biodiversity, and water.
 
 ## Conservation Finance Portal
-We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors {numref}`portal`. The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
+We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors {numref}`portal-fig`. The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
 
 ```{image} /figures/portal.png
 :height: 250px
-:name: portal
+:name: portal-fig
 Conceptual framework for a conservation finance portal.
 ```
 
