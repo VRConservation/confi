@@ -108,17 +108,6 @@ How does this work for funding, however? Let's examine a hypothetical case based
 5. If the auction clears the reserve price, the project is listed on the exchange. Successful bidders receive tradable carbon credits, and the project proponents receive upfront funds from a portion of the carbon credits to initiate the project.
 6. Project reporting ensures quality, transparency, and successful projects.
 
-## Recommendations
-While the influx of funding from state and federal sources is welcome and more is needed, current federal and state funding levels are temporary, with a five-year closeout of most Bipartisan Infrastructure Law allocations and (likely) state budget shortfalls in coming years. As such, there is a continuing imperative to leverage those funds with private capital. Public funds may not last, may change focus, and are historically cyclical. Private investment strategies can complement public grant/loan funding to create composite portfolios of financial support for the accelerated implementation of landscape-scale restoration and mitigation projects. Despite this opportunity, private capital investment in forest and watershed restoration is negligible to non-existent in many regions. Yet, because private businesses are impacted by fire, drought, or other natural resource disasters, there is increasing recognition across the corporate and investment sectors that they can support forest and watershed health projects.
-
-The following broad recommendations are offered, followed by a more specific model description of what a forest health fund could look like for the region.
-
-- **Outcome metrics**. One critical key to connecting the private sector is Creating clear, quantified metrics, feasibility studies, and a business case written in business language.
-- **Funding portfolio**. Prioritize and bundle projects to create funding economies of scale and specific project funding that match the multiple benefits of forest health and fire mitigation.
-- **Blended finance**. Take a blended finance approach to fund projects. The blended approach includes matching public grants with private funds and adding marketable forest product sales, carbon credits, and forecasted mitigation units created through thinning and prescribed fire projects enrolled in the future Avoided Wildfire Emissions Protocol.
-- **Aggregated supply**. Joint powers authorities are state agencies acting as brokers for supply. For example, the OPR feedstock pilot may greatly help with markets, supply, and wood utilization. Similar aggregation entities could help in the water sector. 
-- **Connect funders with implementers**. Overcoming the challenge of connecting implementers with investors is a key challenge. This relationship-building challenge may be partially overcome with investment platforms, securing public funding, and creating better markets for wood products or looking to quantified ecosystem service markets such as carbon, biodiversity, and water.
-
 ## Portal
 We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors ({numref}`portal`). The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
 
@@ -154,3 +143,14 @@ The following may be how a collaborative or partnership may leverage private fin
 :name: fhf
 Hypothetical Forest Health Fund capitalization and funding over time.
 ```
+
+## Recommendations
+While the influx of funding from state and federal sources is welcome and more is needed, current federal and state funding levels are temporary, with a five-year closeout of most Bipartisan Infrastructure Law allocations and (likely) state budget shortfalls in coming years. As such, there is a continuing imperative to leverage those funds with private capital. Public funds may not last, may change focus, and are historically cyclical. Private investment strategies can complement public grant/loan funding to create composite portfolios of financial support for the accelerated implementation of landscape-scale restoration and mitigation projects. Despite this opportunity, private capital investment in forest and watershed restoration is negligible to non-existent in many regions. Yet, because private businesses are impacted by fire, drought, or other natural resource disasters, there is increasing recognition across the corporate and investment sectors that they can support forest and watershed health projects.
+
+The following broad recommendations are offered, followed by a more specific model description of what a forest health fund could look like for the region.
+
+- **Outcome metrics**. One critical key to connecting the private sector is Creating clear, quantified metrics, feasibility studies, and a business case written in business language.
+- **Funding portfolio**. Prioritize and bundle projects to create funding economies of scale and specific project funding that match the multiple benefits of forest health and fire mitigation.
+- **Blended finance**. Take a blended finance approach to fund projects. The blended approach includes matching public grants with private funds and adding marketable forest product sales, carbon credits, and forecasted mitigation units created through thinning and prescribed fire projects enrolled in the future Avoided Wildfire Emissions Protocol.
+- **Aggregated supply**. Joint powers authorities are state agencies acting as brokers for supply. For example, the OPR feedstock pilot may greatly help with markets, supply, and wood utilization. Similar aggregation entities could help in the water sector. 
+- **Connect funders with implementers**. Overcoming the challenge of connecting implementers with investors is a key challenge. This relationship-building challenge may be partially overcome with investment platforms, securing public funding, and creating better markets for wood products or looking to quantified ecosystem service markets such as carbon, biodiversity, and water.
