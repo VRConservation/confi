@@ -5,7 +5,7 @@ Tim Wigington | Vance Russell | Jeff Odefey
 
 
 ## Takeaways
-For the TL;DR folks:
+
 - **New approach/sustainable funding**. Conservation finance is a relatively new approach to funding conservation projects to create more sustainable funding revenue at scale.
 - **Public-private partnerships**. One pathway to increasing funding sustainability is to leverage public funds with private investment.
 - **Challenges**. Although there are many successful examples, conservation finance has yet to scale due to innovation curves, resistance to new approaches, and bespoke solutions in each landscape where it's applied.

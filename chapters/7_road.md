@@ -115,8 +115,24 @@ The following broad recommendations are offered, followed by a more specific mod
 - **Aggregated supply**. Joint powers authorities are state agencies acting as brokers for supply. For example, the OPR feedstock pilot may greatly help with markets, supply, and wood utilization. Similar aggregation entities could help in the water sector. 
 - **Connect funders with implementers**. Overcoming the challenge of connecting implementers with investors is a key challenge. This relationship-building challenge may be partially overcome with investment platforms, securing public funding, and creating better markets for wood products or looking to quantified ecosystem service markets such as carbon, biodiversity, and water.
 
-## Next Steps
-We envision the following steps in capitalizing and implementing a conservation finance fund over time:
+## Conservation Finance Portal
+We envision creating a conservation finance portal over the long-term that mainly helps connect project implementers, investors, and payors {numref}`portal`. The portal will principally be focused on leveraging private funds, but could increase attractiveness by centralizing public funding.
+
+```{image} /figures/portal.jpg
+:height: 400px
+:name: portal
+```
+
+### Process
+1.	A project implementer designs a project that a neutral third party or agency vets. The project proponent is given access to the listing engine and generates a project file.
+2.	A carbon rating company accesses the project file. The company then issues an investment recommendation.
+3.	If approved, the project file goes to the investor pool. A limited review period, e.g., 30 days, ensues
+4.	After the investor review, an auction for a portion of the carbon credits occurs among pool investors.
+5.	The project is listed on the exchange if the auction clears the reserve price. Successful bidders get tradable carbon credits, and the project proponents receive upfront funds from the portion of the carbon credits to initiate the project.
+6.	Project reporting ensures quality, transparency, and successful projects.
+
+### Funding steps
+
 
 1. Collaborative works identify the existing funding situation and solution process, culminating in a feasibility study with predetermined outcome metrics.
 2. Initial funding comes from state and federal grants ($10.2 million, 20% covers administrative costs).
@@ -124,4 +140,4 @@ We envision the following steps in capitalizing and implementing a conservation 
 4. The Project Futures Platform provides a steady, up-front source of income through auctions of carbon credits or other marketable ecosystem services.
 5. The Avoided Wildfire Emissions Protocol creates forecasted mitigation units (FMUs) based on each planned project or grouping of projects.
 6. When state grant expenses are reimbursed, the invoiced funds are returned to the fund by the program administrator (minus 20% overhead)
-7. When project outcomes are met and verified, an outcome trigger creates a payment return to investors from the project payors. It generates payments for mitigation units from the Avoided Wildfire Emissions protocol.
+7. When project outcomes are met and verified, an outcome trigger creates a payment return to investors from the project payors.
