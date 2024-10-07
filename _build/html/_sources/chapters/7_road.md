@@ -29,7 +29,7 @@ The region faces similar challenges faced by other rural forested regions in Cal
 Funding is a partial solution to several barriers to implementing forest restoration projects. However, rather than focusing on individual funding sources and types, developing strong financial mechanisms that collate a portfolio of funding for any project, program, or landscape may be a higher priority. We have organized this section to be brief and organized to flow from the more traditional funding types to non-traditional and less well-established. The Roadmap is not meant to be a definitive funding guide source; we describe funding and investment resources, including the grant roster developed by project proponents, that may be considered, along with descriptions of non-tradition funding sources.
 
 ```{admonition} Traditional Funding Sources
-:class: dropdown:
+:class: dropdown
 
 ### Grants
 State and federal agency grants have been the bulwark of funding in California, especially with forest health projects. Although grant funding cycles up and down with state budget surpluses and deficits, overreliance on grants can be problematic for many organizations. Nearly all agency grants are reimbursable; e.g., you must spend the funds and request reimbursement. This places an undue burden on small organizations that do not have a line of credit or ample surplus in their bank accounts.
