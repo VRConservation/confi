@@ -40,8 +40,8 @@ A Watershed Outcomes Bank (WOB) framework responds to all these practical challe
 ![wob](/figures/wob.png)
 
 **Framework**
-1. Quantifies regional watershed/landscape resilience targets.
-2. Quantifies potential watershed resilience project benefits or values from a variety of project types that can generate those
+1. Quantify regional watershed/landscape resilience targets.
+2. Quantify potential watershed resilience project benefits or values from a variety of project types that can generate those
 benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurposing leading to water replenishment, carbon sequestration, and economic uplift).
 3. Identifies the most cost-effective cross-watershed resilience solution to pursue.
 4. Helps organize partner efforts around that optimal solution and then integrates priority project identification, planning, permitting, and coordinated pursuit of funding into an action plan.
@@ -49,7 +49,7 @@ benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurpos
 6. Helps centralize mechanisms for implementation to meet desired large-scale restoration efforts.
 7. Tracks/manages all projects, reimbursement, accounting, and reporting in a centralized database.
 
-**Landscape funding**<br>
+**Landscape funding & financing**<br>
 A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps, creates cash at the right times for landowners, suppliers, and partners, and allows projects to be deployed quicker without timing, cashflow, or operational uncertainties. 
 ```
 
