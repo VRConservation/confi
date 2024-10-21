@@ -13,16 +13,16 @@ Photo: National Park Service
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
 
+## Theory of change
+Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation acts as a theory of change and read from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation and increased wildfire size & severity. Those stressors are impact by threats such as fire suppression and greenhouse gas emmissions. The yellow boxes are proposed interventions to reduce those threats and include activities such as thinning, prescribed fire, and increased funding for wood utilization.
+
 ```{figure} /figures/3-fire/situ_model.png
 :name: model
 Situation model of fire's impact on forested ecosystems and potential interventions to reduce
 impacts.
 ```
 
-## Theory of change
-Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). 
-
-To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes to create a results chain ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`.
+Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. In effect the results chain allows project managers to track their interventions to project objectives and, ultimately, goals. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
 
 ```{figure} /figures/3-fire/rc.png
 :name: rc
@@ -30,8 +30,7 @@ Results chain linking interventions with interim results and outcome objectives.
 ```
 
 ## Solutions
-Walking the talk and progressing from models to solutions is a significant hurdle, especially at the landscape scale. Proposed solutions to reduce the negative impacts of wildfires generally fall into three buckets: funding,
-scaling, and capacity, although each local situation is nuanced and contains different approaches.
+Walking the talk and progressing from models to solutions is a significant hurdle, especially at the landscape scale. Proposed solutions to reduce the negative impacts of wildfires generally fall into three buckets: funding, scaling, and capacity, although each local situation is nuanced and contains different approaches.
 
 ## Funding
 Substantial state and federal funds are available for forest health projects. California is investing in forest
@@ -42,7 +41,7 @@ cannot cover all project needs. Furthermore, engaging the private sector is crit
 How can public dollars be maximized to reduce wildfire risk while restoring forested stands after a fire?
 
 ```{admonition} The Yuba Forest Resilience bond
-...will help us finance prevention strategies to stave off the ever-present risk of catastrophic wildfire that can damage national forests and neighboring lands.” Eli Ilano, Tahoe National Forest Supervisor
+"...will help us finance prevention strategies to stave off the ever-present risk of catastrophic wildfire that can damage national forests and neighboring lands.” Eli Ilano, Tahoe National Forest Supervisor
 ```
 
 A potential funding solution is to leverage and complement public funds with private capital, increasing the
