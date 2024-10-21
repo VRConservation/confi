@@ -20,11 +20,14 @@ impacts.
 ```
 
 ## Theory of change
-Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes to create a results chain (Figure 2). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`.
+Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). 
 
-![Figure2](https://i.imgur.com/HO5Zfqy.png)
+To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes to create a results chain ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`.
 
-Figure 2. Results chain linking interventions with interim results and outcome objectives.
+```{figure} /figures/3-fire/rc.png
+:name: rc
+Results chain linking interventions with interim results and outcome objectives.
+```
 
 ## Solutions
 Walking the talk and progressing from models to solutions is a significant hurdle, especially at the landscape scale. Proposed solutions to reduce the negative impacts of wildfires generally fall into three buckets: funding,
