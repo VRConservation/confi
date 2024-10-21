@@ -20,7 +20,7 @@ impacts.
 ```
 
 ## Theory of change
-Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`) {cite}`measures`. To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes (Figure 2). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes.
+Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). To enable solutions that effectively address these challenges, we then linked interventions, interim results, and outcomes to create a results chain (Figure 2). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:p}`measures`.
 
 ![Figure2](https://i.imgur.com/HO5Zfqy.png)
 
