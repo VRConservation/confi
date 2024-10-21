@@ -16,7 +16,7 @@ Reducing these harmful conditions will require forest health solutions that inte
 ## Theory of change
 Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation acts as a theory of change and read from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation and increased wildfire size & severity. Those stressors are impact by threats such as fire suppression and greenhouse gas emmissions. The yellow boxes are proposed interventions to reduce those threats and include activities such as thinning, prescribed fire, and increased funding for wood utilization.
 
-```{figure} /figures/3-fire/situ_model.png
+```{figure} /figures/3-fire/model.png
 :name: model
 Situation model of fire's impact on forested ecosystems and potential interventions to reduce
 impacts.
