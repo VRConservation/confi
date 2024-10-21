@@ -22,7 +22,7 @@ Situation model of fire's impact on forested ecosystems and potential interventi
 impacts.
 ```
 
-Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. In effect the results chain allows project managers to track their interventions to project objectives and, ultimately, goals. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
+Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. In effect the results chain allows project managers to track their interventions to project objectives and, ultimately, goals. Simply put, the results chain acknowledges that if you thin it will lead to decreased fuel loads and increased forest health. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
 
 ```{figure} /figures/3-fire/rc.png
 :name: rc
@@ -33,27 +33,21 @@ Results chain linking interventions with interim results and outcome objectives.
 Walking the talk and progressing from models to solutions is a significant hurdle, especially at the landscape scale. Proposed solutions to reduce the negative impacts of wildfires generally fall into three buckets: funding, scaling, and capacity, although each local situation is nuanced and contains different approaches.
 
 ## Funding
-Substantial state and federal funds are available for forest health projects. California is investing in forest
-health, betting that increased funding for thinning, prescribed fire, wood processing infrastructure, and
-business development projects will reduce wildfires. This increase in funding, capacity, and resources is part
-of an all-hands-on-deck approach to address forest health throughout California. However, public funds
-cannot cover all project needs. Furthermore, engaging the private sector is critical to meeting the challenge.
-How can public dollars be maximized to reduce wildfire risk while restoring forested stands after a fire?
+Substantial state and federal funds are available for forest health projects. California is investing in forest health, betting that increased funding for thinning, prescribed fire, wood processing infrastructure, and business development projects will reduce wildfires. This increase in funding, capacity, and resources is part of an all-hands-on-deck approach to address forest health throughout California. However, public funds cannot cover all project needs. Furthermore, engaging the private sector is critical to meeting the challenge. How can public dollars be maximized to reduce wildfire risk while restoring forested stands after a fire?
 
 ```{admonition} The Yuba Forest Resilience bond
 "...will help us finance prevention strategies to stave off the ever-present risk of catastrophic wildfire that can damage national forests and neighboring lands.” Eli Ilano, Tahoe National Forest Supervisor
 ```
 
 A potential funding solution is to leverage and complement public funds with private capital, increasing the
-number of projects that return an investment to investors once meeting predetermined outcomes. Two
-examples of innovative finance approaches include
+number of projects that return an investment to investors once meeting predetermined outcomes. Two examples of innovative finance approaches include
 
 - The $25 million Yuba II Forest Resilience Bond on the Tahoe National Forest to restore 48,000 acres. 
 - The Southwest Wildfire Impact Fund takes a similar revolving loan fund approach to foster regional restoration across public and private land in the San Juan National Forest. The fund is capitalized by bond proceeds, grants, and appropriations, disbursing loans to landowners annually to pay for forest health treatments.
 
 Blended, nontraditional funding strategies such as these have three distinct advantages over traditional grants and loans: They shift risk from project implementers or agencies to investors, provide funding faster by providing capital to implementers at project start rather than reimbursement-driven grants, and create new funding sources where funding may be scarce or not enough to address the problem at hand.
 
-One critical barrier to developing non-traditional finance is the lack of payors or entities that repay initial restoration investments, ideally with a modest return. For example, the Yuba Water Agency pays investors in the Yuba II Forest Resilience Bond when predetermined outcomes related to watershed forest health and sedimentation reduction projects are reached following project implementation and validation. Please see the collaborative finance white paper Because It’s Worth It for a full description of payors and impact bonds.
+One critical barrier to developing non-traditional finance is the lack of payors or entities that repay initial restoration investments, ideally with a modest return. For example, the Yuba Water Agency pays investors in the Yuba Forest Resilience Bond when predetermined outcomes related to watershed forest health and sedimentation reduction projects are reached following project implementation and validation. Please see the collaborative finance white paper Because It’s Worth It for a full description of payors and impact bonds.
 
 ## Scale
 Following the Caldor Fire that burned large proportions of the American River Canyon, CAL FIRE awarded the El Dorado Resource Conservation District (RCD) funding as part of a coordinated and centralized Emergency Forest Restoration Team to prioritize post-fire restoration projects. A similar effort is underway following the Dixie Fire on the Plumas and Lassen National Forests, which is helping to create cost and time efficiencies over large landscapes.

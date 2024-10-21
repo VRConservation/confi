@@ -87,3 +87,22 @@ The following are suggested solutions for the private sector, government, commun
 
 ## Next steps
 The future of conservation finance centers around fostering collaboration between governments, private sectors, and non-profits to streamline funding for large-scale, replicable restoration projects. Decreasing the connection time between investors and project proponents is critical to the long-term success of leveraging public and private funds. Creating automated landscape measurement systems that accurately measure project outcomes will increase trust in new finance and create a larger marketplace for investment and implementation. Conservation cannot leave its adolescent phase without considering connections, scale, and replication. Innovative financing models should support vital conservation efforts and offer promise for sustainable investment for contributions to the planet's health and resilience.
+
+
+```{grid} 1 1 2 3
+
+:::{card}
+:header: Text content ✏️
+Structure books with text files and Jupyter Notebooks with minimal configuration.
+:::
+
+:::{card}
+:header: MyST Markdown ✨
+Write MyST Markdown to create enriched documents with publication-quality features.
+:::
+
+:::{card}
+:header: Executable content 🔁
+Execute notebook cells, store results, and insert outputs across pages.
+:::
+```
