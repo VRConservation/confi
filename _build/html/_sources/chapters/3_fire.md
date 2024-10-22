@@ -75,4 +75,4 @@ approaches to mitigate adverse conditions can be exponentially ramped up and coo
 ---
 Endnotes
 [^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
-[^2]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fires that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems ({cite}`russellholst`)
+[^2]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fires that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems ({cite}`russellholst`).
