@@ -2,7 +2,6 @@
 
 **Understanding New Models for Accessing Private Investment**
 
-
 ## Background
 With the passage of the Infrastructure Investment and Jobs Act (better known as the Bipartisan Infrastructure Law) in 2021 and the additional resources provided by the Inflation Reduction Act of 2022, there has been much attention on federal funding for the nation’s infrastructure. Water systems, including investments to improve drinking water health and security, wastewater and stormwater systems, and natural infrastructure, stand to benefit from this infusion of money. However, underneath this apparent largesse lurks a different truth – over 85% of all investments in our communities’ water infrastructure come from local sources - people like you and me paying our taxes and water bills to our local water utilities. Chronically underfunded, these utilities can benefit not just from infusions of public funds from Washington, DC, and state capitals but from smart, innovative financing strategies that leverage private investments to help public funding work harder.
 

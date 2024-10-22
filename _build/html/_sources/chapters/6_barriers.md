@@ -63,7 +63,6 @@ strategies also depend on identifiable, sustainable revenue streams that can be 
 water agencies. Investors are unaware of emerging project needs and opportunities, and water project developers are disconnected from relevant investment sources.
 
 ## Getting Beyond No
-
 While this roster of potential impediments may seem daunting, most can be reduced through a well-conceived and managed collaborative strategy. It may be helpful to focus on a trio of core themes running through many of the looming challenges:
 
 - **Identify beneficiaries/potential revenue streams**. Accessing private capital will require a solid business case underpinned by identifiable, reliable revenue sources to provide an attractive risk-adjusted return to investors. It may be important to convert some project beneficiaries from freeloaders to payors. In most cases, an entity (or entities) with a strong regulatory or economic driver will likely be the key payor for the project, bearing ultimate responsibility for the repayment of investors.
@@ -73,7 +72,6 @@ While this roster of potential impediments may seem daunting, most can be reduce
 - **Value broad-based political and community support**. Building a coalition of support across the political and societal landscape is key to implementing collaboratively financed projects. This support can translate into widespread buy-in and multi-faceted financing.
 
 ## Resolving Challenges
-
 With this short catalog of potential resolutions in hand, let’s explore how these themes come into play across the various stages of the project’s timeline and examine how to resolve challenges in real-time. These challenges can be overcome with careful planning, deep stakeholder engagement, and creativity.
 
 - **Conceptual Stage**. It can be valuable to identify potential financing strategies even at the earliest stages in the development of an eventual project when the initial stakeholders have identified a problem needing a solution but haven’t yet clarified what that solution may be. However, at this point, few stakeholders will likely have a working grasp of outcomes-based approaches that may be relevant. Some foundation-laying education may be important,
