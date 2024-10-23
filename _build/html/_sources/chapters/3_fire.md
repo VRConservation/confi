@@ -9,12 +9,18 @@ In April 2015, I drove up Highway 50 along the American River Canyon to the Hors
 
 ![nps](https://i.imgur.com/qzcAsxl.png)
 
-Photo: National Park Service
+Sure enough six years later a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. More than half of the burned acres were classed as high or very high severity. Three years later logs from the fire are still being processed at the new Tahoe Forest Products mill in Carson City.
+
+```{image} /figures/caldor.png
+:height: 400px
+:name: caldor
+Credit: Noah Berger/AP
+```
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
 
 ## Theory of change
-Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation acts as a theory of change and read from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation and increased wildfire size & severity. Those stressors are impact by threats such as fire suppression and greenhouse gas emmissions. The yellow boxes are proposed interventions to reduce those threats and include activities such as thinning, prescribed fire, and increased funding for wood utilization.
+Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation acts as a theory of change and read from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation and increased wildfire size & severity. Those stressors are impact by threats such as fire suppression and greenhouse gas emissions. The yellow boxes are proposed interventions to reduce those threats and include activities such as thinning, prescribed fire, and increased funding for wood utilization.
 
 ```{figure} /figures/3-fire/model.png
 :name: model
@@ -51,6 +57,13 @@ One critical barrier to developing non-traditional finance is the lack of payors
 
 ## Scale
 Following the Caldor Fire that burned large proportions of the American River Canyon, CAL FIRE awarded the El Dorado Resource Conservation District (RCD) funding as part of a coordinated and centralized Emergency Forest Restoration Team to prioritize post-fire restoration projects. A similar effort is underway following the Dixie Fire on the Plumas and Lassen National Forests, which is helping to create cost and time efficiencies over large landscapes.
+
+```{admonition} Let it burn
+:class: dropdown
+Prescribed fire and letting wildfires that are far away from communities burn, may be one of the few ways to scale. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
+
+![matrix](/figures/matrix.png)
+```
 
 Other strategies for scaling efforts may include outreach to support stakeholder understanding of the broader forest system, go beyond localized thinking, and consider how to replicate pilots through local solutions and policy-based regional solutions ({cite}`salafsky`). At a vast scale, the Forest Service’s 'Confronting the Wildfire Crisis Plan' aims to treat up to 20 million acres of National Forest Lands and 30 million acres on other federal, Tribal, State, and private lands with partners ({cite}`usfs`). By increasing the scale of this work, other factors such as ecological function, biodiversity, ecosystem services, climate adaptation, socio-cultural equity, and human well-being factors are more relevant ({cite}`schuster`).
 
