@@ -125,8 +125,22 @@ Here's a potential process the conservation portal might follow:
 5.	The project is listed on the exchange if the auction clears the reserve price. Successful bidders get tradable carbon credits, and the project proponents receive upfront funds from the portion of the carbon credits to initiate the project.
 6.	Project reporting ensures quality, transparency, and successful projects.
 
-### Hypothetical Scenario
-The following may be how a collaborative or partnership may leverage private finance funds ({numref}`fhf`).
+### Hypothetical Scenarios
+Inspired by the nature-based solutions finance roadmap outlined by {cite:t}`altamirano`, we set out to create an adapted version from our experiences promoting these approaches in Northern California ({cite}`arrowhead`). The resulting collaborative finance roadmap shown in {numref}`roadmap` outlines a series of steps leading from an initial analysis of existing conditions and creating a strategy to developing a governance structure, securing funding, and then implementing the project.
+
+```{figure} /figures/roadmap.png
+:height: 500px
+:name: roadmap
+Collaborative finance roadmap.
+```
+
+The collaborative finance roadmap includes three key stages in its development:
+
+1. Developing a collaborative finance strategy must start by analyzing existing conditions by considering relevant natural, social, and financial systems. We highly recommend developing a theory of change or conceptual model that uses a box-and-arrow diagram approach to visually depict how the system works and potential interventions and approaches for improving it, including reducing the barriers to diversifying project finance. The model will provide the foundation for developing a theory of change, solution scope, setting shared goals, and measures. It can also inform an analysis of the strengths of each organization involved in the collaborative and their roles in developing the chosen collaborative finance model.
+2. Establishing a governance structure is a vital step for creating a functioning, collaborative. One could argue that governance and rules for engagement may need to be undertaken in Stage 1 while initially forming the collaborative. As a result, we show governance straddling Stages 1 and 2 (Figure 1). In some cases, a single agency may lead some projects without any collaboration required. This approach may be less frequent considering the broad landscape scale and jurisdictional complexities required for many infrastructure and restoration projects. Nevertheless, impact bonds in Atlanta and Buffalo have single jurisdiction payors. Further development of financial details includes revenue streams, market sounding, securing the investors and payors, and risk profile during Stage 2. 
+3. Although securing investors and payors is recommended for Stage 2, some participants may not fully commit until fully executed contracts with government agencies exist. Commitment by private entities may be cautious with government grants, given the time lag between awarded grants and contract execution with agencies. Securing payors is possibly the most critical barrier to overcome for collaborative finance. As a result, this work needs high priority from the collaborative and may need initiation during Stage 1. Arriving at contract signing for all parties before implementation can significantly delay shovels going into the ground, particularly with projects dependent on statutory funding. Federal and state funders can be notoriously slow to issue and sign contracts following grant awards. Following contracting, implementation depends on setting performance indicators and a clear implementation plan that outlines the timeline for project execution and management and project evaluation, success monitoring, verification of outcomes, and return payments.
+
+At a more specific local level, the following may be how a collaborative or partnership may leverage private finance funds ({numref}`fhf`).
 
 1. Collaborative works identify the existing funding situation and solution process, culminating in a feasibility study with predetermined outcome metrics.
 2. Initial funding comes from state and federal grants.
