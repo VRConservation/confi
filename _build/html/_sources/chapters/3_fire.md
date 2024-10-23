@@ -60,7 +60,7 @@ Following the Caldor Fire that burned large proportions of the American River Ca
 
 ```{admonition} Let it burn
 :class: dropdown
-Prescribed fire and letting wildfires that are far away from communities burn, may be one of the few ways to scale. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
+Prescribed fire and letting wildfires that are far away from communities burn, may be the most critical way scale forest health restoration and the reduce costs associated with fire suppression. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
 
 ![matrix](/figures/matrix.png)
 ```
