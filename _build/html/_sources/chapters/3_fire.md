@@ -14,8 +14,9 @@ Sure enough six years later a bullet strike near the Pollock Pines started the C
 ```{image} /figures/caldor.png
 :height: 400px
 :name: caldor
-Credit: Noah Berger/AP
 ```
+Photo credit: Credit: Noah Berger/AP
+
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
 
