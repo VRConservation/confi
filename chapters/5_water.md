@@ -2,9 +2,8 @@
 
 **New Approaches to Delivering Sustainable Water Infrastructure**
 
-## Executive Summary
-California’s disadvantaged communities (DACs) face financial and staff capacity challenges as they work to maintain their aging water infrastructure and related systems. These challenges are pitted against an increasing need for environmentally resilient infrastructure to meet the demands of rising populations and uncertainty due to climate change. Unmet system needs include outdated drinking water treatment facilities, incorrectly sized and leaking distribution pipes, low-quality groundwater sources, crumbling wastewater collection systems, failing wastewater treatment plants, stormwater management systems that fail to meet current weather and regulatory conditions, and localized flood mitigation hazards. Concurrently, decades of fire suppression have left many northern California regions and their vital water-supplying watersheds at risk of catastrophic
-wildfire damage.
+## Background
+California’s disadvantaged communities (DACs) face financial and staff capacity challenges as they work to maintain their aging water infrastructure and related systems. These challenges are pitted against an increasing need for environmentally resilient infrastructure to meet the demands of rising populations and uncertainty due to climate change. Unmet system needs include outdated drinking water treatment facilities, incorrectly sized and leaking distribution pipes, low-quality groundwater sources, crumbling wastewater collection systems, failing wastewater treatment plants, stormwater management systems that fail to meet current weather and regulatory conditions, and localized flood mitigation hazards. Concurrently, decades of fire suppression have left many northern California regions and their vital water-supplying watersheds at risk of catastrophic wildfire damage.
 
 The public water sector has long relied on support from federal and state loan programs to fund new capital projects or upgrades to existing infrastructure. Despite recent state bond measures and funding contributions from the federal government, water infrastructure funding in California is perennially insufficient. Accessing new capital is needed to jump-start local projects. Alternative finance approaches that draw on private sector financing, such as environmental impact bonds, community-based public-private partnerships, and enhanced infrastructure financing districts, may provide California communities with additional opportunities to diversify municipal funding portfolios for these vital projects, expanding upon or leveraging the loans and grants that water agencies typically rely upon for capital projects.
 
@@ -84,7 +83,7 @@ In general, we suggest that project developers follow an iterative process infus
 ## Hypotheticals
 Considering these broad concepts, the case studies suggest several examples of non-traditional financing for actual project needs. Water resource agencies and their communities will benefit from considering private investment approaches to complement public funding sources or compensate for unavailable public funds. Table 1 summarizes these examples.
 
-Table 1: Summary of hypothetical and real-world examples for non-traditional financing. For the Groundwater Recharge Initiative, see [Sustainable Conservation](https://suscon.org/project/groundwater-recharge).
+Table 1: Summary of hypothetical and real-world examples for non-traditional financing. For the Groundwater Recharge Initiative, see the [Groundwater Recharge Program](https://suscon.org/project/groundwater-recharge).
 
 | **Applications**| **Funding** | **Challenges** | **Examples** |
 | :--- | :--- | :--- | :--- |
@@ -108,7 +107,7 @@ overcome key obstacles or challenges? We offer the following recommendations:
 6. Create a clear and defensible case for investment. Quantified Venture’s work building the case for bonds and revolving loan funds is instructive here. In each project, they made the case to investors and implementers for the appropriate finance tools and completed the due diligence to analyze the investment risk.
 7. Increase collaboration, transparency, and information to maximize replication and mitigate risks. Collaboration creates stronger programs across multiple partners and increases scale and transparency. Tell your neighboring towns and counties how you are solving these problems!
 8. Standardize metrics for measurement. Catalogs to help standardize sustainable development goal metrics are becoming more accessible and easier to use. [IRIS+](https://iris.thegiin.org/standards) is the generally accepted system for managing, measuring, and optimizing impact for impact investors.
-9. Link capital investments with projects. Conservation finance experts have commented that funding is not the problem delaying investment in environmental projects, but instead, there are billions of unallocated investment resources undeployed due to a lack of projects {cite}`hamrick`.
+9. Link capital investments with projects. Conservation finance experts have commented that funding is not the problem delaying investment in environmental projects, but instead, there are billions of unallocated investment resources due to a lack of projects {cite}`hamrick`.
 10. Establish alternative finance as a value-driver instead of a value-added tool. For example, as the market for
 assets such as carbon credits continue to gain traction and grow, forest land managers interested in non-
 timber forest revenue still view alternative finance sources as a value-add rather than a value driver {cite}`billhorn`.
