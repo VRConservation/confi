@@ -5,32 +5,31 @@
 ![bhc thinning](https://i.imgur.com/RYUp8iq.png)
 
 ## Caldor
-In April 2015, I drove up Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here was great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.
+In April 2015, I drove up California Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here was great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.
 
 ![nps](https://i.imgur.com/qzcAsxl.png)
 
-Sure enough six years later a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. More than half of the burned acres were classed as high or very high severity. Three years later logs from the fire are still being processed at the new Tahoe Forest Products mill in Carson City.
+Six years later a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. More than half of the burned acres were classed as high or very high severity. Three years later logs from the fire are still being processed at the new Tahoe Forest Products mill in Carson City.
 
 ```{image} /figures/caldor.png
 :height: 400px
 :name: caldor
 ```
 
-<span style="font-size: 9px;">Photo credit: Credit: Noah Berger/AP</span>
+<span style="font-size: 9px;">Photo credit: Noah Berger/AP</span>
 
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, environmental compliance, and funding.[^1]
 
 ## Theory of change
-Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation acts as a theory of change and read from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation and increased wildfire size & severity. Those stressors are impact by threats such as fire suppression and greenhouse gas emissions. The yellow boxes are proposed interventions to reduce those threats and include activities such as thinning, prescribed fire, and increased funding for wood utilization.
+Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation model acts as a theory of change and read from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation and increased wildfire size & severity. Those stressors are impact by threats such as fire suppression and greenhouse gas emissions. The yellow boxes are proposed interventions to reduce those threats and include activities such as thinning, prescribed fire, and increased funding for wood utilization.
 
 ```{figure} /figures/3-fire/model.png
 :name: model
-Situation model of fire's impact on forested ecosystems and potential interventions to reduce
-impacts.
+Situation model of fire's impact on forested ecosystems and potential interventions to reduce impacts.
 ```
 
-Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire.[^2] Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. In effect the results chain allows project managers to track their interventions to project objectives and, ultimately, goals. Simply put, the results chain acknowledges that if you thin it will lead to decreased fuel loads and increased forest health. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
+Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire. Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. In effect the results chain allows project managers to track their interventions to project objectives and, ultimately, goals. Simply put, the results chain acknowledges that if you thin it will lead to decreased fuel loads and increased forest health. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
 
 ```{figure} /figures/3-fire/rc.png
 :name: rc
@@ -47,18 +46,17 @@ Substantial state and federal funds are available for forest health projects. Ca
 "...will help us finance prevention strategies to stave off the ever-present risk of catastrophic wildfire that can damage national forests and neighboring lands.” Eli Ilano, Tahoe National Forest Supervisor
 ```
 
-A potential funding solution is to leverage and complement public funds with private capital, increasing the
-number of projects that return an investment to investors once meeting predetermined outcomes. Two examples of innovative finance approaches include
+A potential funding solution is to leverage and complement public funds with private capital, increasing the number of projects that return an investment to investors once meeting predetermined outcomes. Two examples of innovative finance approaches include
 
 - The $25 million Yuba II Forest Resilience Bond on the Tahoe National Forest to restore 48,000 acres. 
 - The Southwest Wildfire Impact Fund takes a similar revolving loan fund approach to foster regional restoration across public and private land in the San Juan National Forest. The fund is capitalized by bond proceeds, grants, and appropriations, disbursing loans to landowners annually to pay for forest health treatments.
 
 Blended, nontraditional funding strategies such as these have three distinct advantages over traditional grants and loans: They shift risk from project implementers or agencies to investors, provide funding faster by providing capital to implementers at project start rather than reimbursement-driven grants, and create new funding sources where funding may be scarce or not enough to address the problem at hand.
 
-One critical barrier to developing non-traditional finance is the lack of payors or entities that repay initial restoration investments, ideally with a modest return. For example, the Yuba Water Agency pays investors in the Yuba Forest Resilience Bond when predetermined outcomes related to watershed forest health and sedimentation reduction projects are reached following project implementation and validation. Please see the collaborative finance white paper Because It’s Worth It for a full description of payors and impact bonds.
+One critical barrier to developing non-traditional finance is the lack of payors or entities that repay initial restoration investments, ideally with a modest return. For example, the Yuba Water Agency pays investors in the Yuba Forest Resilience Bond when predetermined outcomes related to watershed forest health and sedimentation reduction projects are reached following project implementation and validation. Please see {cite:t}`biwi` for a full description of payors and impact bonds.
 
 ## Scale
-Following the Caldor Fire that burned large proportions of the American River Canyon, CAL FIRE awarded the El Dorado Resource Conservation District (RCD) funding as part of a coordinated and centralized Emergency Forest Restoration Team to prioritize post-fire restoration projects. A similar effort is underway following the Dixie Fire on the Plumas and Lassen National Forests, which is helping to create cost and time efficiencies over large landscapes.
+Following the Caldor Fire, CAL FIRE awarded the El Dorado Resource Conservation District (RCD) funding as part of a coordinated and centralized Emergency Forest Restoration Team to prioritize post-fire restoration projects. Known as the Healthy Eldorado Landscape Partnership [HELP](https://www.healthyeldorado.org), the group has coordinated landscape scale forest restoration efforts on the Eldorado National Forest. A similar effort is underway following the Dixie Fire on the Plumas and Lassen National Forests, which is helping to create cost and time efficiencies over large landscapes.
 
 ```{admonition} Let it burn
 :class: dropdown
@@ -81,8 +79,7 @@ Training a workforce to work in the woods is a critical current and future need.
 ```
 
 ## Parting Thoughts
-Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight, but perhaps future disasters can be avoided by considering how existing and new
-approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States.
+Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight, but perhaps future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States.
 
 
 ![pine](/figures/pinebanner.png)
@@ -90,4 +87,3 @@ approaches to mitigate adverse conditions can be exponentially ramped up and coo
 ---
 Endnotes
 [^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
-[^2]: It is important to distinguish between good fires that burn at low intensities in the understory vs bad fires that reach the forest crown, burn at high intensity, destroy soil biota, and create their weather systems ({cite}`russellholst`).
