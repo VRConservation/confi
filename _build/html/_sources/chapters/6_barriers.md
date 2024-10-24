@@ -21,7 +21,7 @@ Additional barriers to forest restoration, rural development, and infrastructure
 - Across the nation, private investment in water and forest infrastructure and restoration barriers include securing project payors, understanding and allocating acceptable risk, and quantifying and measuring outcomes {cite}`biwi`.
 - Episodic, short grant funding periods and fragmented funding for projects undermine the organizational momentum of plans and projects, organizational capacity, and the ability to develop innovations and achieve impact at scale.
 
-Private landowner assistance is underfunded, but it is becoming increasingly important. These properties make up the heart of the wildland-urban interface, particularly in rural areas such as NE California, and are at significant risk of catastrophic wildfire (Tompkins, personal communication, 2022).
+Private landowner assistance is underfunded, but it is becoming increasingly important. These properties comprise the heart of the wildland-urban interface, particularly in rural areas such as NE California, and are at significant risk of catastrophic wildfire (Tompkins, personal communication, 2022).
 
 In our conversations with financing experts and project developers who have opted to pursue collaborative finance approaches, we’ve come to recognize three types of challenges that have an outsized effect on successfully securing financing:
 
@@ -56,7 +56,7 @@ strategies also depend on identifiable, sustainable revenue streams that can be 
 
 ## Finance
 
-- **Avoided Cost**. Difficulties quantifying avoided infrastructure and maintenance costs lead to an unwillingness or impossibility of using this basis for project approval and financing.
+- **Avoided Cost**. Difficulties quantifying infrastructure, ecosystem service, and maintenance costs may lead to a failure to attract investors.
 
 - **Predevelopment Costs**. The cost of feasibility studies and pre-transaction development may be high relative to other infrastructure projects. It can be a high bar for many communities and organizations to raise planning/feasibility funds to start the process.
 
@@ -68,12 +68,12 @@ While this roster of potential impediments may seem daunting, most can be reduce
 
 - **Identify beneficiaries/potential revenue streams**. Accessing private capital will require a solid business case underpinned by identifiable, reliable revenue sources to provide an attractive risk-adjusted return to investors. It may be important to convert some project beneficiaries from freeloaders to payors. In most cases, an entity (or entities) with a strong regulatory or economic driver will likely be the key payor for the project, bearing ultimate responsibility for the repayment of investors.
 
-- **Create consistent, agreed-upon metrics**. Universally accepted metrics may not be suitable for every individual project. Some, like the Volumetric Water Benefit Accounting method developed by the World Resources Institute, may be useful, but often, the metrics for evaluating success must be identified by the project partners and should be responsive to the risks and values that payors and investors bring with them. In addition, metrics should reflect the regulatory, economic, environmental, or economic forces that drive the project.
+- **Create consistent, agreed-upon metrics**. Universally accepted metrics may not be suitable for every individual project. Some, like the Volumetric Water Benefit Accounting method developed by the World Resources Institute, may be useful. Still, often, the metrics for evaluating success must be identified by the project partners and should be responsive to the risks and values that payors and investors bring with them. In addition, metrics should reflect the regulatory, economic, environmental, or economic forces that drive the project.
 
 - **Value broad-based political and community support**. Building a coalition of support across the political and societal landscape is key to implementing collaboratively financed projects. This support can translate into widespread buy-in and multi-faceted financing.
 
 ## Resolving Challenges
-With this short catalog of potential resolutions in hand, let’s explore how these themes come into play across the various stages of the project’s timeline and examine how to resolve challenges in real-time. These challenges can be overcome with careful planning, deep stakeholder engagement, and creativity.
+With this short catalog of potential resolutions, let’s explore how these themes play out across the various stages of the project’s timeline and examine how to resolve challenges in real time. These challenges can be overcome with careful planning, deep stakeholder engagement, and creativity.
 
 - **Conceptual Stage**. It can be valuable to identify potential financing strategies even at the earliest stages in the development of an eventual project when the initial stakeholders have identified a problem needing a solution but haven’t yet clarified what that solution may be. However, at this point, few stakeholders will likely have a working grasp of outcomes-based approaches that may be relevant. Some foundation-laying education may be important,
 including introductory-level presentations by outside experts. This level of engagement can help socialize available concepts within the stakeholder group and build relationships with potential partners and finance providers.
@@ -83,7 +83,7 @@ including introductory-level presentations by outside experts. This level of eng
 - **Role Assignment**. With project design and desired outcomes/benefits in hand, a stakeholder group may turn to identifying likely payors and investors in the project, noting the difference in these  roles. Payors are entities that agree to contribute funding without expectation of repayment, e.g., a water utility or special district with a regulatory obligation linked to a project outcome. Investors, on the other hand, may be motivated by one or more of the project’s benefits to provide funding but with an expectation of repayment. This repayment may or may not include some interest in addition to the capital provided.
 
 - **Implementation**. 
-A credible, neutral third party may be hired as a project administrator/implementation manager as the project is implemented. Engaging a third party can not only relieve the payor(s) of daily implementation burdens but may be able to provide or locate financing for the project. For example, some public-private partnerships are built around project developers undertaking implementation tasks and delivering project finance. [Corvias](https://www.corvias.com/) partnered with municipalities to design, finance, and deliver multi-benefit stormwater green infrastructure programs to meet regulatory requirements. Bringing in a trusted implementation partner can reduce some of the risks otherwise carried by the public utilities leading the project by providing cost-effective, expert project management.
+A credible, neutral third party may be hired as a project administrator/implementation manager as the project is implemented. Engaging a third party can not only relieve the payor(s) of daily implementation burdens but may be able to provide or locate financing for the project. For example, some public-private partnerships involve project developers undertaking implementation tasks and delivering project finance. [Corvias](https://www.corvias.com/) partnered with municipalities to design, finance, and deliver multi-benefit stormwater green infrastructure programs to meet regulatory requirements. Bringing in a trusted implementation partner can reduce some of the risks otherwise carried by the public utilities leading the project by providing cost-effective, expert project management.
 
 - **Evaluation & Communication**. Finally, as the project begins to deliver benefits, reach agreed-upon milestones, or is completed, a trusted evaluator can ascertain whether metrics are being met and outcomes-based payments are appropriate. Credible evaluation reduces risks for the payor and investors and provides information to help communicate the project's value to all stakeholders.
 

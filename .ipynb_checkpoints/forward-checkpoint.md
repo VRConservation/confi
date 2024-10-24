@@ -5,13 +5,13 @@ Tim Wigington | Vance Russell | Jeff Odefey
 
 
 ## Takeaways
-For the TL;DR folks:
+
 - **New approach/sustainable funding**. Conservation finance is a relatively new approach to funding conservation projects to create more sustainable funding revenue at scale.
 - **Public-private partnerships**. One pathway to increasing funding sustainability is to leverage public funds with private investment.
 - **Challenges**. Although there are many successful examples, conservation finance has yet to scale due to innovation curves, resistance to new approaches, and bespoke solutions in each landscape where it's applied.
 
 ## Background
-It is impossible to ignore that our natural systems cannot withstand the fast-accelerating threats posed by climate change. These systems—which have long provided us clean air, clean water, flood protection, and beautiful places to recreate—need our help, and they need a lot more of it yesterday. In the face of these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to protect biodiversity and thin forests, reintroduce fire as an ecosystem process, implement better water use technology on farms, and improve habitat in streams and wetlands. However, the current funding, financing, and implementation infrastructure isn’t in place to make this happen.
+It is impossible to ignore that our natural systems cannot withstand the fast-accelerating threats posed by climate change. These systems—which have long provided us with clean air, clean water, flood protection, and beautiful places to recreate—need our help. In the face of these urgent climate driven pressures, we must rapidly deliver natural infrastructure project dollars to protect biodiversity and thin forests, reintroduce fire as an ecosystem process, implement better water use technology on farms, and improve habitat in streams and wetlands. However, the current funding, financing, and implementation infrastructure is not in place to make this happen.
  
 With a clear-eyed view of these realities, we cannot simply hope that if we try harder within the structures of our conservation system, we’ll magically get bigger, faster, and better results. Instead of accepting good projects here and there as the best we can do, we must set quantifiable targets, intentionally organize our funding, tools, and partners around delivering the projects that can best achieve those targets, and harness the power of finance and capital to catapult projects forward. Simply put, we need a system capable of adding one or two more zeros worth of project areas (and funds supporting them) in each watershed, or we’ll never catch up.
  
@@ -35,13 +35,13 @@ The traditional, project-by-project, partner-by-partner approach to funding and 
 stakeholder groups are left in the middle trying to piece together funds to implement a fraction of the needed projects. The urgency of climate change demands that we more rapidly secure, prioritize, and deploy much more funding. Doing that will require a replicable partnership and a leveraged co-funding structure.
 
 **Solution**<br>
-A Watershed Outcomes Bank (WOB) framework responds to all these practical challenges. Watershed-scale resilience can be achieved by leveraging siloed funding sources, targeting those coordinated funds to high-impact projects across a watershed, simplifying and making more certain the delivery of those funds to partners, and linking together projects throughout a watershed across isolated land management units.
+A Watershed Outcomes Bank (WOB) framework responds to all these practical challenges. Watershed-scale resilience can be achieved by leveraging siloed funding sources, targeting those coordinated funds to high-impact projects across a watershed, simplifying and making more certain the delivery of those funds to partners, and linking projects throughout a watershed across isolated land management units.
 
 ![wob](/figures/wob.png)
 
 **Framework**
-1. Quantifies regional watershed/landscape resilience targets.
-2. Quantifies potential watershed resilience project benefits or values from a variety of project types that can generate those
+1. Quantify regional watershed/landscape resilience targets.
+2. Quantify potential watershed resilience project benefits or values from a variety of project types that can generate those
 benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurposing leading to water replenishment, carbon sequestration, and economic uplift).
 3. Identifies the most cost-effective cross-watershed resilience solution to pursue.
 4. Helps organize partner efforts around that optimal solution and then integrates priority project identification, planning, permitting, and coordinated pursuit of funding into an action plan.
@@ -49,7 +49,7 @@ benefits (e.g., forest thinning, irrigation upgrades, agricultural land repurpos
 6. Helps centralize mechanisms for implementation to meet desired large-scale restoration efforts.
 7. Tracks/manages all projects, reimbursement, accounting, and reporting in a centralized database.
 
-**Landscape funding**<br>
+**Landscape funding & financing**<br>
 A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps, creates cash at the right times for landowners, suppliers, and partners, and allows projects to be deployed quicker without timing, cashflow, or operational uncertainties. 
 ```
 
