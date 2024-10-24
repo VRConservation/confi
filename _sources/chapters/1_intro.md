@@ -21,7 +21,7 @@ Conservation finance offers an emerging approach to securing long-term, predicta
 ## Why this book?
 Some innovative finance strategies and case studies are described across the professional and academic press. However, in many cases, this information is either tailored to an audience with previous finance expertise or is captured in disparate articles that do not provide a single point of reference. In most instances, publications are focused on urban water infrastructure, although there are some well-documented conservation finance cases.  This web-accessible book is intended to serve as a concise yet comprehensive introduction focused on conservation finance. It is particularly intended for an land managers, public agencies, nonprofits, municipalities, and other individuals without specific expertise in project finance.
 
-Whereas other publications and the focus of impact finance focus on social investment and infrastructure, this book focuses on examples and cases of natural resource management, forest health, water infrastructure, and watershed restoration.
+While other publications and the focus of impact finance focus on social investment and infrastructure, this book focuses on examples and cases of natural resource management, forest health, water infrastructure, and watershed restoration.
 
 ## Chapters
 After the Forward, the book contains the following chapters:
@@ -36,9 +36,9 @@ After the Forward, the book contains the following chapters:
 
 **5. Water**. Examples and cases from water and stormwater management that are instructive for conservation finance.
 
-**6. Roadmap**. A roadmap for moving conservation to scale.
+**6. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
 
-**7. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
+**7. Roadmap**. A roadmap for moving conservation to scale.
 
 ## Acknowledgements
 The authors offer particular thanks to Jonas Epstein (USFS), JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit Resource Conservation Districts ), Michelle Wolfgang (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback, and ideas.
