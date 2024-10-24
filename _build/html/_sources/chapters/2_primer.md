@@ -68,7 +68,7 @@ Combining all these actors into a financing package keyed to a natural infrastru
 
 In 2017, Quantified Ventures and the District of Columbia’s Department of Water and Sewer (DC Water) launched the nation’s first environmental impact bond focused on implementing green infrastructure to reduce sewage overflows and flooding {cite}`dc`. This outcomes-based investment package tied the rate investors earned to achieving specified environmental performance goals. The investment package structure linked DC Water to private bond buyers ({numref}`qv`). The structure used by Quantified Ventures, DC Water, and their investors follows the track illustrated below. The role of the third-party evaluator is noteworthy in this outcomes-based repayment scheme. Five years after launching the project, the evaluator confirmed that stormwater runoff had been reduced by nearly 20%, a level that met the bond’s base-level repayment criteria ({cite}`qv`).
 
-```{image} /figures/qv.png
+```{figure} /figures/qv.png
 :height: 400px
 :name: qv
 Quantified ventures impact finance bond with DC Water.
@@ -76,7 +76,7 @@ Quantified ventures impact finance bond with DC Water.
 
 Blue Forest's Forest Resilience Bond adopts a somewhat different approach ({numref}`bluef`). The Bond, more of a revolving loan instrument, is not strictly an outcomes-based financing strategy. The project payor, Yuba Water Agency, makes payments to investors unrelated to achieving any of the project’s many benefits. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the Agency’s funding.
 
-```{image} /figures/bluef.png
+```{figure} /figures/bluef.png
 :height: 400px
 :name: bluef
 Forest resilience bond entities (adapted from Blue Forest)
