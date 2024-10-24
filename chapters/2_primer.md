@@ -66,12 +66,12 @@ forms of support.
 
 Combining all these actors into a financing package keyed to a natural infrastructure project may be less straightforward than the pathway to traditional bond issuance and is certainly more complicated than simple cash pay-go approaches to capital improvements. Where simpler approaches to investing in infrastructure are available, it’s likely best for an agency to pursue those avenues. However, private finance can unstick projects long deferred in waiting for traditional finance opportunities or capital improvement budgets to provide enough cash. Private finance can also deliver projects that are larger in scale and have beneficial outcomes than can be supported with annual grants or budget cycles. It can be useful to look at the financing structures adopted by existing private investment models to understand better the interplay between investors, payors, and beneficiaries.
 
-In 2017, Quantified Ventures and the District of Columbia’s Department of Water and Sewer (DC Water) launched the nation’s first environmental impact bond focused on implementing green infrastructure to reduce sewage overflows and flooding {cite}`dc`. This outcomes-based investment package tied the rate investors earned to achieving specified environmental performance goals. The investment package structure linked DC Water to private bond buyers ({numref}`qv`). The structure used by Quantified Ventures, DC Water, and their investors follows the track illustrated below. The role of the third-party evaluator is noteworthy in this outcomes-based repayment scheme. Five years after launching the project, the evaluator confirmed that stormwater runoff had been reduced by nearly 20%, a level that met the bond’s base-level repayment criteria ({cite}`qv`).
+In 2017, Quantified Ventures and the District of Columbia’s Department of Water and Sewer (DC Water) launched the nation’s first environmental impact bond focused on implementing green infrastructure to reduce sewage overflows and flooding {cite}`dc`. This outcomes-based investment package tied the rate investors earned to achieving specified environmental performance goals. The investment package structure linked DC Water to private bond buyers ({numref}`qv`). The structure used by Quantified Ventures, DC Water, and their investors follows the track illustrated below. The role of the third-party evaluator is noteworthy in this outcomes-based repayment scheme. Five years after launching the project, the evaluator confirmed that stormwater runoff had been reduced by nearly 20%, a level that met the bond’s base-level repayment criteria {cite}`qv`.
 
 ```{figure} /figures/qv.png
 :height: 250px
 :name: qv
-Quantified ventures impact finance bond with DC Water.
+Adapted Quantified Ventures impact finance bond graphic.
 ```
 
 Blue Forest's Forest Resilience Bond adopts a somewhat different approach ({numref}`bluef`). The Bond, more of a revolving loan instrument, is not strictly an outcomes-based financing strategy. The project payor, Yuba Water Agency, makes payments to investors unrelated to achieving any of the project’s many benefits. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the Agency’s funding.
@@ -79,7 +79,7 @@ Blue Forest's Forest Resilience Bond adopts a somewhat different approach ({numr
 ```{figure} /figures/bluef.png
 :height: 250px
 :name: bluef
-Forest resilience bond entities (adapted from Blue Forest)
+Forest resilience bond entities. Blue=investment flows, green=return, red=agreement (adapted from Blue Forest).
 ```
 
 In the above diagram, the investors (Calvert Impact Capital, AAA Insurance, and others) provide up-front capital by paying into the Forest Resilience Bond. This aggregate fund, administered by the National Forest Foundation, pays contractors and local NGOs to plan and deliver forest and watershed restoration activities. Once completed, Yuba Water Agency (the beneficiary) repays implementation costs to the fund, which repays the investors.
