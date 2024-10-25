@@ -73,7 +73,7 @@ Training a workforce to work in the woods is a critical current and future need.
 ```
 
 ## Parting Thoughts
-Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight. However, future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States ({numref}`thin`).
+Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight. However, future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States such as strategic thinning followed by prescribed fire treatments across the landscape ({numref}`thin`).
 
 ```{figure} /figures/thin.png
 :name: thin
