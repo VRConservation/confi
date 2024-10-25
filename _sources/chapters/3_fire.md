@@ -5,17 +5,13 @@
 ## Caldor
 In April 2015, I drove up California Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here were great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.
 
-![nps](https://i.imgur.com/qzcAsxl.png)
-
-Six years later, a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. Over half of the burned acres were classified as high or very high severity. Three years later, logs from the fire are still being processed at the new Tahoe Forest Products mill in Carson City.
-
 ```{image} /figures/caldor.png
 :height: 400px
 :name: caldor
 ```
-
 <span style="font-size: 9px;">Photo credit: Noah Berger/AP</span>
 
+Six years later, a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. Over half of the burned acres were classified as high or very high severity. Three years later, logs from the fire are still being processed at the new Tahoe Forest Products sawmill in Carson City.
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, funding, and environmental compliance.[^1]
 
@@ -86,4 +82,4 @@ Thinned mixed conifer forest showing hetergeneous stand structure.
 
 ---
 Endnotes
-[^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
+[^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
