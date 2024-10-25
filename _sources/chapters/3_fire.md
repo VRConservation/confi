@@ -2,8 +2,6 @@
 
 **Tinderbox to Treatment: Leveraging forest restoration funds**
 
-![bhc thinning](https://i.imgur.com/RYUp8iq.png)
-
 ## Caldor
 In April 2015, I drove up California Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here were great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.
 
@@ -79,10 +77,12 @@ Training a workforce to work in the woods is a critical current and future need.
 ```
 
 ## Parting Thoughts
-Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight. However, future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States.
+Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight. However, future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States ({numref}`thin`).
 
-
-![pine](/figures/pinebanner.png)
+```{figure} /figures/thin.png
+:name: thin
+Thinned mixed conifer forest showing hetergeneous stand structure.
+```
 
 ---
 Endnotes
