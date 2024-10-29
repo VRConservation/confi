@@ -32,13 +32,11 @@ After the Forward, the book contains the following chapters:
 
 **3. Fire**. How conservation finance applies to fire and forest health.
 
-**4. NFF**. Placeholder for NFF Chapter
+**4. Water**. Examples and cases from water and stormwater management that are instructive for conservation finance.
 
-**5. Water**. Examples and cases from water and stormwater management that are instructive for conservation finance.
+**5. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
 
-**6. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
-
-**7. Roadmap**. A roadmap for moving conservation to scale.
+**6. Roadmap**. A roadmap for moving conservation to scale.
 
 ## Acknowledgements
 The authors offer particular thanks to Jonas Epstein (USFS), JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit Resource Conservation Districts ), Michelle Wolfgang (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback, and ideas.

@@ -9,10 +9,9 @@ parts:
       - file: chapters/1_intro
       - file: chapters/2_primer
       - file: chapters/3_fire
-      - file: chapters/4_nff
-      - file: chapters/5_water
-      - file: chapters/6_barriers
-      - file: chapters/7_road
+      - file: chapters/4_water
+      - file: chapters/5_barriers
+      - file: chapters/6_road
   - caption: Appendices
     numbered: False
     chapters:
