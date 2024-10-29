@@ -77,7 +77,7 @@ Capacity, scale, and funding will not be the only items needed to change Califor
 
 ```{figure} /figures/thin.png
 :name: thin
-Thinned mixed conifer forest showing hetergeneous stand structure.
+Thinned mixed conifer forest showing open stand structure.
 ```
 
 ---
