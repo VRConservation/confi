@@ -82,7 +82,7 @@ Blue Forest's Forest Resilience Bond adopts a somewhat different approach ({numr
 Forest resilience bond entities. Blue=investment flows, green=return, red=agreement (adapted from Blue Forest).
 ```
 
-In {numref}`bluef`, the investors (e.g., Calvert Impact Capital, AAA Insurance) provide up-front capital by paying into the Forest Resilience Bond. This aggregate fund, administered by the National Forest Foundation, pays contractors and local NGOs to plan and deliver forest and watershed restoration activities. Once completed, Yuba Water Agency (the beneficiary) repays implementation costs to the fund, which repays the investors.
+Investors, such as Calvert Impact Capital and AAA Insurance, provide up-front capital by paying into the Forest Resilience Bond ({numref}`bluef`). This aggregate fund, administered by the National Forest Foundation, pays contractors and local NGOs to plan and deliver forest and watershed restoration activities. Once completed, Yuba Water Agency (the beneficiary) repays implementation costs to the fund, which repays the investors.
 
 ## Additional Cases
 In addition to the three examples mentioned above, other examples from innovative private financing showcase the flexibility and appeal of these strategies.
@@ -96,4 +96,4 @@ Several municipalities in California pioneered Enhanced Infrastructure Financing
 ```
 
 ## Parting thoughts
-These examples show the possibilities and benefits of creative strategies that bring private capital to support water infrastructure projects {cite}`biwi`. However, there are some challenges to securing private finance that have stymied broader acceptance of this approach–and more effort is needed to understand and reduce the impact of these obstacles. Some of the costs and challenges will be familiar to public utilities: lack of familiarity and capacity, uncertainty about how to measure outcomes best, or lack of established networks between utilities and investors. See Chapter 5 on Barriers for a more in-depth discussion.
+These examples show the possibilities and benefits of creative strategies that bring private capital to support water infrastructure projects {cite}`biwi`. However, there are some challenges to securing private finance that have stymied broader acceptance of this approach–and more effort is needed to understand and reduce the impact of these obstacles. Some of the costs and challenges will be familiar to public utilities: lack of familiarity and capacity, uncertainty about how to measure outcomes best, or lack of established networks between utilities and investors. See {ref}`Chapter 5` for a more in-depth discussion of these barriers to increased uptake and scaling of collaborative finance.
