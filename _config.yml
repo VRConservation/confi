@@ -1,9 +1,9 @@
 # Book settings
 
-title: Conservation Finance for NE CA
+title: Conservation Finance
 author: Vance Russell & Jeff Odefey
 copyright: "2024, Built with Jupyter Book"
-logo: lpogo.png
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 execute:
