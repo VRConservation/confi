@@ -1,12 +1,17 @@
 # Table of contents
 
 format: jb-book
-root: forward
+root: index
 parts:
-  - caption: Con Finance
+  - caption: Introduction
+    numbered: False
+    chapters:
+      - file: forward
+      - file: chapters/1_intro
+      - file: authors
+  - caption: Chapters
     numbered: True
     chapters:
-      - file: chapters/1_intro
       - file: chapters/2_primer
       - file: chapters/3_fire
       - file: chapters/4_water
@@ -15,5 +20,4 @@ parts:
   - caption: Appendices
     numbered: False
     chapters:
-      - file: authors
       - file: bibliography

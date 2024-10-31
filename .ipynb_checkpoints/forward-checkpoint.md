@@ -21,7 +21,7 @@ The deepening implications of global climate change are increasingly apparent in
 At the same time, storm pattern fluctuations generate floods that stretch or overwhelm existing flood management infrastructure and threaten human and natural communities. Responding to these and other challenges requires local, regional, and national intervention. It also requires innovation in the funding, financing, and governance strategies that the public and private sectors must use to plan, develop, and deploy climate resilience strategies.
 
 ## Nature-based solutions
-In response to these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to thin forests, implement better water-use technology on farms, and improve habitat in streams and wetlands. The following conservation finance case studies provide replicable examples of strategies that can enable the scaled implementation of nature-based solutions.
+In response to these urgent climate-driven pressures, we must rapidly deliver natural infrastructure project dollars to thin forests, implement better water-use technology on farms, and improve habitat in streams and wetlands. The following conservation finance case studies provide replicable examples of strategies enabling the scaled implementation of nature-based solutions.
 
 ```{admonition} Watershed Outcomes Bank Funding Model
 :class: dropdown
@@ -44,7 +44,7 @@ A Watershed Outcomes Bank (WOB) framework responds to all these practical challe
 7. Tracks/manages all projects, reimbursement, accounting, and reporting in a centralized database.
 
 **Landscape funding & financing**<br>
-A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps, creates cash at the right times for landowners, suppliers, and partners, and allows projects to be deployed quicker without timing, cashflow, or operational uncertainties. 
+A centralized and aggregated approach helps open the door for securing more funders to co-fund projects they might not otherwise consider and supports formal cross-partner fund matching. Consolidating funding into a central hub creates more conservation finance opportunities, which helps smooth out funding gaps, creates cash at the right times for landowners, suppliers, and partners, and allows projects to be deployed quicker without timing, cash flow, or operational uncertainties. 
 ```
 
 Despite their importance, projects intended to protect our communities and ecosystems are routinely and significantly underfunded until the inevitable disasters occur. As a result, taxpayers are often left to shoulder the relatively increased costs of reactive actions to respond to crises. Similarly, traditional approaches to community infrastructure, e.g., water supply systems, flood and stormwater management, and natural resource management, often need to be more suited to providing resilience in a changing climate. An alternative and more cost-effective approach favors up-front investments in actions that use natural processes to increase ecosystem and community resilience to climate change impacts.

@@ -4,7 +4,7 @@ Welcome to the Conservation Finance e-Book!
 ## Background
 Several articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources, Integrated Regional Water Management, and Disadvantaged Community Involvement Technical Assistance grant to the Yuba Water Agency. The resources created under that grant provided a foundation for additional collaboration between the authors of this e-book and for further developing conservation finance strategies in project areas across Northern California. Please see the initial report, [Because It's Worth It](http://gg.gg/1aut0n), and the [conservation finance issue briefs](https://srfadacip.com/docs) for additional complements to this book.
 
-To build on this effort, we updated and edited several original articles and added new chapters with additional collaborators. We hope to add new chapters, cases, and success stories as conservation finance evolves.
+We updated and edited several original articles and added new chapters with additional collaborators to build on this effort. We hope to add new chapters, cases, and success stories as conservation finance evolves.
 
 ## Conservation Finance
 Whether in the form of grants or capital budget allocations, public agency funding often fluctuates dramatically with political and financial currents. This long-term unpredictability often motivates businesses, nonprofits, and agencies to seek sustainable funding models and approaches to leverage public and private investments in natural resource conservation and infrastructure.
