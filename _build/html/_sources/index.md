@@ -1,4 +1,4 @@
-# Welcome to Conservation Finance!
+# Welcome!
 
 
 ![confi](cover.png)
