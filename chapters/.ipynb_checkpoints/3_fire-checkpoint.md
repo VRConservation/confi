@@ -2,22 +2,16 @@
 
 **Tinderbox to Treatment: Leveraging forest restoration funds**
 
-![bhc thinning](https://i.imgur.com/RYUp8iq.png)
-
 ## Caldor
 In April 2015, I drove up California Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here were great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.
-
-![nps](https://i.imgur.com/qzcAsxl.png)
-
-Six years later, a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. Over half of the burned acres were classified as high or very high severity. Three years later, logs from the fire are still being processed at the new Tahoe Forest Products mill in Carson City.
 
 ```{image} /figures/caldor.png
 :height: 400px
 :name: caldor
 ```
-
 <span style="font-size: 9px;">Photo credit: Noah Berger/AP</span>
 
+Six years later, a bullet strike near the Pollock Pines started the Caldor fire. It began slowly but rapidly gained in size due to high winds and fuel loads. Eventually burning over the Sierra crest, the fire burned 221,835 acres and destroyed 782 structures. Over half of the burned acres were classified as high or very high severity. Three years later, logs from the fire are still being processed at the new Tahoe Forest Products sawmill in Carson City.
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, funding, and environmental compliance.[^1]
 
@@ -29,7 +23,7 @@ Together with partners and a literature review, we created a simplified situatio
 Situation model of fire's impact on forested ecosystems and potential interventions to reduce impacts.
 ```
 
-Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire. Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. In effect, the results chain allows project managers to track their interventions to project objectives and, ultimately, goals. Simply put, the results chain acknowledges that thinning will decrease fuel loads and increase forest health. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
+Results chains link the interventions identified (and prioritized) in the situation model to interim and long-term results ({numref}`rc`). The treatments identified in the results chain focus on local-level interventions such as thinning, biomass utilization, and prescribed fire. Although based on widely agreed upon forest restoration interventions, the models explicitly show the links between wildfire, forest health, and beneficial outcomes and follow the conventions outlined by {cite:t}`measures`. The results chain effectively allows project managers to track their interventions to project objectives and, ultimately, goals. The results chain acknowledges that thinning will decrease fuel loads and increase forest health. For additional forest business & health examples of using these models programmatically, see {cite:t}`russell`.
 
 ```{figure} /figures/3-fire/rc.png
 :name: rc
@@ -75,15 +69,17 @@ Huge strides are being made through coordination at the state and local levels. 
 Training a workforce to work in the woods is a critical current and future need. Many community colleges are creating programs to address this for work as variable as forestry to truck driving. For example, Lake Tahoe Community College started a forestry program teaming with the California Conservation Corps and local agencies. Shasta College has an associate's degree in science in forest science and technology. 
 
 ```{admonition} California Conservation Corps
-“The CCC’s partnership with education institutions is extraordinarily beneficial and one we aim to replicate across the state. It’s a huge benefit to our Corps members, who get exposure to college and degree programs that can help them launch well-paying and meaningful careers in forestry and other fields. Together, we’re helping develop a highly-trained workforce.” California Conservation Corps Director, Bruce Saito
+“The CCC’s partnership with education institutions is extraordinarily beneficial and one we aim to replicate across the state. It’s a huge benefit to our Corps members, who get exposure to college and degree programs that can help them launch well-paying and meaningful careers in forestry and other fields. Together, we’re helping develop a highly-trained workforce.” Former California Conservation Corps Director, Bruce Saito
 ```
 
 ## Parting Thoughts
-Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight. However, future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States.
+Capacity, scale, and funding will not be the only items needed to change California and the West’s wildfire situation. Policy change, community health, increased private sector engagement, and more diversified equity and cultural approaches are needed to surmount this life-threatening situation. Volatile forest conditions will not change overnight. However, future disasters can be avoided by considering how existing and new approaches to mitigate adverse conditions can be exponentially ramped up and coordinated throughout the Western United States, such as strategic thinning followed by prescribed fire treatments across the landscape ({numref}`thin`).
 
-
-![pine](/figures/pinebanner.png)
+```{figure} /figures/thin.png
+:name: thin
+Thinned mixed conifer stand showing open stand structure.
+```
 
 ---
 Endnotes
-[^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Multi-agency and stakeholder coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.
+[^1]: Progress in permit streamlining and coordination for CEQA/NEPA compliance occurs through vehicles such as the California Vegetation Treatment Plan and the Cutting the Green Tape Initiative. Coordination at the state level for forest health is being led by California’s Wildfire and Forest Resilience Task Force.

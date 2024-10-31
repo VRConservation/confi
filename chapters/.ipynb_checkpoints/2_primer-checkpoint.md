@@ -66,13 +66,21 @@ forms of support.
 
 Combining all these actors into a financing package keyed to a natural infrastructure project may be less straightforward than the pathway to traditional bond issuance and is certainly more complicated than simple cash pay-go approaches to capital improvements. Where simpler approaches to investing in infrastructure are available, it’s likely best for an agency to pursue those avenues. However, private finance can unstick projects long deferred in waiting for traditional finance opportunities or capital improvement budgets to provide enough cash. Private finance can also deliver projects that are larger in scale and have beneficial outcomes than can be supported with annual grants or budget cycles. It can be useful to look at the financing structures adopted by existing private investment models to understand better the interplay between investors, payors, and beneficiaries.
 
-In 2017, Quantified Ventures and the District of Columbia’s Department of Water and Sewer (DC Water) launched the nation’s first environmental impact bond focused on implementing green infrastructure to reduce sewage overflows and flooding {cite}`dc`. This outcomes-based investment package tied the rate investors earned to achieving specified environmental performance goals. The investment package structure linked DC Water to private bond buyers. The structure used by Quantified Ventures, DC Water, and their investors follows the track illustrated below. The role of the third-party evaluator is noteworthy in this outcomes-based repayment scheme. Five years after launching the project, the evaluator confirmed that stormwater runoff had been reduced by nearly 20%, a level that met the bond’s base-level repayment criteria ({cite}`qv`).
+In 2017, Quantified Ventures and the District of Columbia’s Department of Water and Sewer (DC Water) launched the nation’s first environmental impact bond focused on implementing green infrastructure to reduce sewage overflows and flooding {cite}`dc`. This outcomes-based investment package tied the rate investors earned to achieving specified environmental performance goals. The investment package structure linked DC Water to private bond buyers ({numref}`qv`). The structure used by Quantified Ventures, DC Water, and their investors follows the track illustrated below. The role of the third-party evaluator is noteworthy in this outcomes-based repayment scheme. Five years after launching the project, the evaluator confirmed that stormwater runoff had been reduced by nearly 20%, a level that met the bond’s base-level repayment criteria {cite}`qv`.
 
-![qv](https://i.imgur.com/4CSz1UP.png)
+```{figure} /figures/qv2.png
+:height: 400px
+:name: qv
+Quantified Ventures environmental impact finance bond steps.
+```
 
-Blue Forest's Forest Resilience Bond adopts a somewhat different approach. The Bond, more of a revolving loan instrument, is not strictly an outcomes-based financing strategy. The project payor, Yuba Water Agency, makes payments to investors unrelated to achieving any of the project’s many benefits. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the Agency’s funding.
+Blue Forest's Forest Resilience Bond adopts a somewhat different approach ({numref}`bluef`). The Bond, more of a revolving loan instrument, is not strictly an outcomes-based financing strategy. The project payor, Yuba Water Agency, makes payments to investors unrelated to achieving any of the project’s many benefits. The structure adopted by Blue Forest enables the creation of a portfolio of investors and funders who repay and complement the Agency’s funding.
 
-![ifb](https://i.imgur.com/uNOuEG3.png)
+```{figure} /figures/bluef.png
+:height: 300px
+:name: bluef
+Forest resilience bond entities. Blue=investment flows, green=return, red=agreement (adapted from Blue Forest).
+```
 
 In the above diagram, the investors (Calvert Impact Capital, AAA Insurance, and others) provide up-front capital by paying into the Forest Resilience Bond. This aggregate fund, administered by the National Forest Foundation, pays contractors and local NGOs to plan and deliver forest and watershed restoration activities. Once completed, Yuba Water Agency (the beneficiary) repays implementation costs to the fund, which repays the investors.
 
@@ -80,7 +88,7 @@ In the above diagram, the investors (Calvert Impact Capital, AAA Insurance, and 
 In addition to the three examples mentioned above, other experiences with innovative private financing showcase the flexibility and appeal of these strategies.
 
 ```{admonition} Corvias
-Corvias, a leading developer of private-public partnerships, built on its success in Prince George’s County, Maryland, with the Fresh Coast Protection Program launch with the Milwaukee Metropolitan Sewerage District. Through this program, the partnership secured $75 million in financing, providing resources enabling Corvias to design and construct green infrastructure projects to help MMSD meet its regulatory goals. The outcomes-based partnership commits the District to pay a fixed cost per gallon to Corvias, with the ultimate target of installing 8.45 million gallons of stormwater retention capacity.
+Corvias, a leading developer of private-public partnerships, built on its success in Prince George’s County, Maryland, with the launch of the Fresh Coast Protection Program with the Milwaukee Metropolitan Sewerage District. Through this program, the partnership secured $75 million in financing, providing resources enabling Corvias to design and construct green infrastructure projects to help MMSD meet its regulatory goals. The outcomes-based partnership commits the District to pay a fixed cost per gallon to Corvias, with the ultimate target of installing 8.45 million gallons of stormwater retention capacity.
 ```
 
 These examples show the possibilities and benefits of creative strategies that bring private capital to support water infrastructure projects {cite}`biwi`. Nevertheless, there are exceptions to the normal pathways water agencies and municipal governments take to finance such projects. There are some challenges to securing private finance that have stymied broader acceptance of this approach – and more effort is needed to understand and reduce the impact of these obstacles. Institutions like the Conservation Finance Network are commendable resources for cultivating knowledge about financing, highlighting best practices, and sharing notable experiences with a wide audience.
@@ -89,4 +97,5 @@ These examples show the possibilities and benefits of creative strategies that b
 Several municipalities in California pioneered Enhanced Infrastructure Financing Districts to leverage the value of infrastructure improvements as collateral for obtaining the resources to implement these projects. Using tax increment financing, this approach allows water agencies and municipal governments to issue bond debt for projects that future increases in property tax revenue will repay.
 ```
 
+## Parting thoughts
 This is not to say that pursuing these approaches to private finance is challenge-free. Some of the costs and challenges will be familiar to public utilities and experience with bond preparation and issuance for capital projects. Considering outcomes-based finance or similar approaches adds some new issues: lack of familiarity and capacity, uncertainty about how to measure outcomes best, and lack of established networks between utilities and investors, to name but a few. The authors of this paper discuss significant impediments and pathways to reduce them in a separate issue brief.
