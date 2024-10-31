@@ -11,7 +11,7 @@ In April 2015, I drove up California Highway 50 along the American River Canyon 
 ```
 <span style="font-size: 9px;">Photo credit: Noah Berger/AP</span>
 
-Six years later, the forest needed just one spark to explode the Caldor Fire, affecting 221,835 acres across three counties and destroying more than 1,000 structures over 68 days [CAL FIRE, 2021](https://www.fire.ca.gov/incidents/2021/8/14/caldor-fire). Over half the burned acres were classified as high or very high severity and destroyed 782 structures. 
+Six years later, the forest needed just one spark to explode the Caldor Fire, which affected 221,835 acres across three counties over 68 days [CAL FIRE, 2021](https://www.fire.ca.gov/incidents/2021/8/14/caldor-fire). Over half the burned acres were classified as high or very high severity.
 
 Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, funding, and environmental compliance.[^1]
 
@@ -51,7 +51,7 @@ Following the Caldor Fire, CAL FIRE awarded the El Dorado Resource Conservation 
 
 ```{admonition} Let it burn
 :class: dropdown
-Future fire threats are mainly in the wildland urban interface {cite}`firetech`.Prescribed fire and letting wildfires far away from communities burn may be the most critical way to scale forest health restoration and reduce costs associated with fire suppression. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
+Future fire threats are mainly in the wildland-urban interface {cite}`firetech.`Prescribed fire and letting wildfires far away from communities burn may be the most critical way to scale forest health restoration and reduce costs associated with fire suppression. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
 
 ![matrix](/figures/matrix.png)
 ```
