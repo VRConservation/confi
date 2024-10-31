@@ -1,3 +1,4 @@
+(Chapter5)=
 # Barriers
 
 **Navigating real and perceived impediments to conservation finance**
@@ -5,8 +6,6 @@
 ![flooded](https://i.imgur.com/iUQXVyB.png)
 
 Photo: Rich Walkling
-
-(Chapter 5)=
 
 ## Background
 The pathway to adopting an outcomes-based financing solution promises many natural infrastructure projects, but it is paved with many barriers, obstacles, and challenges. Understanding these and discerning between the challenges that can be addressed, obstacles that can be reduced, and barriers that need to be avoided can be critically important for the local proponents of any project.
