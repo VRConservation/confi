@@ -1,5 +1,6 @@
 # Introduction
-Welcome to the Conservation Finance e-Book! 
+
+**Conservation Finance: Towards a new model for landscape restoration**
 
 ## Background
 Several articles in this book and the underlying pilot project were originally supported by a California Department of Water Resources, Integrated Regional Water Management, and Disadvantaged Community Involvement Technical Assistance grant to the Yuba Water Agency. The resources created under that grant provided a foundation for additional collaboration between the authors of this e-book and for further developing conservation finance strategies in project areas across Northern California. Please see the initial report, [Because It's Worth It](http://gg.gg/1aut0n), and the [conservation finance issue briefs](https://srfadacip.com/docs) for additional complements to this book.
@@ -24,19 +25,17 @@ Some innovative finance strategies and case studies are described across the pro
 While other publications and the focus of impact finance focus on social investment and infrastructure, this book focuses on examples and cases of natural resource management, forest health, water infrastructure, and watershed restoration.
 
 ## Chapters
-After the Forward, the book contains the following chapters:
+The book contains the following chapters:
 
-**1. Introduction**. This chapter and the book's introduction.
+**1. Primer**. A description of conservation finance, including examples and cases.
 
-**2. Primer**. Introduces conservation finance and provides examples and cases.
+**2. Fire**. An analysis of applying conservation finance to forest health and fire mitigation.
 
-**3. Fire**. How conservation finance applies to fire and forest health.
+**3. Water**. Examples and cases from water and stormwater management that are instructive for conservation finance.
 
-**4. Water**. Examples and cases from water and stormwater management that are instructive for conservation finance.
+**4. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
 
-**5. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
-
-**6. Roadmap**. A roadmap for moving conservation to scale.
+**5. Roadmap**. A roadmap for moving conservation finance from bespoke pilots to scale.
 
 ## Acknowledgements
 The authors offer particular thanks to Jonas Epstein (USFS), JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit Resource Conservation Districts ), Michelle Wolfgang (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback, and ideas.
