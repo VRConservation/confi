@@ -1,6 +1,6 @@
 # Fire
 
-**Tinderbox to Treatment: Leveraging forest restoration funds**
+**Tinderbox to Treatment: Leveraging forest health funds to mitigate wildfire**
 
 ## Caldor
 In April 2015, I drove up California Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here were great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.

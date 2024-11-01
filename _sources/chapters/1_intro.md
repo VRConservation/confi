@@ -27,15 +27,15 @@ While other publications and the focus of impact finance focus on social investm
 ## Chapters
 The book contains the following chapters:
 
-**1. Primer**. Introduces conservation finance and provides examples and cases.
+**1. Primer**. A description of conservation finance, including examples and cases.
 
-**2. Fire**. How conservation finance applies to fire and forest health.
+**2. Fire**. An analysis of applying conservation finance to forest health and fire mitigation.
 
 **3. Water**. Examples and cases from water and stormwater management that are instructive for conservation finance.
 
 **4. Barriers**. The barriers to conservation finance, in particular, getting beyond their challenges to implement conservation finance at scale.
 
-**5. Roadmap**. A roadmap for moving conservation to scale.
+**5. Roadmap**. A roadmap for moving conservation finance from bespoke pilots to scale.
 
 ## Acknowledgements
 The authors offer particular thanks to Jonas Epstein (USFS), JoAnna Lessard (Yuba Water Agency,) Todd Sloat (Hat Creek Lumber), Sharmie Stevenson (Fall River & Pit Resource Conservation Districts ), Michelle Wolfgang (USFS), Madison Kirshner (USFS), and Regine Miller (Headwaters Environmental, Inc.) for their input, feedback, and ideas.
