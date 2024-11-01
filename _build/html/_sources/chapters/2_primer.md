@@ -88,10 +88,12 @@ Investors, such as Calvert Impact Capital and AAA Insurance, provide up-front ca
 In addition to the three examples mentioned above, other examples from innovative private financing showcase the flexibility and appeal of these strategies.
 
 ```{admonition} Corvias
+:class: dropdown
 Corvias, a leading developer of private-public partnerships, built on its success in Prince George’s County, Maryland, with the Fresh Coast Protection Program launch with the Milwaukee Metropolitan Sewerage District. Through this program, the partnership secured $75 million in financing, providing resources enabling Corvias to design and construct green infrastructure projects to help MMSD meet its regulatory goals. The outcomes-based partnership commits the District to pay a fixed cost per gallon to Corvias, with the ultimate target of installing 8.45 million gallons of stormwater retention capacity.
 ```
 
 ```{admonition} EIFDs
+:class: dropdown
 Several municipalities in California pioneered Enhanced Infrastructure Financing Districts to leverage the value of infrastructure improvements as collateral for obtaining the resources to implement these projects. Using tax increment financing, this approach allows water agencies and municipal governments to issue bond debt for projects that future increases in property tax revenue will repay.
 ```
 
