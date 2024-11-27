@@ -1,6 +1,6 @@
 # Fire
 
-**Tinderbox to Treatment: Leveraging forest restoration funds**
+**Tinderbox to Treatment: Leveraging forest health funds to mitigate wildfire**
 
 ## Caldor
 In April 2015, I drove up California Highway 50 along the American River Canyon to the Horsetail Falls trailhead to climb Pyramid Peak. There were still patches of snow on the ground, and the water coming down the falls was gushing, making for scenic views up the canyon. While still hiking up through the mixed conifer stands on the trail, I noticed how dense the forest was with small-diameter trees. I left the trailhead briefly, walked through the pines and firs, and was struck by the understory's excessive accumulation of downed wood. It was scary and surprisingly dry at this point in the spring. These conditions were due to a century of fire suppression and drought conditions. The chances for severe wildfire here were great. A similar pattern exists in nearly every forested system of the Sierra Nevada mountains.
@@ -13,7 +13,18 @@ In April 2015, I drove up California Highway 50 along the American River Canyon 
 
 Six years later, the forest needed just one spark to explode the Caldor Fire, which affected 221,835 acres across three counties over 68 days [CAL FIRE, 2021](https://www.fire.ca.gov/incidents/2021/8/14/caldor-fire). Over half the burned acres were classified as high or very high severity.
 
-Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, funding, and environmental compliance.[^1]
+Reducing these harmful conditions will require forest health solutions that integrate communities, infrastructure, ecological thinning, and responsible biomass utilization, which are critical to reducing the negative impacts that unhealthy forested systems pose. Addressing unnatural conditions due to past forest and fire management regimes is a massive undertaking, already garnering billions of dollars from state and federal resources and countless organizational resources. However, getting to the scale needed is challenging due to localized environmental conditions, organizational capacity, funding, and environmental compliance.[^1] One project addressing forest health at scale is the Health Eldorado Landscape Partnership (see pulldown).
+
+```{admonition} Healthy Eldorado Landscape Partnership
+:class: dropdown
+
+The Healthy Eldorado Partnership or [HELP](https://www.healthyeldorado.org) is intended to bolster the Eldorado National Forest Resilience Strategy while taking aim at the impediments standing in the way of landscape-scale restoration. Originally conceived by leadership and partners on the forest to create a prioritized project shelf, the partnership also aimed to leverage public funding with private investment through conservation finance mechanisms. HELP takes a collaborative approach to planning to ensure that all stakeholders are involved in the decision-making process. 
+
+“We talk a lot about avoided cost,” said Sabrina Chui, project associate for Blue Forest, a HELP collaborator in the Conservation Finance Workgroup. “Because if you've done the work, when fire comes, instead of getting a high-severity fire, you’ll likely get a low- to moderate-severity fire. With avoided costs—avoided damage to infrastructure and power lines and increased hydropower generation—the investors give dollars to the landscape and reap it back in terms of reduced risk and additional water.”
+
+The HELP partnership has 25 partners and has raised over $20 million in funding across the landscape. Future efforts include leveraging public and private funds through a Conservation Outcomes Bank, quantifying forest health outcomes, and identifying a pipeline of projects for prioritized funding.
+
+```
 
 ## Theory of change
 Together with partners and a literature review, we created a simplified situation model connecting uncharacteristic fire results from fire suppression on public and private lands exacerbated by climate change ({numref}`model`). The situation model acts as a theory of change and reads from right to left where the forested ecosystems are impacted by stressors such as disease, fuel load accumulation, and increased wildfire size & severity. Those stressors are impacted by threats such as fire suppression and greenhouse gas emissions. The yellow boxes are proposed interventions to reduce those threats, including thinning, prescribed fire, and increased funding for wood utilization.
