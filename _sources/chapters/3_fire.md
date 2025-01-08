@@ -18,11 +18,11 @@ Reducing these harmful conditions will require forest health solutions that inte
 ```{admonition} Healthy Eldorado Landscape Partnership
 :class: dropdown
 
-The Healthy Eldorado Partnership or [HELP](https://www.healthyeldorado.org) is intended to buttress the Eldorado National Forest Resilience Strategy while taking aim at the impediments standing in the way of landscape-scale restoration. Originally conceived by leadership and partners on the forest to create a prioritized project shelf, the partnership also aimed to leverage public funding with private investment through conservation finance mechanisms. HELP takes a collaborative approach to planning to ensure that all stakeholders are involved in the decision-making process. 
+The Healthy Eldorado Partnership or [HELP](https://www.healthyeldorado.org) is intended to bolster the Eldorado National Forest Resilience Strategy while taking aim at the impediments standing in the way of landscape-scale restoration. Originally conceived by leadership and partners on the forest to create a prioritized project shelf, the partnership also aimed to leverage public funding with private investment through conservation finance mechanisms. HELP takes a collaborative approach to planning to ensure that all stakeholders are involved in the decision-making process. 
 
-“We talk a lot about avoided cost,” said Sabrina Chui, project associate for Blue Forest, a HELP collaborator in the Conservation Finance Workgroup. “Because if you've done the work, when fire comes, instead of getting a high-severity fire, you’ll likely get a low- to moderate-severity fire. And so with avoided costs—avoided damage to infrastructure and power lines and increased hydropower generation—the beneficiaries give dollars to the landscape. And they reap it back in terms of reduced risk and additional water.”
+“We talk a lot about avoided cost,” said Sabrina Chui, project associate for Blue Forest, a HELP collaborator in the Conservation Finance Workgroup. “Because if you've done the work, when fire comes, instead of getting a high-severity fire, you’ll likely get a low- to moderate-severity fire. With avoided costs—avoided damage to infrastructure and power lines and increased hydropower generation—the investors give dollars to the landscape and reap it back in terms of reduced risk and additional water.”
 
-The HELP partnership now has 25 partners and has raised more than $20 million in funding across the landscape. Future efforts include leverage public and private funds through a Conservation Outcomes Bank, quantifying forest health outcomes, and identifying a pipeline of projects for prioritized funding.
+The HELP partnership has 25 partners and has raised over $20 million in funding across the landscape. Future efforts include leveraging public and private funds through a Conservation Outcomes Bank, quantifying forest health outcomes, and identifying a pipeline of projects for prioritized funding.
 
 ```
 
