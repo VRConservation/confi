@@ -1,4 +1,4 @@
 # Welcome!
 
 
-![confi](cover.png)
+![confi](cover2.png)
