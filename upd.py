@@ -1,3 +1,4 @@
+# updates all the chapters in the book and pushes to GitHub
 import os
 import subprocess
 
@@ -12,7 +13,7 @@ subprocess.run(["jb", "build", "--all", "."], check=True)
 
 # Push and sync the repository to GitHub make sure to change the 'Update repo' message
 subprocess.run(["git", "add", "."], check=True)
-subprocess.run(["git", "commit", "-m", "update gg.gg short links in bib"], check=True)
+subprocess.run(["git", "commit", "-m", "edits"], check=True)
 subprocess.run(["git", "push"], check=True)
 
 
@@ -29,3 +30,5 @@ command_brave = f'start brave "{file_path}"'
 
 # Execute the command in Brave. Use command_chrome for Chrome
 subprocess.run(command_brave, shell=True)  # Use command_chrome for Chrome
+
+# if dns erased the website is confinance.info
