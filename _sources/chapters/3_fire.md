@@ -62,7 +62,7 @@ Following the Caldor Fire, CAL FIRE awarded the El Dorado Resource Conservation 
 
 ```{admonition} Let it burn
 :class: dropdown
-Future fire threats are mainly in the wildland-urban interface {cite}`firetech.`Prescribed fire and letting wildfires far away from communities burn may be the most critical way to scale forest health restoration and reduce costs associated with fire suppression. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
+Future fire threats are mainly in the wildland-urban interface {cite}`firetech`. Prescribed fire and letting wildfires far away from communities burn may be the most critical way to scale forest health restoration and reduce costs associated with fire suppression. The fire burn matrix below shows a decision framework for allowing fires of low to medium intensity to burn in the wilderness and remote areas of the wildland-urban interface (WUI). The prescribed fire (Rx) continuum depicted in the figure shows where more prescribed fire and thinning should be applied to reduce the risk of dangerous fires near urban areas. The orange to red areas of the matrix are prioritized situations to suppress wildfire {cite}`russellholst`.
 
 ![matrix](/figures/matrix.png)
 ```
